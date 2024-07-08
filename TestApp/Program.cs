@@ -4,15 +4,17 @@ class Sample
 {
     static void Main()
     {
-        for(int i = 1; i <=5; i++)
-        {
-            for(int j = 1; j <=i; j++)
-            {
-                System.Console.Write(j);
-                System.Console.Write(" ");
-            }
-            System.Console.WriteLine();
-        }
+        System.Console.WriteLine("USA");
+        System.Console.WriteLine("UK");
+        System.Console.WriteLine("India");
+        goto mylabel;
+        System.Console.WriteLine("France");
+        System.Console.WriteLine("Italy");
+        System.Console.WriteLine("Iran");
+        mylabel:
+        System.Console.WriteLine("Nepal");
+        System.Console.WriteLine("Dubai");
+       
         System.Console.ReadKey();
     }
 }
