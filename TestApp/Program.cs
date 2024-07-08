@@ -4,10 +4,14 @@ class Sample
 {
     static void Main()
     {
-        for(int i = 0; i < 10; i++)
+        for(int i = 1; i <=5; i++)
         {
-            if (i == 5) continue;
-            System.Console.WriteLine(i);
+            for(int j = 1; j <=i; j++)
+            {
+                System.Console.Write(j);
+                System.Console.Write(" ");
+            }
+            System.Console.WriteLine();
         }
         System.Console.ReadKey();
     }
