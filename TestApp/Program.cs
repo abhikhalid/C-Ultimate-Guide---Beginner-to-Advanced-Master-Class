@@ -4,20 +4,29 @@ class Sample
 {
     static void Main()
     {
-        char gradeLetter = 'A';
-        string gradeDescription;
-
-        switch (gradeLetter)
+        // 1 to 10
+        int i = 1;
+        while (i <= 10)
         {
-            case 'O': gradeDescription = "Outstanding"; break;
-            case 'A': gradeDescription = "Excellent"; break;
-            case 'B': gradeDescription = "Good"; break;
-            case 'C': gradeDescription = "Average"; break;
-            case 'F': gradeDescription = "Fail"; break;
-            default: gradeDescription = "None"; break;
+            System.Console.WriteLine(i + "");
+            i++;
         }
 
-        System.Console.WriteLine(gradeDescription);
+        // 9 to 0
+        i = 9;
+        while (i >= 0)
+        {
+            System.Console.WriteLine(i + "");
+            i--;
+        }
+
+        i = 9;
+        do 
+        {
+            System.Console.WriteLine(i + "");
+            i--;
+        }while (i >= 0);
+
         System.Console.ReadKey();
     }
 }
