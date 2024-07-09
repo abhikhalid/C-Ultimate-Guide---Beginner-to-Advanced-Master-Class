@@ -45,7 +45,7 @@
         product3.SetQunatityInStock(800);
 
         //call methods
-        product1.CalculateTax(9.2);
+        product1.CalculateTax(percentage:9.2); //named arguments
         product2.CalculateTax(7.4);
         product3.CalculateTax();
 
