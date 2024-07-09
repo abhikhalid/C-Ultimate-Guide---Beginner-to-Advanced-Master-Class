@@ -94,7 +94,7 @@ public class Product
     // method
     // cost <=2000 then tax = 10%
     // cost > 20000 then tax = 12.5%
-    public void CalculateTax(double percentage)
+    public void CalculateTax(double percentage = 4.5)
     {
         //create local variable
         double t;

@@ -45,8 +45,8 @@
         product3.SetQunatityInStock(800);
 
         //call methods
-        product1.CalculateTax();
-        product2.CalculateTax();
+        product1.CalculateTax(9.2);
+        product2.CalculateTax(7.4);
         product3.CalculateTax();
 
         //get values from fields
