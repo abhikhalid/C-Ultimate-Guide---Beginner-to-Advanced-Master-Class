@@ -48,8 +48,8 @@
         //double q = 9.2;
         //product1.CalculateTax(percentage: ref q); //named arguments
         //double t = 7.4;
-        double t;
-        product2.CalculateTax(out t);
+        //double t;
+        product2.CalculateTax(out double t); // out variable declaration
         System.Console.WriteLine("t"+t);
         //product3.CalculateTax();
 
