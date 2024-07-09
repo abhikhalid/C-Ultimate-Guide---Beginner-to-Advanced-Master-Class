@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{34DF8ABA-7A83-4727-9BEE-B50AFCD74C81}</ProjectGuid>
+    <ProjectGuid>{8DB0407A-D864-4171-9E30-6FDAF603C386}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>TestApp</RootNamespace>
-    <AssemblyName>TestApp</AssemblyName>
+    <RootNamespace>Section_3_Bank_Project_Getting_Started</RootNamespace>
+    <AssemblyName>Section_3_Bank_Project_Getting_Started</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
