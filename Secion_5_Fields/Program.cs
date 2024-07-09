@@ -54,6 +54,8 @@ class Sample
         int totalQuantity = product1.quantityInStock + product2.quantityInStock + product3.quantityInStock;
         System.Console.WriteLine("Total Quantity", totalQuantity);
         System.Console.WriteLine("Total no. of products:" + Product.TotalNoProducts); // 3
+        System.Console.WriteLine("Category of products:" + Product.CategoryName); // Output: Computers
+
 
         //TO DO: Find out the highes cost of the three product
 

@@ -7,6 +7,7 @@
     public double cost;
     public int quantityInStock;
     public static int TotalNoProducts;
+    public const string CategoryName = "Computer";
 
     public void Method()
     {
