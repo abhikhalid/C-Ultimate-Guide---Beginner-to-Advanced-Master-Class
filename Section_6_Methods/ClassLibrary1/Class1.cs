@@ -94,7 +94,7 @@ public class Product
     // method
     // cost <=2000 then tax = 10%
     // cost > 20000 then tax = 12.5%
-    public void CalculateTax()
+    public void CalculateTax(double percentage)
     {
         //create local variable
         double t;
@@ -105,7 +105,7 @@ public class Product
         }
         else
         {
-            t = this.cost * 12.5 / 1000;
+            t = this.cost * percentage / 1000;
         }
         this.tax = t;
     }
@@ -119,5 +119,11 @@ public class Product
     public static int GetTotalNoOfProducts()
     {
         return TotalNoProducts;
+    }
+
+    //static method: Calculates Total Quantity
+    public static int GetTotalQuantity(Product product1, Product product2, Product product3)
+    {
+        return product1.GetQuantityInStock() + product2.GetQuantityInStock() + product3.GetQuantityInStock();
     }
 }
