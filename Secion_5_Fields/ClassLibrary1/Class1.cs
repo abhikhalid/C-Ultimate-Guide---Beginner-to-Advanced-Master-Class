@@ -6,4 +6,10 @@
     public string productName;
     public double cost;
     public int quantityInStock;
+    public static int TotalNoProducts;
+
+    public void Method()
+    {
+        TotalNoProducts = 0;
+    }
 }

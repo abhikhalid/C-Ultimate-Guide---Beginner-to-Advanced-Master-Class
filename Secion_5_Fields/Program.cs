@@ -3,15 +3,18 @@
 
 class Sample
 {
-   public static void Main()
+    public static void Main()
     {
         //create reference variables
         Product product1, product2, product3;
 
         // create objects
         product1 = new Product();
+        Product.TotalNoProducts++; //1
         product2 = new Product();
+        Product.TotalNoProducts++; //2 
         product3 = new Product();
+        Product.TotalNoProducts++; //3
 
         //initialize fields
         product1.productID = 1001;
@@ -48,8 +51,9 @@ class Sample
         System.Console.WriteLine("Product Cost: " + product3.cost);
         System.Console.WriteLine("Quantity in Stock: " + product3.quantityInStock);
 
-        int totalQuantity = product1.quantityInStock+ product2.quantityInStock + product3.quantityInStock;
+        int totalQuantity = product1.quantityInStock + product2.quantityInStock + product3.quantityInStock;
         System.Console.WriteLine("Total Quantity", totalQuantity);
+        System.Console.WriteLine("Total no. of products:" + Product.TotalNoProducts); // 3
 
         //TO DO: Find out the highes cost of the three product
 
