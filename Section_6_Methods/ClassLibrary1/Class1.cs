@@ -109,6 +109,23 @@ public class Product
         }
         this.tax = t;
     }
+    
+    //Method Overloading
+    public void CalculateTax(double cost, double percentage)
+    {
+        //create local variable
+        double t;
+        //calculate tax
+        if (cost <= 2000)
+        {
+            t = cost * 5 / 1000;
+        }
+        else
+        {
+            t = this.cost * percentage / 1000;
+        }
+        this.tax = t;
+    }
 
     //static method
     public static void SetTotalNoOfProducts(int value)
