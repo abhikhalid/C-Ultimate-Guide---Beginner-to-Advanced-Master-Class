@@ -45,10 +45,12 @@
         product3.SetQunatityInStock(800);
 
         //call methods
-        double q = 9.2;
-        product1.CalculateTax(percentage: ref q); //named arguments
-        double t = 7.4;
-        product2.CalculateTax(ref t);
+        //double q = 9.2;
+        //product1.CalculateTax(percentage: ref q); //named arguments
+        //double t = 7.4;
+        double t;
+        product2.CalculateTax(out t);
+        System.Console.WriteLine("t"+t);
         //product3.CalculateTax();
 
         //get values from fields
