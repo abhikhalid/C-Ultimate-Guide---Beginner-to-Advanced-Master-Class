@@ -5,6 +5,9 @@ class Sample
 {
     public static void Main()
     {
+        // Local Constant
+        const string developerName = "khalid";
+
         //create reference variables
         Product product1, product2, product3;
 
@@ -33,6 +36,8 @@ class Sample
         product3.quantityInStock = 800;
 
         //get values from fields
+        System.Console.WriteLine(developerName);
+
         System.Console.WriteLine("Product 1:");
         System.Console.WriteLine("Product ID: " + product1.productID);
         System.Console.WriteLine("Product Name: " + product1.productName);
