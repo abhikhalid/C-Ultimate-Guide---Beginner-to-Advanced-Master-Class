@@ -109,4 +109,15 @@ public class Product
         }
         this.tax = t;
     }
+
+    //static method
+    public static void SetTotalNoOfProducts(int value)
+    {
+        TotalNoProducts = value;
+    }
+
+    public static int GetTotalNoOfProducts()
+    {
+        return TotalNoProducts;
+    }
 }

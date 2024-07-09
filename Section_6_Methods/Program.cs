@@ -10,11 +10,11 @@
 
         // create objects
         product1 = new Product();
-        Product.TotalNoProducts++; //1
+        Product.SetTotalNoOfProducts(Product.GetTotalNoOfProducts() + 1); //1
         product2 = new Product();
-        Product.TotalNoProducts++; //2 
+        Product.SetTotalNoOfProducts(Product.GetTotalNoOfProducts() + 1); //2 
         product3 = new Product();
-        Product.TotalNoProducts++; //3
+        Product.SetTotalNoOfProducts(Product.GetTotalNoOfProducts() + 1); //3
 
         //initialize fields
         //product1.productID = 1001;
@@ -78,7 +78,7 @@
 
         int totalQuantity = product1.GetQuantityInStock() + product2.GetQuantityInStock() + product3.GetQuantityInStock();
         System.Console.WriteLine("Total Quantity", totalQuantity);
-        System.Console.WriteLine("Total no. of products:" + Product.TotalNoProducts); // 3
+        System.Console.WriteLine("Total no. of products:" + Product.GetTotalNoOfProducts()); // 3
         System.Console.WriteLine("Category of products:" + Product.CategoryName); // Output: Computers
 
 
