@@ -74,7 +74,7 @@
         System.Console.WriteLine("Product Cost: " + product3.GetCost());
         System.Console.WriteLine("Quantity in Stock: " + product3.GetQuantityInStock());
         System.Console.WriteLine("Date of Purchase: " + product3.GetDateOfPurchase());
-        System.Console.WriteLine("Tax: " + product3.tax);
+        System.Console.WriteLine("Tax: " + product3.GetTax());
 
         int totalQuantity = product1.GetQuantityInStock() + product2.GetQuantityInStock() + product3.GetQuantityInStock();
         System.Console.WriteLine("Total Quantity", totalQuantity);

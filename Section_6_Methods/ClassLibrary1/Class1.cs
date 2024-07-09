@@ -23,67 +23,67 @@ public class Product
     // Set Method for ProductID
     public void SetProductID(int value)
     {
-        productID = value;
+        this.productID = value;
     }
 
     // Get method for producctID
     public int GetProductID()
     {
-        return productID;
+        return this.productID;
     }
 
     //Set method for productName
     public void SetProductName(string value)
     {
-        productName = value;
+        this.productName = value;
     }
 
     //Get method for productName
     public string GetProductName()
     {
-        return productName;
+        return this.productName;
     }
 
     //Set method for cost
     public void SetCost(double value)
     {
-        cost = value;
+        this.cost = value;
     }
 
     //Get method for cost
     public double GetCost()
     {
-        return cost;
+        return this.cost;
     }
 
     //Set method for tax
     public void SetTax(double value)
     {
-        tax = value;
+        this.tax = value;
     }
 
     //Get method for tax
     public double GetTax()
     {
-        return tax;
+        return this.tax;
     }
 
     //Set method for quantityInStock
     public void SetQunatityInStock(int value)
     {
-        quantityInStock = value;
+        this.quantityInStock = value;
     }
 
     //Get method for quantityInStock
     public int GetQuantityInStock()
     {
-        return quantityInStock;
+        return this.quantityInStock;
     }
 
     //Get method for dateofPurchase
     public string GetDateOfPurchase()
     {
-        return dateofPurchase;
+        return this.dateofPurchase;
     }
 
     public void Method()
@@ -99,14 +99,14 @@ public class Product
         //create local variable
         double t;
         //calculate tax
-        if (cost <= 2000)
+        if (this.cost <= 2000)
         {
-            t = cost * 10 / 1000;
+            t = this.cost * 10 / 1000;
         }
         else
         {
-            t = cost * 12.5 / 1000;
+            t = this.cost * 12.5 / 1000;
         }
-        tax = t;
+        this.tax = t;
     }
 }
