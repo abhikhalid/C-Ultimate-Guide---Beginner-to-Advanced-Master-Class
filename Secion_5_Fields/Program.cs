@@ -38,18 +38,21 @@ class Sample
         System.Console.WriteLine("Product Name: " + product1.productName);
         System.Console.WriteLine("Product Cost: " + product1.cost);
         System.Console.WriteLine("Quantity in Stock: " + product1.quantityInStock);
+        System.Console.WriteLine("Date of Purchase: " + product1.dateofPurchase);
 
         System.Console.WriteLine("Product 2:");
         System.Console.WriteLine("Product ID: " + product2.productID);
         System.Console.WriteLine("Product Name: " + product2.productName);
         System.Console.WriteLine("Product Cost: " + product2.cost);
         System.Console.WriteLine("Quantity in Stock: " + product2.quantityInStock);
+        System.Console.WriteLine("Date of Purchase: " + product2.dateofPurchase);
 
         System.Console.WriteLine("Product 3:");
         System.Console.WriteLine("Product ID: " + product3.productID);
         System.Console.WriteLine("Product Name: " + product3.productName);
         System.Console.WriteLine("Product Cost: " + product3.cost);
         System.Console.WriteLine("Quantity in Stock: " + product3.quantityInStock);
+        System.Console.WriteLine("Date of Purchase: " + product3.dateofPurchase);
 
         int totalQuantity = product1.quantityInStock + product2.quantityInStock + product3.quantityInStock;
         System.Console.WriteLine("Total Quantity", totalQuantity);

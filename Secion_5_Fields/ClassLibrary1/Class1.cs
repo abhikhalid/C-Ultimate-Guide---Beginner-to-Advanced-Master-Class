@@ -8,6 +8,12 @@
     public int quantityInStock;
     public static int TotalNoProducts;
     public const string CategoryName = "Computer";
+    public readonly string dateofPurchase;
+
+    public Product()
+    {
+        dateofPurchase = System.DateTime.Now.ToShortDateString();
+    }
 
     public void Method()
     {
