@@ -48,7 +48,11 @@ class Sample
         System.Console.WriteLine("Product Cost: " + product3.cost);
         System.Console.WriteLine("Quantity in Stock: " + product3.quantityInStock);
 
-        System.Console.ReadKey();
+        int totalQuantity = product1.quantityInStock+ product2.quantityInStock + product3.quantityInStock;
+        System.Console.WriteLine("Total Quantity", totalQuantity);
 
+        //TO DO: Find out the highes cost of the three product
+
+        System.Console.ReadKey();
     }
 }
