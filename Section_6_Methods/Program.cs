@@ -45,9 +45,11 @@
         product3.SetQunatityInStock(800);
 
         //call methods
-        product1.CalculateTax(percentage:9.2); //named arguments
-        product2.CalculateTax(7.4);
-        product3.CalculateTax();
+        double q = 9.2;
+        product1.CalculateTax(percentage: ref q); //named arguments
+        double t = 7.4;
+        product2.CalculateTax(ref t);
+        //product3.CalculateTax();
 
         //get values from fields
         System.Console.WriteLine(developerName);
@@ -77,7 +79,7 @@
         System.Console.WriteLine("Tax: " + product3.GetTax());
 
         //int totalQuantity = product1.GetQuantityInStock() + product2.GetQuantityInStock() + product3.GetQuantityInStock();
-        int totalQuantity = Product.GetTotalQuantity(product1,product2,product3);
+        int totalQuantity = Product.GetTotalQuantity(product1, product2, product3);
         System.Console.WriteLine("Total Quantity", totalQuantity);
         System.Console.WriteLine("Total no. of products:" + Product.GetTotalNoOfProducts()); // 3
         System.Console.WriteLine("Category of products:" + Product.CategoryName); // Output: Computers

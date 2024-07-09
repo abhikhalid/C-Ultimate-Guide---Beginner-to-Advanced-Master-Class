@@ -94,8 +94,9 @@ public class Product
     // method
     // cost <=2000 then tax = 10%
     // cost > 20000 then tax = 12.5%
-    public void CalculateTax(double percentage = 4.5)
+    public void CalculateTax(ref double percentage)
     {
+        percentage = 10.45;
         //create local variable
         double t;
         //calculate tax
@@ -109,7 +110,7 @@ public class Product
         }
         this.tax = t;
     }
-    
+
     //Method Overloading
     public void CalculateTax(double cost, double percentage)
     {
