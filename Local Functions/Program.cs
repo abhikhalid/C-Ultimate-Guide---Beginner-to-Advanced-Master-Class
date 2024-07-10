@@ -16,6 +16,9 @@
             return (marks1 + marks2+marks3)/3;
         }
 
+        //Static Local Functions
+        // Whenever you want to restrict the local functions, not to access the parameters and local variables,
+        // you should use static local functions
         static double getAverageMarks2(int m1,int m2,int m3)
         {
             double avg;
