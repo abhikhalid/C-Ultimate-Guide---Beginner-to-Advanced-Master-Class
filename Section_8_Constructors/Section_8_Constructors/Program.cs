@@ -8,7 +8,8 @@
         Employee emp3 = new Employee(102,"Khalid","Software Engineer");
 
         //Display Fields
-        System.Console.WriteLine("First Employee");
+        System.Console.WriteLine(Employee.companyName);
+        System.Console.WriteLine("\nFirst Employee");
         System.Console.WriteLine(emp1.empID);
         System.Console.WriteLine(emp1.empName);
         System.Console.WriteLine(emp1.job);
