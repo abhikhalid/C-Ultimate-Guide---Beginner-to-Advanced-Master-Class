@@ -2,22 +2,15 @@
 {
     static void Main()
     {
-        string s;
-        System.Console.WriteLine("Enter a number:");
-        s = System.Console.ReadLine();
+        int a = 1000;
 
-        //TryParse
-        bool b = int.TryParse(s, out int n);
+        string b;
 
-        if(b)
-        {
-            System.Console.WriteLine("Conversion is successful");
-            System.Console.WriteLine(n);
-        }
-        else
-        {
-            System.Console.WriteLine("Conversion failed");
-        }
+        // int -> string
+        b = System.Convert.ToString(a);
+
+        System.Console.WriteLine(a);
+        System.Console.WriteLine(b);
 
         System.Console.ReadKey();
     }
