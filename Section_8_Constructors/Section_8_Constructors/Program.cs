@@ -7,6 +7,12 @@
         Employee emp2 = new Employee(101,"Scott","Manager");
         Employee emp3 = new Employee(102,"Khalid","Software Engineer");
 
+        Employee emp4 = new Employee()
+        {
+            empName = "Israr",
+            job = "software enginner"
+        };
+
         //Display Fields
         System.Console.WriteLine(Employee.companyName);
         System.Console.WriteLine("\nFirst Employee");
