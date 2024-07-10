@@ -15,6 +15,13 @@
             //create local variable of local function
             return (marks1 + marks2+marks3)/3;
         }
+
+        static double getAverageMarks2(int m1,int m2,int m3)
+        {
+            double avg;
+            avg = (double)(m1 + m2 + m3) / 3;
+            return avg;
+        }
     }
 }
 
