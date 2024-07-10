@@ -48,9 +48,9 @@
         //double q = 9.2;
         //product1.CalculateTax(percentage: ref q); //named arguments
         //double t = 7.4;
-        //double t;
-        product2.CalculateTax(out double t); // out variable declaration
-        System.Console.WriteLine("t"+t);
+        double p = 5.6;
+        product2.CalculateTax(in p); // out variable declaration
+        System.Console.WriteLine("p"+p);
         //product3.CalculateTax();
 
         //get values from fields
