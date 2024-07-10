@@ -1,4 +1,6 @@
-﻿class Sample
+﻿using ClassLibrary1;
+
+class Sample
 {
     public static void Main()
     {
@@ -88,6 +90,19 @@
 
 
         //TO DO: Find out the highes cost of the three product
+
+        //Creating object of Student
+        // Understanding ref Returns
+        Student s = new Student();
+        s.PrintGrade();
+        // Call DoWork
+        ref int g = ref s.DoWork();
+
+        // Update the value of 'ref return'
+        g = 5;
+
+        //Call PrintGrade after updating the value of 'ref return'
+        s.PrintGrade();
 
         System.Console.ReadKey();
     }
