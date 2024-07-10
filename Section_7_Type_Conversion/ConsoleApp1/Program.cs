@@ -3,16 +3,21 @@
     static void Main()
     {
         //sbyte
-        sbyte a = 10;
+        int a = 500;
 
-        //int
-        int b;
+        //float
+        float b;
 
-        //copy the value from 'a' to 'b'
-        b = a; // Implicit Casting
+        //int to float
+        b = a;
+        b = (float)a; // Explicit Casting
 
-        System.Console.WriteLine(a);
-        System.Console.WriteLine(b);
+        byte c;
+        c = (byte)a; // loosy conversion
+
+        System.Console.WriteLine(a); 
+        System.Console.WriteLine(b); 
+        System.Console.WriteLine(c); 
         System.Console.ReadKey();
     }
 }
