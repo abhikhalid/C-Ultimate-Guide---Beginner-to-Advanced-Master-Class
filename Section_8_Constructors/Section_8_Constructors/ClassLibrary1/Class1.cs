@@ -1,37 +1,72 @@
 ﻿public class Employee
 {
     //fields
-    public int empID;
-    public string empName;
-    public string job;
+    private int _empID;
+    private string _empName;
+    private string _job;
 
-    public static string companyName;
+    private static string _companyName;
+
+    public int EmpID
+    {
+        set 
+        { 
+           if(value >= 100)
+            {
+                _empID = value;
+            }
+        }
+        get { return _empID; }
+    }
+
+    public string EmpName
+    {
+        set { _empName = value; }
+        get { return _empName; }
+    }
+
+    public string Job
+    {
+        set { _job = value; }
+        get { return _job; }
+    }
+    public static string CompanyName
+    {
+        set
+        {
+            if (value.Length <= 20)
+            {
+                _companyName = value;
+            }
+        }
+        get { return _companyName; }
+    }
 
     //constructor
     public Employee() // default/ parameter-less constructor
     {
-        empID = 101;
-        empName = "No name";
-        job = "some job title";
+        _empID = 101;
+        _empName = "No name";
+        _job = "some job title";
     }
 
     public Employee(int empID, string empName, string job) //parameterized constructor
     {
-        this.empID = empID;
-        this.empName = empName;
-        this.job = job;
+        this._empID = empID;
+        this._empName = empName;
+        this._job = job;
     }
 
     public Employee(int empID, string empName) //parameterized constructor
     {
-        this.empID = empID;
-        this.empName = empName;
+        this._empID = empID;
+        this._empName = empName;
     }
 
     // static constructor is public by default. 
     // It can not have any parameters.
     static Employee()
     {
-        companyName = "BJIT LTD.";
+        _companyName = "BJIT LTD.";
     }
 }
