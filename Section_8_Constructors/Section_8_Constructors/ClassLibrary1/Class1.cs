@@ -4,6 +4,8 @@
     private int _empID;
     private string _empName;
     private string _job;
+    private double _salary;
+    private double _tax;
 
     private static string _companyName;
 
@@ -48,6 +50,7 @@
         _empID = 101;
         _empName = "No name";
         _job = "some job title";
+        this._salary = 1000;
     }
 
     public Employee(int empID, string empName, string job) //parameterized constructor
@@ -55,12 +58,14 @@
         this._empID = empID;
         this._empName = empName;
         this._job = job;
+        this._salary = 1000;
     }
 
     public Employee(int empID, string empName) //parameterized constructor
     {
         this._empID = empID;
         this._empName = empName;
+        this._salary = 1000;
     }
 
     // static constructor is public by default. 
@@ -68,5 +73,31 @@
     static Employee()
     {
         _companyName = "BJIT LTD.";
+    }
+
+    //readonly property
+    public double Salary
+    {
+        get
+        {
+            return _salary;
+        }
+    }
+
+    //write only property
+    public double Tax
+    {
+        set
+        {
+            if(value >=0 && value <= 100)
+            {
+                _tax = value;
+            }
+        }
+    }
+
+    public double CalculateNetTax()
+    {
+        return Salary - _tax;
     }
 }
