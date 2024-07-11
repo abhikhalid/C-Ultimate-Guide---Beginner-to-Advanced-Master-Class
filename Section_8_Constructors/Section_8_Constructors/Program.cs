@@ -6,6 +6,8 @@
         Employee emp1 = new Employee();
         emp1.EmpID = 101;
         emp1.Tax = 50; // using write-only property
+        emp1.NativePlace = "Dhaka";
+
         Employee emp2 = new Employee(101, "Scott", "Manager");
         Employee emp3 = new Employee(102, "Khalid", "Software Engineer");
 
@@ -23,6 +25,7 @@
         System.Console.WriteLine(emp1.Job);
         System.Console.WriteLine(emp1.Salary);
         System.Console.WriteLine(emp1.CalculateNetTax());
+        System.Console.WriteLine(emp1.NativePlace);
         System.Console.WriteLine();
 
         System.Console.WriteLine("Second Employee");

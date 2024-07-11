@@ -100,4 +100,11 @@
     {
         return Salary - _tax;
     }
+
+    // Automatic Properties
+    //public string NativePlace { internal get;set; }
+    //public string NativePlace { get;set; }
+
+
+    public string NativePlace { get;set; }
 }
