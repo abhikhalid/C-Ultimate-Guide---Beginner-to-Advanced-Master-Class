@@ -1,0 +1,10 @@
+G:\Practice\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_10_Inhertiance_Hiding_Overriding\InheritanceExample\bin\Debug\InheritanceExample.exe.config
+G:\Practice\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_10_Inhertiance_Hiding_Overriding\InheritanceExample\bin\Debug\InheritanceExample.exe
+G:\Practice\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_10_Inhertiance_Hiding_Overriding\InheritanceExample\bin\Debug\InheritanceExample.pdb
+G:\Practice\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_10_Inhertiance_Hiding_Overriding\InheritanceExample\bin\Debug\ClassLibrary1.dll
+G:\Practice\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_10_Inhertiance_Hiding_Overriding\InheritanceExample\bin\Debug\ClassLibrary1.pdb
+G:\Practice\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_10_Inhertiance_Hiding_Overriding\InheritanceExample\obj\Debug\InheritanceExample.csproj.AssemblyReference.cache
+G:\Practice\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_10_Inhertiance_Hiding_Overriding\InheritanceExample\obj\Debug\InheritanceExample.csproj.CoreCompileInputs.cache
+G:\Practice\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_10_Inhertiance_Hiding_Overriding\InheritanceExample\obj\Debug\InheritanceExample.csproj.CopyComplete
+G:\Practice\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_10_Inhertiance_Hiding_Overriding\InheritanceExample\obj\Debug\InheritanceExample.exe
+G:\Practice\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_10_Inhertiance_Hiding_Overriding\InheritanceExample\obj\Debug\InheritanceExample.pdb
