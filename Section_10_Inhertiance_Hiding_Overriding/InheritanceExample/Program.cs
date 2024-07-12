@@ -26,6 +26,8 @@
         System.Console.WriteLine(mgr1.Location);
         System.Console.WriteLine(mgr1.GetTotalSalesOfTheYear());
         System.Console.WriteLine(mgr1.GetFullDepartmentName());
+        //method hiding
+        System.Console.WriteLine(mgr1.GetHealthInsuranceAmount()); 
         System.Console.WriteLine();
 
         //create object of SalesMan

@@ -25,4 +25,10 @@
     {
         return DepartmentName + " at " + base._location;
     }
+
+    //method hiding
+    public new string GetHealthInsuranceAmount() //without the new keyword also, the method hiding is done. by writing new keword, we are saying to compiler that, we are hiding the parent class's method intentionally.
+    {
+        return "Health Insurance premium is : 1500";
+    }
 }

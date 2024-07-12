@@ -11,6 +11,11 @@
      this._location = location;
     }
 
+    //method
+    public string GetHealthInsuranceAmount()
+    {
+        return "Health Insurance Amount is : " + 500;
+    }
 
     //properties
     public int EmpID
