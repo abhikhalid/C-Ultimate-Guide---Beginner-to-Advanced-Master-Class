@@ -6,8 +6,10 @@
 
         //call get accesssor of indexer
         System.Console.WriteLine(car[0]); // BMW
+        System.Console.WriteLine(car["first"]); // Output: BMW
 
         car[0] = "Nissan";
+        System.Console.WriteLine(car[0]);
 
         System.Console.ReadKey();
     }
