@@ -1,0 +1,6 @@
+G:\Practice\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_8_Constructors_and_Section_9_Properties_Indexers\Section_8__Section_9\IndeersExample\CarProject\bin\Debug\CarProject.dll
+G:\Practice\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_8_Constructors_and_Section_9_Properties_Indexers\Section_8__Section_9\IndeersExample\CarProject\bin\Debug\CarProject.pdb
+G:\Practice\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_8_Constructors_and_Section_9_Properties_Indexers\Section_8__Section_9\IndeersExample\CarProject\obj\Debug\CarProject.csproj.AssemblyReference.cache
+G:\Practice\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_8_Constructors_and_Section_9_Properties_Indexers\Section_8__Section_9\IndeersExample\CarProject\obj\Debug\CarProject.csproj.CoreCompileInputs.cache
+G:\Practice\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_8_Constructors_and_Section_9_Properties_Indexers\Section_8__Section_9\IndeersExample\CarProject\obj\Debug\CarProject.dll
+G:\Practice\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_8_Constructors_and_Section_9_Properties_Indexers\Section_8__Section_9\IndeersExample\CarProject\obj\Debug\CarProject.pdb

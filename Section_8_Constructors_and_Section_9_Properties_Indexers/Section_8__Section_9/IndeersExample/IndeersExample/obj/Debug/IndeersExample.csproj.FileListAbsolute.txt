@@ -1,0 +1,10 @@
+G:\Practice\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_8_Constructors_and_Section_9_Properties_Indexers\Section_8__Section_9\IndeersExample\IndeersExample\obj\Debug\IndeersExample.csproj.AssemblyReference.cache
+G:\Practice\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_8_Constructors_and_Section_9_Properties_Indexers\Section_8__Section_9\IndeersExample\IndeersExample\obj\Debug\IndeersExample.csproj.CoreCompileInputs.cache
+G:\Practice\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_8_Constructors_and_Section_9_Properties_Indexers\Section_8__Section_9\IndeersExample\IndeersExample\bin\Debug\IndeersExample.exe.config
+G:\Practice\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_8_Constructors_and_Section_9_Properties_Indexers\Section_8__Section_9\IndeersExample\IndeersExample\bin\Debug\IndeersExample.exe
+G:\Practice\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_8_Constructors_and_Section_9_Properties_Indexers\Section_8__Section_9\IndeersExample\IndeersExample\bin\Debug\IndeersExample.pdb
+G:\Practice\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_8_Constructors_and_Section_9_Properties_Indexers\Section_8__Section_9\IndeersExample\IndeersExample\bin\Debug\CarProject.dll
+G:\Practice\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_8_Constructors_and_Section_9_Properties_Indexers\Section_8__Section_9\IndeersExample\IndeersExample\bin\Debug\CarProject.pdb
+G:\Practice\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_8_Constructors_and_Section_9_Properties_Indexers\Section_8__Section_9\IndeersExample\IndeersExample\obj\Debug\IndeersExample.csproj.CopyComplete
+G:\Practice\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_8_Constructors_and_Section_9_Properties_Indexers\Section_8__Section_9\IndeersExample\IndeersExample\obj\Debug\IndeersExample.exe
+G:\Practice\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_8_Constructors_and_Section_9_Properties_Indexers\Section_8__Section_9\IndeersExample\IndeersExample\obj\Debug\IndeersExample.pdb
