@@ -15,4 +15,9 @@
     {
         return 10000; //dummy value
     }
+
+    public string GetFullDepartmentName()
+    {
+        return DepartmentName + "at" + base.Location;
+    }
 }
