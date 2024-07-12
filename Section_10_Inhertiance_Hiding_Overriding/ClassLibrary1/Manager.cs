@@ -1,4 +1,4 @@
-﻿public class Manager : Employee
+﻿public sealed class Manager : Employee
 {
     private string _departmentName;
 
@@ -33,3 +33,10 @@
         return "Health Insurance premium is : 1500";
     }
 }
+
+
+//erro becaue Manager is a sealed class
+
+//public BranchManager : Manager{
+
+//}
