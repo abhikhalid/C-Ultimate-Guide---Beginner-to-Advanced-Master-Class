@@ -18,6 +18,6 @@
 
     public string GetFullDepartmentName()
     {
-        return DepartmentName + "at" + base.Location;
+        return DepartmentName + " at " + base._location;
     }
 }

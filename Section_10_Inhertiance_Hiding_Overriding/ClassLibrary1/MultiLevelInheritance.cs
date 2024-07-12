@@ -1,14 +1,14 @@
-﻿class Person
-{
+﻿//class Person
+//{
 
-}
+//}
 
-class Teacher : Person
-{
+//class Teacher : Person
+//{
 
-}
+//}
 
-class Professor : Teacher
-{
+//class Professor : Teacher
+//{
 
-}
+//}
