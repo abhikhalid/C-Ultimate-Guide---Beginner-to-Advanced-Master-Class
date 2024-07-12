@@ -2,6 +2,11 @@
 {
     private string _departmentName;
 
+    //constructor of child class
+    public Manager(int empId,string empName,string location,string departmentName) : base(empId,empName,location) { 
+      this._departmentName = departmentName;
+    }
+
     //property
     public string DepartmentName
     {

@@ -4,6 +4,14 @@
     private string _empName;
     protected string _location;
 
+    //constructor of parent class
+    public Employee(int empId, string empName, string location) { 
+     this._empID = empId;
+     this._empName = empName;
+     this._location = location;
+    }
+
+
     //properties
     public int EmpID
     {

@@ -3,6 +3,12 @@
     //field
     private string _region;
 
+    //constructor of child class
+    public SalesMan(int empId, string empName, string location,string region) : base(empId,empName,location)
+    {
+       this._region = region;
+    }
+
     //property
     public string Region
     {
