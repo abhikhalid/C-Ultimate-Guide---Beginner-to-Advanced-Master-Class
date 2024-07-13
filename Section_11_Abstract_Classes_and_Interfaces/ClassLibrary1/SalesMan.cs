@@ -16,6 +16,11 @@
         get { return _region; }
     }
 
+    public override string GetHealthInsuranceAmount()
+    {
+        return "hello";
+    }
+
     //method
     public long GetSalesOfTheCurrentMonth()
     {

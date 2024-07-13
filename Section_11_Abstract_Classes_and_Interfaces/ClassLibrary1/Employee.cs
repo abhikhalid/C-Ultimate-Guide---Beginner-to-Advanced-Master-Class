@@ -15,10 +15,7 @@
     }
 
     //method
-    public virtual string GetHealthInsuranceAmount()
-    {
-        return "Health Insurance Amount is : " + 500;
-    }
+    public abstract virtual string GetHealthInsuranceAmount();
 
     //properties
     public int EmpID

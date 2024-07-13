@@ -36,7 +36,6 @@
     //method Overriding
     public sealed override string GetHealthInsuranceAmount() // this method can't be overriden in the corresponding child classes.
     {
-        System.Console.WriteLine(base.GetHealthInsuranceAmount());
         return "Health Insurance premium is : 1500";
     }
 }
