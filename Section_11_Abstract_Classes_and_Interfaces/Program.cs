@@ -5,7 +5,15 @@
         // error, abstract class can not be instantiated. 
         //Employee employee = new Employee(); 
 
-        Manager manager = new Manager();
+        Employee emp= new Manager();
+      
+        System.Console.WriteLine(emp.GetHealthInsuranceAmount());
+
+        emp = new SalesMan();
+
+        System.Console.WriteLine(emp.GetHealthInsuranceAmount());
+
+        System.Console.ReadKey();
 
     }
 }

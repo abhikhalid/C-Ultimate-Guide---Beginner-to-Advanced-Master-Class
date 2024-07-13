@@ -3,19 +3,19 @@
   "WorkspaceRootPath": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_11_Abstract_Classes_and_Interfaces\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D30F0844-D7BC-408C-BBB2-51E743FCA5AC}|ClassLibrary1\\ClassLibrary1.csproj|d:\\coding\\development\\c#\\c_sharp-ultimate-guide-beginner-to-advanced-master-class\\section_11_abstract_classes_and_interfaces\\classlibrary1\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D30F0844-D7BC-408C-BBB2-51E743FCA5AC}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D30F0844-D7BC-408C-BBB2-51E743FCA5AC}|ClassLibrary1\\ClassLibrary1.csproj|d:\\coding\\development\\c#\\c_sharp-ultimate-guide-beginner-to-advanced-master-class\\section_11_abstract_classes_and_interfaces\\classlibrary1\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D30F0844-D7BC-408C-BBB2-51E743FCA5AC}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D30F0844-D7BC-408C-BBB2-51E743FCA5AC}|ClassLibrary1\\ClassLibrary1.csproj|D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_11_Abstract_Classes_and_Interfaces\\classlibrary1\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D30F0844-D7BC-408C-BBB2-51E743FCA5AC}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D30F0844-D7BC-408C-BBB2-51E743FCA5AC}|ClassLibrary1\\ClassLibrary1.csproj|d:\\coding\\development\\c#\\c_sharp-ultimate-guide-beginner-to-advanced-master-class\\section_11_abstract_classes_and_interfaces\\classlibrary1\\salesman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D30F0844-D7BC-408C-BBB2-51E743FCA5AC}|ClassLibrary1\\ClassLibrary1.csproj|D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_11_Abstract_Classes_and_Interfaces\\classlibrary1\\salesman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D30F0844-D7BC-408C-BBB2-51E743FCA5AC}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\salesman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6164DE95-0563-4ED9-8535-A7CE0A30CD5E}|Section_11_Abstract_Classes_and_Interfaces.csproj|d:\\coding\\development\\c#\\c_sharp-ultimate-guide-beginner-to-advanced-master-class\\section_11_abstract_classes_and_interfaces\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6164DE95-0563-4ED9-8535-A7CE0A30CD5E}|Section_11_Abstract_Classes_and_Interfaces.csproj|D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_11_Abstract_Classes_and_Interfaces\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6164DE95-0563-4ED9-8535-A7CE0A30CD5E}|Section_11_Abstract_Classes_and_Interfaces.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -44,7 +44,7 @@
               "RelativeDocumentMoniker": "ClassLibrary1\\SalesMan.cs",
               "ToolTip": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_11_Abstract_Classes_and_Interfaces\\ClassLibrary1\\SalesMan.cs",
               "RelativeToolTip": "ClassLibrary1\\SalesMan.cs",
-              "ViewState": "AQIAACEAAAAAAAAAAAAAADYAAAAcAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-13T15:29:13.604Z",
               "EditorCaption": ""
@@ -57,7 +57,7 @@
               "RelativeDocumentMoniker": "ClassLibrary1\\Manager.cs",
               "ToolTip": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_11_Abstract_Classes_and_Interfaces\\ClassLibrary1\\Manager.cs",
               "RelativeToolTip": "ClassLibrary1\\Manager.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAADcAAAAJAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-13T15:03:37.828Z",
               "EditorCaption": ""
@@ -65,12 +65,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "IEmployee.cs",
-              "DocumentMoniker": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_11_Abstract_Classes_and_Interfaces\\ClassLibrary1\\IEmployee.cs",
-              "RelativeDocumentMoniker": "ClassLibrary1\\IEmployee.cs",
-              "ToolTip": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_11_Abstract_Classes_and_Interfaces\\ClassLibrary1\\IEmployee.cs",
-              "RelativeToolTip": "ClassLibrary1\\IEmployee.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_11_Abstract_Classes_and_Interfaces\\ClassLibrary1\\Employee.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Employee.cs",
+              "ToolTip": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_11_Abstract_Classes_and_Interfaces\\ClassLibrary1\\Employee.cs",
+              "RelativeToolTip": "ClassLibrary1\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-13T08:57:17.291Z",
               "EditorCaption": ""
@@ -83,7 +83,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_11_Abstract_Classes_and_Interfaces\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAoAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-13T08:57:10.301Z",
               "EditorCaption": ""
