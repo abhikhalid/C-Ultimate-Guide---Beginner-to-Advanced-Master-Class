@@ -1,0 +1,7 @@
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_11_Abstract_Classes_and_Interfaces\bin\Debug\Section_11_Abstract_Classes_and_Interfaces.exe.config
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_11_Abstract_Classes_and_Interfaces\bin\Debug\Section_11_Abstract_Classes_and_Interfaces.exe
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_11_Abstract_Classes_and_Interfaces\bin\Debug\Section_11_Abstract_Classes_and_Interfaces.pdb
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_11_Abstract_Classes_and_Interfaces\obj\Debug\Section_11_Abstract_Classes_and_Interfaces.csproj.AssemblyReference.cache
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_11_Abstract_Classes_and_Interfaces\obj\Debug\Section_11_Abstract_Classes_and_Interfaces.csproj.CoreCompileInputs.cache
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_11_Abstract_Classes_and_Interfaces\obj\Debug\Section_11_Abstract_Classes_and_Interfaces.exe
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_11_Abstract_Classes_and_Interfaces\obj\Debug\Section_11_Abstract_Classes_and_Interfaces.pdb
