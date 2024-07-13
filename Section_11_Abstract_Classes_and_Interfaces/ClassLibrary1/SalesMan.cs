@@ -1,6 +1,10 @@
-﻿public class SalesMan : Employee
+﻿public class SalesMan : IEmployee
 {
     private string _region;
+
+    public int EmpID { get => throw new System.NotImplementedException(); set => throw new System.NotImplementedException(); }
+    public string EmpName { get => throw new System.NotImplementedException(); set => throw new System.NotImplementedException(); }
+    public string Location { get => throw new System.NotImplementedException(); set => throw new System.NotImplementedException(); }
 
     public SalesMan()
     {
@@ -20,7 +24,7 @@
 
 
     //method Overriding
-    public override string GetHealthInsuranceAmount()
+    public  string GetHealthInsuranceAmount()
     {
         return "Health Insurance premium is : 1500";
     }

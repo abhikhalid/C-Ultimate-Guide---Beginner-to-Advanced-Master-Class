@@ -2,18 +2,11 @@
 {
     public static void Main()
     {
-        // error, abstract class can not be instantiated. 
-        //Employee employee = new Employee(); 
+        IPerson person = new Manager();
 
-        Employee emp= new Manager();
-      
-        System.Console.WriteLine(emp.GetHealthInsuranceAmount());
-
-        emp = new SalesMan();
-
-        System.Console.WriteLine(emp.GetHealthInsuranceAmount());
+        person.DateOfBirth = System.Convert.ToDateTime("1990-07-15");
+        System.Console.WriteLine(person.GetAge());
 
         System.Console.ReadKey();
-
     }
 }
