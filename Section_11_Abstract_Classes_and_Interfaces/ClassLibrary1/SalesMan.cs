@@ -1,29 +1,63 @@
-﻿public class SalesMan : Employee
+﻿public class SalesMan : IEmployee
 {
-    //field
     private string _region;
+    private int _empID;
+    private string _empName;
+    private string _location;
 
-    //constructor of child class
-    public SalesMan(int empId, string empName, string location, string region) : base(empId, empName, location)
+    //properties
+    public int EmpID
     {
-        this._region = region;
+        get { return _empID; }
+        set { 
+            // this is the real benefit of interface
+        
+            if(value>=10000 && value <= 2000)
+            {
+                this._empID = value;
+            }
+
+        }
     }
 
-    //property
-    public string Region
+    public string EmpName
     {
-        set { _region = value; }
-        get { return _region; }
+        get { return _empName; }
+        set { this._empName = value; }
     }
 
-    public override string GetHealthInsuranceAmount()
+    public string Location
     {
-        return "hello";
+        get { return _location; }
+        set { this._location = value; }
+    }
+
+
+    //method Overriding
+    // you should not say override here
+    //whereas you must use the override keyword while implementation of abstract method of abstract class.
+    public string GetHealthInsuranceAmount() // this method can't be overriden in the corresponding child classes.
+    {
+        return "Health Insurance premium is : 1500";
+    }
+
+
+    public SalesMan()
+    {
+
+    }
+
+    public SalesMan(int empID,string empName,string location,string region)
+    {
+        this._empID=empID;
+        this._empName=empName;
+        this._location=location;
+        this._region=region;
     }
 
     //method
-    public long GetSalesOfTheCurrentMonth()
+    public long GetTotalSalesOfTheYear()
     {
-        return 1000;
+        return 10000; //dummy value
     }
 }
