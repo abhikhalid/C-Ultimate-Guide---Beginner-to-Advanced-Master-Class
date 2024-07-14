@@ -1,0 +1,10 @@
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_16_Generics\Generic_Constraints\bin\Debug\Generic_Constraints.exe.config
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_16_Generics\Generic_Constraints\bin\Debug\Generic_Constraints.exe
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_16_Generics\Generic_Constraints\bin\Debug\Generic_Constraints.pdb
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_16_Generics\Generic_Constraints\bin\Debug\Generic_Constraints_Class_Library.dll
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_16_Generics\Generic_Constraints\bin\Debug\Generic_Constraints_Class_Library.pdb
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_16_Generics\Generic_Constraints\obj\Debug\Generic_Constraints.csproj.AssemblyReference.cache
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_16_Generics\Generic_Constraints\obj\Debug\Generic_Constraints.csproj.CoreCompileInputs.cache
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_16_Generics\Generic_Constraints\obj\Debug\Generic_.AECDDC5B.Up2Date
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_16_Generics\Generic_Constraints\obj\Debug\Generic_Constraints.exe
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_16_Generics\Generic_Constraints\obj\Debug\Generic_Constraints.pdb

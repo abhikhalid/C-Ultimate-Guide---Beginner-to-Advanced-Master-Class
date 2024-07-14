@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Section_16_Generics", "Sect
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary1", "ClassLibrary1\ClassLibrary1.csproj", "{52176093-8816-4AE8-A0EA-89751332B81C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generic_Constraints", "Generic_Constraints\Generic_Constraints.csproj", "{0C8C99DA-463A-430B-9D0A-1131CF656150}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generic_Constraints_Class_Library", "Generic_Constraints_Class_Library\Generic_Constraints_Class_Library.csproj", "{28B200F9-28D4-4533-857E-7DA22BE7AA67}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{52176093-8816-4AE8-A0EA-89751332B81C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{52176093-8816-4AE8-A0EA-89751332B81C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{52176093-8816-4AE8-A0EA-89751332B81C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C8C99DA-463A-430B-9D0A-1131CF656150}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C8C99DA-463A-430B-9D0A-1131CF656150}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C8C99DA-463A-430B-9D0A-1131CF656150}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C8C99DA-463A-430B-9D0A-1131CF656150}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28B200F9-28D4-4533-857E-7DA22BE7AA67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28B200F9-28D4-4533-857E-7DA22BE7AA67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28B200F9-28D4-4533-857E-7DA22BE7AA67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28B200F9-28D4-4533-857E-7DA22BE7AA67}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
