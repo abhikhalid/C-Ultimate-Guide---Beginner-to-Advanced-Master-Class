@@ -15,4 +15,7 @@
             return this._productID;
         }
     }
+
+    //declaration of partial method
+    partial void GetTax2();
 }

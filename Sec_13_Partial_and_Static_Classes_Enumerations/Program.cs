@@ -14,6 +14,9 @@ class Program
         //access methods
         WriteLine(product.GetTax());
 
+        //accesing partial method implementation
+        product.CallGetTax();
+
         ReadKey();
     }
 }

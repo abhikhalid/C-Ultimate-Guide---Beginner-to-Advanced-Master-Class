@@ -36,10 +36,11 @@
               "RelativeDocumentMoniker": "ClassLibrary1\\File1.cs",
               "ToolTip": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Sec_13_Partial_and_Static_Classes_Enumerations\\ClassLibrary1\\File1.cs",
               "RelativeToolTip": "ClassLibrary1\\File1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-14T05:46:57.384Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -49,10 +50,11 @@
               "RelativeDocumentMoniker": "ClassLibrary1\\File3.cs",
               "ToolTip": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Sec_13_Partial_and_Static_Classes_Enumerations\\ClassLibrary1\\File3.cs",
               "RelativeToolTip": "ClassLibrary1\\File3.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAlAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-14T05:47:41.08Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -62,10 +64,11 @@
               "RelativeDocumentMoniker": "ClassLibrary1\\File2.cs",
               "ToolTip": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Sec_13_Partial_and_Static_Classes_Enumerations\\ClassLibrary1\\File2.cs",
               "RelativeToolTip": "ClassLibrary1\\File2.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-14T05:47:29.597Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -75,7 +78,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Sec_13_Partial_and_Static_Classes_Enumerations\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-14T05:44:16.09Z",
               "IsPinned": true,
