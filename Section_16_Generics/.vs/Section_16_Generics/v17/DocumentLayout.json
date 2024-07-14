@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{AFC0ED41-7E6C-4E42-8970-920F57900E67}|Section_16_Generics.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{52176093-8816-4AE8-A0EA-89751332B81C}|ClassLibrary1\\ClassLibrary1.csproj|d:\\coding\\development\\c#\\c_sharp-ultimate-guide-beginner-to-advanced-master-class\\section_16_generics\\classlibrary1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{52176093-8816-4AE8-A0EA-89751332B81C}|ClassLibrary1\\ClassLibrary1.csproj|D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_16_Generics\\classlibrary1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{52176093-8816-4AE8-A0EA-89751332B81C}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -48,7 +48,7 @@
               "RelativeDocumentMoniker": "ClassLibrary1\\Class1.cs",
               "ToolTip": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_16_Generics\\ClassLibrary1\\Class1.cs",
               "RelativeToolTip": "ClassLibrary1\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAgAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-14T14:07:30.927Z",
               "EditorCaption": ""
@@ -61,7 +61,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_16_Generics\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-14T14:06:54.855Z",
               "EditorCaption": ""

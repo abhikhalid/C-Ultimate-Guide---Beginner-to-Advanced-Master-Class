@@ -1,7 +1,10 @@
 ﻿//Generic Class
 
-public class User<T>
+public class User<T1,T2>
 {
     //generic field
-    public T RegistrationStatus;
+    public T1 RegistrationStatus;
+
+    //another generic field
+    public T2 Age;
 }
