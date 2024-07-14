@@ -41,6 +41,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CustomerEnquiry.cs" />
+    <Compile Include="FrontOfficeExecutive.cs" />
     <Compile Include="HR.cs" />
     <Compile Include="FrontOffice.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
