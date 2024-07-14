@@ -1,11 +1,15 @@
-﻿class Program
+﻿using HR;
+using HR.Mgr;
+using FrontOffice;
+
+class Program
 {
     static void Main()
     {
-        HR.Mgr.Manager manager;
-        manager = new HR.Mgr.Manager();
+        Manager manager;
+        manager = new Manager();
 
-        FrontOffice.CustomerEnquiry customerEnquiry = new FrontOffice.CustomerEnquiry();
+        CustomerEnquiry customerEnquiry = new CustomerEnquiry();
         
     }
 }
