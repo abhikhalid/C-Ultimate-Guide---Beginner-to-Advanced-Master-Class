@@ -21,9 +21,9 @@ class Program
         
         //we are not creating any objects by using new keyword.
         //Our intention is only to call the parameter-less constructor only to initialize of fields of the structure.
-        Category category = new Category();
-        category.CategoryID = 20;
-        category.CategoryName = "General";
+        Category category = new Category(20,"General");
+        //category.CategoryID = 20;
+        //category.CategoryName = "General";
 
         //access methods
         Console.WriteLine(category.CategoryID);
