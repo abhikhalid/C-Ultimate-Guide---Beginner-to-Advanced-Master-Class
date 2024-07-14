@@ -1,0 +1,10 @@
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Sec_13_Partial_and_Static_Classes_Enumerations\Enumerations_Console_App\bin\Debug\Enumerations_Console_App.exe.config
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Sec_13_Partial_and_Static_Classes_Enumerations\Enumerations_Console_App\bin\Debug\Enumerations_Console_App.exe
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Sec_13_Partial_and_Static_Classes_Enumerations\Enumerations_Console_App\bin\Debug\Enumerations_Console_App.pdb
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Sec_13_Partial_and_Static_Classes_Enumerations\Enumerations_Console_App\bin\Debug\Enumerations_Class_Library.dll
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Sec_13_Partial_and_Static_Classes_Enumerations\Enumerations_Console_App\bin\Debug\Enumerations_Class_Library.pdb
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Sec_13_Partial_and_Static_Classes_Enumerations\Enumerations_Console_App\obj\Debug\Enumerations_Console_App.csproj.AssemblyReference.cache
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Sec_13_Partial_and_Static_Classes_Enumerations\Enumerations_Console_App\obj\Debug\Enumerations_Console_App.csproj.CoreCompileInputs.cache
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Sec_13_Partial_and_Static_Classes_Enumerations\Enumerations_Console_App\obj\Debug\Enumerat.B40BACAB.Up2Date
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Sec_13_Partial_and_Static_Classes_Enumerations\Enumerations_Console_App\obj\Debug\Enumerations_Console_App.exe
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Sec_13_Partial_and_Static_Classes_Enumerations\Enumerations_Console_App\obj\Debug\Enumerations_Console_App.pdb

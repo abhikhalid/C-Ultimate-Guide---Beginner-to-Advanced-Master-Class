@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Static_Classes_Console_Appl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Static_Classes_Class_Library", "Static_Classes_Class_Library\Static_Classes_Class_Library.csproj", "{9ABA6B7B-B424-4578-9941-4792F67D46C2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enumerations_Console_App", "Enumerations_Console_App\Enumerations_Console_App.csproj", "{158677C6-AE65-43DF-B30F-2E2577EA9B6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enumerations_Class_Library", "Enumerations_Class_Library\Enumerations_Class_Library.csproj", "{8C902BE0-185E-41CE-A0A7-56446E064915}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{9ABA6B7B-B424-4578-9941-4792F67D46C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9ABA6B7B-B424-4578-9941-4792F67D46C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9ABA6B7B-B424-4578-9941-4792F67D46C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{158677C6-AE65-43DF-B30F-2E2577EA9B6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{158677C6-AE65-43DF-B30F-2E2577EA9B6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{158677C6-AE65-43DF-B30F-2E2577EA9B6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{158677C6-AE65-43DF-B30F-2E2577EA9B6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C902BE0-185E-41CE-A0A7-56446E064915}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C902BE0-185E-41CE-A0A7-56446E064915}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C902BE0-185E-41CE-A0A7-56446E064915}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C902BE0-185E-41CE-A0A7-56446E064915}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
