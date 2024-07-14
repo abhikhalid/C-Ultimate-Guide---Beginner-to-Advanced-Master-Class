@@ -1,15 +1,14 @@
 ﻿using HR;
-using HR.Mgr;
+using m = HR.Mgr;
 using FrontOffice;
 
 class Program
 {
     static void Main()
     {
-        Manager manager;
-        manager = new Manager();
+        m.Manager manager;
+        manager = new m.Manager();
 
-        CustomerEnquiry customerEnquiry = new CustomerEnquiry();
-        
+        CustomerEnquiry customerEnquiry = new CustomerEnquiry();        
     }
 }
