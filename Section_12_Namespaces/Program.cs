@@ -1,6 +1,7 @@
 ﻿using HR;
 using m = HR.Mgr;
 using FrontOffice;
+using static System.Console;
 
 class Program
 {
@@ -9,6 +10,10 @@ class Program
         m.Manager manager;
         manager = new m.Manager();
 
-        CustomerEnquiry customerEnquiry = new CustomerEnquiry();        
+        CustomerEnquiry customerEnquiry = new CustomerEnquiry();
+
+        WriteLine("Hello"); // we can write like this by directly assecing it.
+
+        ReadKey();
     }
 }

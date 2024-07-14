@@ -7,11 +7,11 @@
       "RelativeMoniker": "D:0:0:{F8A04967-6360-44C6-B1F3-381E9DC4BB04}|Sec_12_Namespaces.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{76B060B2-0488-42AB-934E-82F45429CD53}|ClassLibrary1\\ClassLibrary1.csproj|d:\\coding\\development\\c#\\c_sharp-ultimate-guide-beginner-to-advanced-master-class\\section_12_namespaces\\classlibrary1\\frontoffice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{76B060B2-0488-42AB-934E-82F45429CD53}|ClassLibrary1\\ClassLibrary1.csproj|D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_12_Namespaces\\classlibrary1\\frontoffice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{76B060B2-0488-42AB-934E-82F45429CD53}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\frontoffice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{76B060B2-0488-42AB-934E-82F45429CD53}|ClassLibrary1\\ClassLibrary1.csproj|d:\\coding\\development\\c#\\c_sharp-ultimate-guide-beginner-to-advanced-master-class\\section_12_namespaces\\classlibrary1\\hr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{76B060B2-0488-42AB-934E-82F45429CD53}|ClassLibrary1\\ClassLibrary1.csproj|D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_12_Namespaces\\classlibrary1\\hr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{76B060B2-0488-42AB-934E-82F45429CD53}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\hr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_12_Namespaces\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAKAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-14T04:53:59.158Z",
               "IsPinned": true,
@@ -68,8 +68,7 @@
               "RelativeToolTip": "ClassLibrary1\\FrontOffice.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-14T05:11:03.482Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-14T05:11:03.482Z"
             },
             {
               "$type": "Document",
@@ -81,8 +80,7 @@
               "RelativeToolTip": "ClassLibrary1\\HR.cs",
               "ViewState": "AQIAABgAAAAAAAAAAAAAABQAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-14T05:10:20.978Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-14T05:10:20.978Z"
             }
           ]
         },
