@@ -3,19 +3,19 @@
   "WorkspaceRootPath": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_12_Namespaces\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F8A04967-6360-44C6-B1F3-381E9DC4BB04}|Sec_12_Namespaces.csproj|d:\\coding\\development\\c#\\c_sharp-ultimate-guide-beginner-to-advanced-master-class\\section_12_namespaces\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F8A04967-6360-44C6-B1F3-381E9DC4BB04}|Sec_12_Namespaces.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{76B060B2-0488-42AB-934E-82F45429CD53}|ClassLibrary1\\ClassLibrary1.csproj|D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_12_Namespaces\\classlibrary1\\hr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{76B060B2-0488-42AB-934E-82F45429CD53}|ClassLibrary1\\ClassLibrary1.csproj|d:\\coding\\development\\c#\\c_sharp-ultimate-guide-beginner-to-advanced-master-class\\section_12_namespaces\\classlibrary1\\hr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{76B060B2-0488-42AB-934E-82F45429CD53}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\hr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{76B060B2-0488-42AB-934E-82F45429CD53}|ClassLibrary1\\ClassLibrary1.csproj|d:\\coding\\development\\c#\\c_sharp-ultimate-guide-beginner-to-advanced-master-class\\section_12_namespaces\\classlibrary1\\customerenquiry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F8A04967-6360-44C6-B1F3-381E9DC4BB04}|Sec_12_Namespaces.csproj|D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_12_Namespaces\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8A04967-6360-44C6-B1F3-381E9DC4BB04}|Sec_12_Namespaces.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76B060B2-0488-42AB-934E-82F45429CD53}|ClassLibrary1\\ClassLibrary1.csproj|D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_12_Namespaces\\classlibrary1\\customerenquiry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{76B060B2-0488-42AB-934E-82F45429CD53}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\customerenquiry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{76B060B2-0488-42AB-934E-82F45429CD53}|ClassLibrary1\\ClassLibrary1.csproj|d:\\coding\\development\\c#\\c_sharp-ultimate-guide-beginner-to-advanced-master-class\\section_12_namespaces\\classlibrary1\\frontofficeexecutive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{76B060B2-0488-42AB-934E-82F45429CD53}|ClassLibrary1\\ClassLibrary1.csproj|D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_12_Namespaces\\classlibrary1\\frontofficeexecutive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{76B060B2-0488-42AB-934E-82F45429CD53}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\frontofficeexecutive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -30,46 +30,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "HR.cs",
               "DocumentMoniker": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_12_Namespaces\\ClassLibrary1\\HR.cs",
               "RelativeDocumentMoniker": "ClassLibrary1\\HR.cs",
               "ToolTip": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_12_Namespaces\\ClassLibrary1\\HR.cs",
               "RelativeToolTip": "ClassLibrary1\\HR.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAAAgAAAADAAAA",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-14T03:30:37.563Z",
               "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CustomerEnquiry.cs",
-              "DocumentMoniker": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_12_Namespaces\\ClassLibrary1\\CustomerEnquiry.cs",
-              "RelativeDocumentMoniker": "ClassLibrary1\\CustomerEnquiry.cs",
-              "ToolTip": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_12_Namespaces\\ClassLibrary1\\CustomerEnquiry.cs",
-              "RelativeToolTip": "ClassLibrary1\\CustomerEnquiry.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-14T04:04:08.162Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "FrontOfficeExecutive.cs",
-              "DocumentMoniker": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_12_Namespaces\\ClassLibrary1\\FrontOfficeExecutive.cs",
-              "RelativeDocumentMoniker": "ClassLibrary1\\FrontOfficeExecutive.cs",
-              "ToolTip": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_12_Namespaces\\ClassLibrary1\\FrontOfficeExecutive.cs",
-              "RelativeToolTip": "ClassLibrary1\\FrontOfficeExecutive.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-14T04:00:46.337Z",
               "EditorCaption": ""
             },
             {
@@ -94,6 +68,30 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerEnquiry.cs",
+              "DocumentMoniker": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_12_Namespaces\\ClassLibrary1\\CustomerEnquiry.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\CustomerEnquiry.cs",
+              "ToolTip": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_12_Namespaces\\ClassLibrary1\\CustomerEnquiry.cs",
+              "RelativeToolTip": "ClassLibrary1\\CustomerEnquiry.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T04:04:08.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrontOfficeExecutive.cs",
+              "DocumentMoniker": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_12_Namespaces\\ClassLibrary1\\FrontOfficeExecutive.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\FrontOfficeExecutive.cs",
+              "ToolTip": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_12_Namespaces\\ClassLibrary1\\FrontOfficeExecutive.cs",
+              "RelativeToolTip": "ClassLibrary1\\FrontOfficeExecutive.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T04:00:46.337Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
               "Title": "FrontOffice.cs",
               "DocumentMoniker": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_12_Namespaces\\ClassLibrary1\\FrontOffice.cs",
@@ -102,21 +100,19 @@
               "RelativeToolTip": "ClassLibrary1\\FrontOffice.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-14T03:30:33.799Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-14T03:30:33.799Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_12_Namespaces\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_12_Namespaces\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABYAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-14T03:26:37.147Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-14T03:26:37.147Z"
             }
           ]
         },

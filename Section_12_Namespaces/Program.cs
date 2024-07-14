@@ -2,8 +2,8 @@
 {
     static void Main()
     {
-        HR.Manager manager;
-        manager = new HR.Manager();
+        HR.Mgr.Manager manager;
+        manager = new HR.Mgr.Manager();
 
         FrontOffice.CustomerEnquiry customerEnquiry = new FrontOffice.CustomerEnquiry();
         
