@@ -3,9 +3,10 @@
     public static void Main()
     {
         IPerson person = new Manager();
+        person.GetAge(); 
 
-        person.DateOfBirth = System.Convert.ToDateTime("1990-07-15");
-        System.Console.WriteLine(person.GetAge());
+        IEmployee employee = new Manager();
+        employee.GetAge();
 
         System.Console.ReadKey();
     }

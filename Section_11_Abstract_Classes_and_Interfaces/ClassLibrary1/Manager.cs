@@ -1,6 +1,6 @@
 ﻿using System;
 
-public class Manager : IEmployee
+public class Manager : IPerson, IEmployee
 {
     private string _departmentName;
     private System.DateTime _dateOfBirth;
@@ -46,9 +46,25 @@ public class Manager : IEmployee
         return "Health Insurance premium is : 500";
     }
 
+    //Same Implementation is taken for both interfaces
+   
+    /*
     public int GetAge()
     {
         return System.Convert.ToInt32((System.DateTime.Now - DateOfBirth).TotalDays/365);
+    }
+    */
+
+
+    //public is not allowed because by default interface implementation methods are private
+    int IPerson.GetAge()
+    {
+        return 20;
+    }
+
+    int IEmployee.GetAge()
+    {
+        return 30;
     }
 }
 

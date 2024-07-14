@@ -10,4 +10,6 @@
    //abstract method
    string GetHealthInsuranceAmount();
 
+   int GetAge();
+
 }
