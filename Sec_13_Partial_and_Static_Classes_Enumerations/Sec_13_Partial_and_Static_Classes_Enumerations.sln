@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sec_13_Partial_and_Static_C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary1", "ClassLibrary1\ClassLibrary1.csproj", "{A1515019-F3DC-4719-B23D-4266DD645FE7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Static_Classes_Console_Application", "Static_Classes_Console_Application\Static_Classes_Console_Application.csproj", "{7A84A11E-568E-4877-8BAA-7B21A43EB846}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Static_Classes_Class_Library", "Static_Classes_Class_Library\Static_Classes_Class_Library.csproj", "{9ABA6B7B-B424-4578-9941-4792F67D46C2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{A1515019-F3DC-4719-B23D-4266DD645FE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A1515019-F3DC-4719-B23D-4266DD645FE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A1515019-F3DC-4719-B23D-4266DD645FE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A84A11E-568E-4877-8BAA-7B21A43EB846}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A84A11E-568E-4877-8BAA-7B21A43EB846}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A84A11E-568E-4877-8BAA-7B21A43EB846}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A84A11E-568E-4877-8BAA-7B21A43EB846}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9ABA6B7B-B424-4578-9941-4792F67D46C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9ABA6B7B-B424-4578-9941-4792F67D46C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9ABA6B7B-B424-4578-9941-4792F67D46C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9ABA6B7B-B424-4578-9941-4792F67D46C2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

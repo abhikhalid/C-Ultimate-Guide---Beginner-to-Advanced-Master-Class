@@ -3,20 +3,12 @@
   "WorkspaceRootPath": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Sec_13_Partial_and_Static_Classes_Enumerations\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F7D77FEA-B65E-403A-822C-ECB57BD77B1E}|Sec_13_Partial_and_Static_Classes_Enumerations.csproj|d:\\coding\\development\\c#\\c_sharp-ultimate-guide-beginner-to-advanced-master-class\\sec_13_partial_and_static_classes_enumerations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7D77FEA-B65E-403A-822C-ECB57BD77B1E}|Sec_13_Partial_and_Static_Classes_Enumerations.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7A84A11E-568E-4877-8BAA-7B21A43EB846}|Static_Classes_Console_Application\\Static_Classes_Console_Application.csproj|d:\\coding\\development\\c#\\c_sharp-ultimate-guide-beginner-to-advanced-master-class\\sec_13_partial_and_static_classes_enumerations\\static_classes_console_application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A84A11E-568E-4877-8BAA-7B21A43EB846}|Static_Classes_Console_Application\\Static_Classes_Console_Application.csproj|solutionrelative:static_classes_console_application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1515019-F3DC-4719-B23D-4266DD645FE7}|ClassLibrary1\\ClassLibrary1.csproj|D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Sec_13_Partial_and_Static_Classes_Enumerations\\classlibrary1\\file3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1515019-F3DC-4719-B23D-4266DD645FE7}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\file3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1515019-F3DC-4719-B23D-4266DD645FE7}|ClassLibrary1\\ClassLibrary1.csproj|D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Sec_13_Partial_and_Static_Classes_Enumerations\\classlibrary1\\file2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1515019-F3DC-4719-B23D-4266DD645FE7}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\file2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1515019-F3DC-4719-B23D-4266DD645FE7}|ClassLibrary1\\ClassLibrary1.csproj|D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Sec_13_Partial_and_Static_Classes_Enumerations\\classlibrary1\\file1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1515019-F3DC-4719-B23D-4266DD645FE7}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\file1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9ABA6B7B-B424-4578-9941-4792F67D46C2}|Static_Classes_Class_Library\\Static_Classes_Class_Library.csproj|d:\\coding\\development\\c#\\c_sharp-ultimate-guide-beginner-to-advanced-master-class\\sec_13_partial_and_static_classes_enumerations\\static_classes_class_library\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ABA6B7B-B424-4578-9941-4792F67D46C2}|Static_Classes_Class_Library\\Static_Classes_Class_Library.csproj|solutionrelative:static_classes_class_library\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,64 +18,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "File1.cs",
-              "DocumentMoniker": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Sec_13_Partial_and_Static_Classes_Enumerations\\ClassLibrary1\\File1.cs",
-              "RelativeDocumentMoniker": "ClassLibrary1\\File1.cs",
-              "ToolTip": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Sec_13_Partial_and_Static_Classes_Enumerations\\ClassLibrary1\\File1.cs",
-              "RelativeToolTip": "ClassLibrary1\\File1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-14T05:46:57.384Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "File3.cs",
-              "DocumentMoniker": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Sec_13_Partial_and_Static_Classes_Enumerations\\ClassLibrary1\\File3.cs",
-              "RelativeDocumentMoniker": "ClassLibrary1\\File3.cs",
-              "ToolTip": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Sec_13_Partial_and_Static_Classes_Enumerations\\ClassLibrary1\\File3.cs",
-              "RelativeToolTip": "ClassLibrary1\\File3.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-14T05:47:41.08Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "File2.cs",
-              "DocumentMoniker": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Sec_13_Partial_and_Static_Classes_Enumerations\\ClassLibrary1\\File2.cs",
-              "RelativeDocumentMoniker": "ClassLibrary1\\File2.cs",
-              "ToolTip": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Sec_13_Partial_and_Static_Classes_Enumerations\\ClassLibrary1\\File2.cs",
-              "RelativeToolTip": "ClassLibrary1\\File2.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-14T05:47:29.597Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Sec_13_Partial_and_Static_Classes_Enumerations\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Sec_13_Partial_and_Static_Classes_Enumerations\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-14T05:44:16.09Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -103,6 +39,32 @@
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Sec_13_Partial_and_Static_Classes_Enumerations\\Static_Classes_Class_Library\\Class1.cs",
+              "RelativeDocumentMoniker": "Static_Classes_Class_Library\\Class1.cs",
+              "ToolTip": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Sec_13_Partial_and_Static_Classes_Enumerations\\Static_Classes_Class_Library\\Class1.cs",
+              "RelativeToolTip": "Static_Classes_Class_Library\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T07:02:11.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Sec_13_Partial_and_Static_Classes_Enumerations\\Static_Classes_Console_Application\\Program.cs",
+              "RelativeDocumentMoniker": "Static_Classes_Console_Application\\Program.cs",
+              "ToolTip": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Sec_13_Partial_and_Static_Classes_Enumerations\\Static_Classes_Console_Application\\Program.cs",
+              "RelativeToolTip": "Static_Classes_Console_Application\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T07:01:22.577Z",
+              "EditorCaption": ""
             }
           ]
         },
