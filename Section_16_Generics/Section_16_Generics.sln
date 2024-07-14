@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generic_Constraints", "Gene
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generic_Constraints_Class_Library", "Generic_Constraints_Class_Library\Generic_Constraints_Class_Library.csproj", "{28B200F9-28D4-4533-857E-7DA22BE7AA67}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generic_Methods_Console_Application", "Generic_Methods_Console_Application\Generic_Methods_Console_Application.csproj", "{29C87908-E3FE-45E3-BB7E-761D1179F489}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generic_Methods_Class_Library", "Generic_Methods_Class_Library\Generic_Methods_Class_Library.csproj", "{4DC43C4E-ABEB-4CB9-8DA0-986126585F13}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{28B200F9-28D4-4533-857E-7DA22BE7AA67}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{28B200F9-28D4-4533-857E-7DA22BE7AA67}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{28B200F9-28D4-4533-857E-7DA22BE7AA67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29C87908-E3FE-45E3-BB7E-761D1179F489}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29C87908-E3FE-45E3-BB7E-761D1179F489}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29C87908-E3FE-45E3-BB7E-761D1179F489}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29C87908-E3FE-45E3-BB7E-761D1179F489}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DC43C4E-ABEB-4CB9-8DA0-986126585F13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DC43C4E-ABEB-4CB9-8DA0-986126585F13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DC43C4E-ABEB-4CB9-8DA0-986126585F13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DC43C4E-ABEB-4CB9-8DA0-986126585F13}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

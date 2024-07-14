@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_16_Generics\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0C8C99DA-463A-430B-9D0A-1131CF656150}|Generic_Constraints\\Generic_Constraints.csproj|d:\\coding\\development\\c#\\c_sharp-ultimate-guide-beginner-to-advanced-master-class\\section_16_generics\\generic_constraints\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C8C99DA-463A-430B-9D0A-1131CF656150}|Generic_Constraints\\Generic_Constraints.csproj|solutionrelative:generic_constraints\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{29C87908-E3FE-45E3-BB7E-761D1179F489}|Generic_Methods_Console_Application\\Generic_Methods_Console_Application.csproj|d:\\coding\\development\\c#\\c_sharp-ultimate-guide-beginner-to-advanced-master-class\\section_16_generics\\generic_methods_console_application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29C87908-E3FE-45E3-BB7E-761D1179F489}|Generic_Methods_Console_Application\\Generic_Methods_Console_Application.csproj|solutionrelative:generic_methods_console_application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{28B200F9-28D4-4533-857E-7DA22BE7AA67}|Generic_Constraints_Class_Library\\Generic_Constraints_Class_Library.csproj|d:\\coding\\development\\c#\\c_sharp-ultimate-guide-beginner-to-advanced-master-class\\section_16_generics\\generic_constraints_class_library\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{28B200F9-28D4-4533-857E-7DA22BE7AA67}|Generic_Constraints_Class_Library\\Generic_Constraints_Class_Library.csproj|solutionrelative:generic_constraints_class_library\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4DC43C4E-ABEB-4CB9-8DA0-986126585F13}|Generic_Methods_Class_Library\\Generic_Methods_Class_Library.csproj|d:\\coding\\development\\c#\\c_sharp-ultimate-guide-beginner-to-advanced-master-class\\section_16_generics\\generic_methods_class_library\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DC43C4E-ABEB-4CB9-8DA0-986126585F13}|Generic_Methods_Class_Library\\Generic_Methods_Class_Library.csproj|solutionrelative:generic_methods_class_library\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,8 +18,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_16_Generics\\Generic_Methods_Class_Library\\Class1.cs",
+              "RelativeDocumentMoniker": "Generic_Methods_Class_Library\\Class1.cs",
+              "ToolTip": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_16_Generics\\Generic_Methods_Class_Library\\Class1.cs",
+              "RelativeToolTip": "Generic_Methods_Class_Library\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T15:15:30.966Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_16_Generics\\Generic_Methods_Console_Application\\Program.cs",
+              "RelativeDocumentMoniker": "Generic_Methods_Console_Application\\Program.cs",
+              "ToolTip": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_16_Generics\\Generic_Methods_Console_Application\\Program.cs",
+              "RelativeToolTip": "Generic_Methods_Console_Application\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T15:26:34.09Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -39,32 +67,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_16_Generics\\Generic_Constraints_Class_Library\\Class1.cs",
-              "RelativeDocumentMoniker": "Generic_Constraints_Class_Library\\Class1.cs",
-              "ToolTip": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_16_Generics\\Generic_Constraints_Class_Library\\Class1.cs",
-              "RelativeToolTip": "Generic_Constraints_Class_Library\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-14T14:51:33.161Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_16_Generics\\Generic_Constraints\\Program.cs",
-              "RelativeDocumentMoniker": "Generic_Constraints\\Program.cs",
-              "ToolTip": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_16_Generics\\Generic_Constraints\\Program.cs",
-              "RelativeToolTip": "Generic_Constraints\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-14T14:51:03.136Z",
-              "EditorCaption": ""
             }
           ]
         },
