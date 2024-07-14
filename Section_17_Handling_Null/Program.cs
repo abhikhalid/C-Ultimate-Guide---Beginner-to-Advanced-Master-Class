@@ -20,7 +20,8 @@ class Program
   
         if(p2.NoOfChildren != null) //p2.NoOfChildren.HasValue
         {
-            Console.WriteLine(p2.NoOfChildren);
+            Console.WriteLine(p2.NoOfChildren.HasValue ? p2.NoOfChildren.Value : 0);
+            Console.WriteLine(p2.NoOfChildren ?? 0);
         }
 
         Console.ReadKey();
