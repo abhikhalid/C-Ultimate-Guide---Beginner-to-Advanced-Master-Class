@@ -1,6 +1,6 @@
 ﻿using System;
 
-public class Manager : IEmployee, IPerson
+public class Manager : IEmployee
 {
     private string _departmentName;
     private System.DateTime _dateOfBirth;

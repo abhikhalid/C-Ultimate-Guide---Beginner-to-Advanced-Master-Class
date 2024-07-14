@@ -1,4 +1,4 @@
-﻿public interface IEmployee
+﻿public interface IEmployee : IPerson
 {
    //auto-properties
    int EmpID { get; set; }

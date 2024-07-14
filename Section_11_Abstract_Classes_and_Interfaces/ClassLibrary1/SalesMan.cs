@@ -1,10 +1,13 @@
-﻿public class SalesMan : IEmployee
+﻿using System;
+
+public class SalesMan : IEmployee
 {
     private string _region;
 
     public int EmpID { get => throw new System.NotImplementedException(); set => throw new System.NotImplementedException(); }
     public string EmpName { get => throw new System.NotImplementedException(); set => throw new System.NotImplementedException(); }
     public string Location { get => throw new System.NotImplementedException(); set => throw new System.NotImplementedException(); }
+    public DateTime DateOfBirth { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
 
     public SalesMan()
     {
@@ -27,5 +30,10 @@
     public  string GetHealthInsuranceAmount()
     {
         return "Health Insurance premium is : 1500";
+    }
+
+    public int GetAge()
+    {
+        throw new NotImplementedException();
     }
 }
