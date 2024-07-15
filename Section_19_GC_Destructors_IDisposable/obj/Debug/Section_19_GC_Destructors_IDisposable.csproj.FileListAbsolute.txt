@@ -1,0 +1,10 @@
+G:\Practice\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_19_GC_Destructors_IDisposable\bin\Debug\Section_19_GC_Destructors_IDisposable.exe.config
+G:\Practice\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_19_GC_Destructors_IDisposable\bin\Debug\Section_19_GC_Destructors_IDisposable.exe
+G:\Practice\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_19_GC_Destructors_IDisposable\bin\Debug\Section_19_GC_Destructors_IDisposable.pdb
+G:\Practice\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_19_GC_Destructors_IDisposable\bin\Debug\GC_Destructor_IDisposable_Class_Library.dll
+G:\Practice\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_19_GC_Destructors_IDisposable\bin\Debug\GC_Destructor_IDisposable_Class_Library.pdb
+G:\Practice\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_19_GC_Destructors_IDisposable\obj\Debug\Section_19_GC_Destructors_IDisposable.csproj.AssemblyReference.cache
+G:\Practice\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_19_GC_Destructors_IDisposable\obj\Debug\Section_19_GC_Destructors_IDisposable.csproj.CoreCompileInputs.cache
+G:\Practice\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_19_GC_Destructors_IDisposable\obj\Debug\Section_19_GC_Destructors_IDisposable.csproj.CopyComplete
+G:\Practice\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_19_GC_Destructors_IDisposable\obj\Debug\Section_19_GC_Destructors_IDisposable.exe
+G:\Practice\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_19_GC_Destructors_IDisposable\obj\Debug\Section_19_GC_Destructors_IDisposable.pdb
