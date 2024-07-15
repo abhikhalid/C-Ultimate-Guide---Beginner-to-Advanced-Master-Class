@@ -1,0 +1,10 @@
+G:\Practice\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_18_Extension_Methods_and_Pattern_Matching\bin\Debug\Section_18_Extension_Methods_and_Pattern_Matching.exe.config
+G:\Practice\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_18_Extension_Methods_and_Pattern_Matching\bin\Debug\Section_18_Extension_Methods_and_Pattern_Matching.exe
+G:\Practice\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_18_Extension_Methods_and_Pattern_Matching\bin\Debug\Section_18_Extension_Methods_and_Pattern_Matching.pdb
+G:\Practice\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_18_Extension_Methods_and_Pattern_Matching\bin\Debug\ClassLibrary1.dll
+G:\Practice\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_18_Extension_Methods_and_Pattern_Matching\bin\Debug\ClassLibrary1.pdb
+G:\Practice\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_18_Extension_Methods_and_Pattern_Matching\obj\Debug\Section_18_Extension_Methods_and_Pattern_Matching.csproj.AssemblyReference.cache
+G:\Practice\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_18_Extension_Methods_and_Pattern_Matching\obj\Debug\Section_18_Extension_Methods_and_Pattern_Matching.csproj.CoreCompileInputs.cache
+G:\Practice\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_18_Extension_Methods_and_Pattern_Matching\obj\Debug\Section_18_Extension_Methods_and_Pattern_Matching.csproj.CopyComplete
+G:\Practice\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_18_Extension_Methods_and_Pattern_Matching\obj\Debug\Section_18_Extension_Methods_and_Pattern_Matching.exe
+G:\Practice\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_18_Extension_Methods_and_Pattern_Matching\obj\Debug\Section_18_Extension_Methods_and_Pattern_Matching.pdb
