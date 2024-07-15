@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Section_19_GC_Destructors_I
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GC_Destructor_IDisposable_Class_Library", "GC_Destructor_IDisposable_Class_Library\GC_Destructor_IDisposable_Class_Library.csproj", "{5E7CF8A9-1120-410C-B06E-BB19E0593C65}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IDisposable_Console", "IDisposable_Console\IDisposable_Console.csproj", "{53AE9B97-4CF8-49C2-B98C-52B475A55AE1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IDisposable_Class_Library", "IDisposable_Class_Library\IDisposable_Class_Library.csproj", "{C4AF5634-D0FD-46C1-994A-4EBF95FC08A6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{5E7CF8A9-1120-410C-B06E-BB19E0593C65}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5E7CF8A9-1120-410C-B06E-BB19E0593C65}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5E7CF8A9-1120-410C-B06E-BB19E0593C65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53AE9B97-4CF8-49C2-B98C-52B475A55AE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53AE9B97-4CF8-49C2-B98C-52B475A55AE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53AE9B97-4CF8-49C2-B98C-52B475A55AE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53AE9B97-4CF8-49C2-B98C-52B475A55AE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4AF5634-D0FD-46C1-994A-4EBF95FC08A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4AF5634-D0FD-46C1-994A-4EBF95FC08A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4AF5634-D0FD-46C1-994A-4EBF95FC08A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4AF5634-D0FD-46C1-994A-4EBF95FC08A6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
