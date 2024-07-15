@@ -1,0 +1,10 @@
+G:\Practice\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_20_Delegates_and_Events\bin\Debug\Section_20_Delegates_and_Events.exe.config
+G:\Practice\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_20_Delegates_and_Events\bin\Debug\Section_20_Delegates_and_Events.exe
+G:\Practice\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_20_Delegates_and_Events\bin\Debug\Section_20_Delegates_and_Events.pdb
+G:\Practice\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_20_Delegates_and_Events\bin\Debug\Delegates_Class_Library.dll
+G:\Practice\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_20_Delegates_and_Events\bin\Debug\Delegates_Class_Library.pdb
+G:\Practice\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_20_Delegates_and_Events\obj\Debug\Section_20_Delegates_and_Events.csproj.AssemblyReference.cache
+G:\Practice\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_20_Delegates_and_Events\obj\Debug\Section_20_Delegates_and_Events.csproj.CoreCompileInputs.cache
+G:\Practice\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_20_Delegates_and_Events\obj\Debug\Section_20_Delegates_and_Events.csproj.CopyComplete
+G:\Practice\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_20_Delegates_and_Events\obj\Debug\Section_20_Delegates_and_Events.exe
+G:\Practice\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_20_Delegates_and_Events\obj\Debug\Section_20_Delegates_and_Events.pdb
