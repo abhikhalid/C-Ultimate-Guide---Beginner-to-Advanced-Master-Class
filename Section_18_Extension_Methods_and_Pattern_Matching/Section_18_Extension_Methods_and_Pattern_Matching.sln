@@ -17,6 +17,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Implicitly_Class_Library", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dynamically_Typed_var_console", "Dynamically_Typed_var_console\Dynamically_Typed_var_console.csproj", "{64EAE240-6648-449C-AA36-43B7066859FB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inner_Classes_Console_App", "Inner_Classes_Console_App\Inner_Classes_Console_App.csproj", "{D75E7095-B2A7-46D8-B486-8DB1A8F9E946}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inner_Classes_Class_Library", "Inner_Classes_Class_Library\Inner_Classes_Class_Library.csproj", "{38ABABFD-58C7-4FC7-9C05-DFF2A04CD1AE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +55,14 @@ Global
 		{64EAE240-6648-449C-AA36-43B7066859FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{64EAE240-6648-449C-AA36-43B7066859FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{64EAE240-6648-449C-AA36-43B7066859FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D75E7095-B2A7-46D8-B486-8DB1A8F9E946}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D75E7095-B2A7-46D8-B486-8DB1A8F9E946}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D75E7095-B2A7-46D8-B486-8DB1A8F9E946}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D75E7095-B2A7-46D8-B486-8DB1A8F9E946}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38ABABFD-58C7-4FC7-9C05-DFF2A04CD1AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38ABABFD-58C7-4FC7-9C05-DFF2A04CD1AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38ABABFD-58C7-4FC7-9C05-DFF2A04CD1AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38ABABFD-58C7-4FC7-9C05-DFF2A04CD1AE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
