@@ -1,0 +1,7 @@
+G:\Practice\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_20_Delegates_and_Events\Switch_Expression_ConsoleApp\bin\Debug\Switch_Expression_ConsoleApp.exe.config
+G:\Practice\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_20_Delegates_and_Events\Switch_Expression_ConsoleApp\bin\Debug\Switch_Expression_ConsoleApp.exe
+G:\Practice\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_20_Delegates_and_Events\Switch_Expression_ConsoleApp\bin\Debug\Switch_Expression_ConsoleApp.pdb
+G:\Practice\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_20_Delegates_and_Events\Switch_Expression_ConsoleApp\obj\Debug\Switch_Expression_ConsoleApp.csproj.AssemblyReference.cache
+G:\Practice\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_20_Delegates_and_Events\Switch_Expression_ConsoleApp\obj\Debug\Switch_Expression_ConsoleApp.csproj.CoreCompileInputs.cache
+G:\Practice\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_20_Delegates_and_Events\Switch_Expression_ConsoleApp\obj\Debug\Switch_Expression_ConsoleApp.exe
+G:\Practice\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_20_Delegates_and_Events\Switch_Expression_ConsoleApp\obj\Debug\Switch_Expression_ConsoleApp.pdb
