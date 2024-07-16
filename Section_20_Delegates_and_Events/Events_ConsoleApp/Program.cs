@@ -17,9 +17,11 @@ namespace Events_ConsoleApp
             //handle the event (or) subscribe to event
             //publisher.myEvent += subscriber.Add;
 
-            publisher.myEvent += delegate (int a, int b) //here we are writing 'delegate' keyword in order to create the anonymous method. It's not actual delegate.
+            publisher.myEvent += (a,b) =>//here we are writing 'delegate' keyword in order to create the anonymous method. It's not actual delegate.
             {
                 System.Console.WriteLine(a + b);
+
+                return a + b;
             };
 
             //invoke the event
