@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Events_ClassLibrary", "Even
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Expression_Trees", "Expression_Trees\Expression_Trees.csproj", "{2C01F590-8438-4E00-90BF-AA071ACB9341}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Expression_Boiled_Members", "Expression_Boiled_Members\Expression_Boiled_Members.csproj", "{BC886F84-38F6-4684-9F04-42DA66EF93FB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{2C01F590-8438-4E00-90BF-AA071ACB9341}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2C01F590-8438-4E00-90BF-AA071ACB9341}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2C01F590-8438-4E00-90BF-AA071ACB9341}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC886F84-38F6-4684-9F04-42DA66EF93FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC886F84-38F6-4684-9F04-42DA66EF93FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC886F84-38F6-4684-9F04-42DA66EF93FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC886F84-38F6-4684-9F04-42DA66EF93FB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
