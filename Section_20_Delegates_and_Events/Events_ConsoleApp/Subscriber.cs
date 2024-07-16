@@ -12,7 +12,7 @@ namespace Events_ConsoleApp
         //target method, that I wish to execute as soon the event is raised is that "Add" method.
         // I want to execute this target method as soon as the event is raised. But raising the event is not in the hands of Subscriber.
         // The only intention of the Subscriber is that, it can say that the Add method should be executed as soon as the Publisher class raises the event.
-        public void Add(int a,int b)
+        public void Add(int a,int b) // (Event handler)
         {
             System.Console.WriteLine(a + b);
         }
