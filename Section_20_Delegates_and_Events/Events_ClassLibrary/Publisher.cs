@@ -18,7 +18,7 @@ namespace Events_ClassLibrary
         //step 2: private delegate
         private MyDelegateType myDelegate;
 
-        //step 1: create an event
+        //step 1: create an event (based on the private delegate)
         public event MyDelegateType myEvent
         {
             //much like properties, it contains two accessor, Add and Remove
