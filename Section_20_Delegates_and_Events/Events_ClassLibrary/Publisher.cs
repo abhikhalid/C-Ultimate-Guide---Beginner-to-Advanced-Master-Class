@@ -9,13 +9,13 @@ namespace Events_ClassLibrary
     //In publisher class, I wish to create an event. Before doing that, first we require to create a delegate type because events are the delegates that are created based on the delegate types.
   
     //delegate type
-    public delegate int MyDelegateType(int a,int b);
+    //public delegate int MyDelegateType(int a,int b);
 
     //publisher
     public class Publisher
     {
         //step 1: create an event
-        public event MyDelegateType myEvent; //internally C# compiler automatically creates the code for add and remove accessors and also creates private delegate.
+        public event Func<int,int,int> myEvent; //internally C# compiler automatically creates the code for add and remove accessors and also creates private delegate.
 
         //Step No: 2 -raise event
         public int RaiseEvent(int a,int b)
