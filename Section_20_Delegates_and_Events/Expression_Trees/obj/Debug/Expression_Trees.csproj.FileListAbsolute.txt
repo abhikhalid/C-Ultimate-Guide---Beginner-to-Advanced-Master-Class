@@ -1,0 +1,7 @@
+G:\Practice\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_20_Delegates_and_Events\Expression_Trees\bin\Debug\Expression_Trees.exe.config
+G:\Practice\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_20_Delegates_and_Events\Expression_Trees\bin\Debug\Expression_Trees.exe
+G:\Practice\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_20_Delegates_and_Events\Expression_Trees\bin\Debug\Expression_Trees.pdb
+G:\Practice\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_20_Delegates_and_Events\Expression_Trees\obj\Debug\Expression_Trees.csproj.AssemblyReference.cache
+G:\Practice\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_20_Delegates_and_Events\Expression_Trees\obj\Debug\Expression_Trees.csproj.CoreCompileInputs.cache
+G:\Practice\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_20_Delegates_and_Events\Expression_Trees\obj\Debug\Expression_Trees.exe
+G:\Practice\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_20_Delegates_and_Events\Expression_Trees\obj\Debug\Expression_Trees.pdb
