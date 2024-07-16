@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multi_Cast_Delegates", "Mul
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multi_Cast_Delegate_ClassLibrary", "Multi_Cast_Delegate_ClassLibrary\Multi_Cast_Delegate_ClassLibrary.csproj", "{C449543A-34C7-468B-A300-0BF357D80E85}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Events_ConsoleApp", "Events_ConsoleApp\Events_ConsoleApp.csproj", "{663EEE3D-2DF2-44D1-86D8-F2A5D50A7789}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Events_ClassLibrary", "Events_ClassLibrary\Events_ClassLibrary.csproj", "{008C16BA-C229-4CC2-9DA7-9DE7D958D458}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{C449543A-34C7-468B-A300-0BF357D80E85}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C449543A-34C7-468B-A300-0BF357D80E85}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C449543A-34C7-468B-A300-0BF357D80E85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{663EEE3D-2DF2-44D1-86D8-F2A5D50A7789}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{663EEE3D-2DF2-44D1-86D8-F2A5D50A7789}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{663EEE3D-2DF2-44D1-86D8-F2A5D50A7789}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{663EEE3D-2DF2-44D1-86D8-F2A5D50A7789}.Release|Any CPU.Build.0 = Release|Any CPU
+		{008C16BA-C229-4CC2-9DA7-9DE7D958D458}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{008C16BA-C229-4CC2-9DA7-9DE7D958D458}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{008C16BA-C229-4CC2-9DA7-9DE7D958D458}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{008C16BA-C229-4CC2-9DA7-9DE7D958D458}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

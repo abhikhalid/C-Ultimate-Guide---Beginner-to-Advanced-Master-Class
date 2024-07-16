@@ -1,0 +1,6 @@
+G:\Practice\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_20_Delegates_and_Events\Events_ClassLibrary\bin\Debug\Events_ClassLibrary.dll
+G:\Practice\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_20_Delegates_and_Events\Events_ClassLibrary\bin\Debug\Events_ClassLibrary.pdb
+G:\Practice\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_20_Delegates_and_Events\Events_ClassLibrary\obj\Debug\Events_ClassLibrary.csproj.AssemblyReference.cache
+G:\Practice\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_20_Delegates_and_Events\Events_ClassLibrary\obj\Debug\Events_ClassLibrary.csproj.CoreCompileInputs.cache
+G:\Practice\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_20_Delegates_and_Events\Events_ClassLibrary\obj\Debug\Events_ClassLibrary.dll
+G:\Practice\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_20_Delegates_and_Events\Events_ClassLibrary\obj\Debug\Events_ClassLibrary.pdb
