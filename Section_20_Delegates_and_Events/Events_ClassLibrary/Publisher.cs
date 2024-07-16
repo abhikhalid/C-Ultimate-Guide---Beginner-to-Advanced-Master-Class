@@ -15,17 +15,16 @@ namespace Events_ClassLibrary
     public class Publisher
     {
         //step 1: create an event
-        public event Func<int,int,int> myEvent; //internally C# compiler automatically creates the code for add and remove accessors and also creates private delegate.
+        public event Action<int,int> myEvent; //internally C# compiler automatically creates the code for add and remove accessors and also creates private delegate.
 
-        //Step No: 2 -raise event
-        public int RaiseEvent(int a,int b)
+        //Step No 2:raise event
+        public void RaiseEvent(int a,int b)
         {
             //if nobody subscribes to the event, in that case myEvent is null
             if (this.myEvent != null) // that means, at least one or more methods have been subscribed to the event, then only we have to raise the event.
             {
-                return this.myEvent(a, b);
+                this.myEvent(a, b);
             }
-            else return 0;
         }
     }
 }
