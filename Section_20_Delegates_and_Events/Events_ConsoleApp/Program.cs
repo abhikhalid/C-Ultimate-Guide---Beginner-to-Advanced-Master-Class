@@ -17,15 +17,14 @@ namespace Events_ConsoleApp
             //handle the event (or) subscribe to event
             //publisher.myEvent += subscriber.Add;
 
-            publisher.myEvent += (a,b) => {
-                int c = a + b;
-                Console.WriteLine(c);
-            }; 
+            publisher.myEvent += (a) => {
+                return a >= 0;
+            };
 
             //invoke the event
-            publisher.RaiseEvent(10,20);
-            publisher.RaiseEvent(5,80);
-            publisher.RaiseEvent(14,22);
+            Console.WriteLine(publisher.RaiseEvent(10));
+            Console.WriteLine(publisher.RaiseEvent(-5));
+            Console.WriteLine(publisher.RaiseEvent(-14));
 
             Console.ReadKey();
         }
