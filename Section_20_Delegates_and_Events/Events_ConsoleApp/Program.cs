@@ -17,12 +17,10 @@ namespace Events_ConsoleApp
             //handle the event (or) subscribe to event
             //publisher.myEvent += subscriber.Add;
 
-            publisher.myEvent += (a,b) =>//here we are writing 'delegate' keyword in order to create the anonymous method. It's not actual delegate.
-            {
-                System.Console.WriteLine(a + b);
+            publisher.myEvent += (a,b) => a + b; // inline lamda expresion, it must return a value
 
-                return a + b;
-            };
+
+
 
             //invoke the event
             publisher.RaiseEvent(10,20);
