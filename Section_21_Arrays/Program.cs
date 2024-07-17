@@ -6,18 +6,15 @@ namespace Section_21_Arrays
     {
         static void Main(string[] args)
         {
-            //create an array
-            double[] a = new double[] { 10, 20, 30, 40,50,60,70,80,90,100};
+            //create array
+            int[] a = new int[] {10, 20, 30,40,50,60};
 
-            //search for 30 in the array (first half)
-            int n = Array.BinarySearch(a, 30);
-            Console.WriteLine("30 is found at "+n);
+            //clear elements of array
+            Array.Clear(a,2,3);
 
-
-            //search for 100 in the array (second half)
-            int n2 = Array.BinarySearch(a, 80);
-            Console.WriteLine("100 is found at " + n2);
-
+            foreach (int item in a) {
+              System.Console.WriteLine(item);
+            }
 
             Console.ReadKey();
         }
