@@ -1,0 +1,7 @@
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_21_Arrays\CopyTo_and_Clone_ConsoleApp\bin\Debug\CopyTo_and_Clone_ConsoleApp.exe.config
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_21_Arrays\CopyTo_and_Clone_ConsoleApp\bin\Debug\CopyTo_and_Clone_ConsoleApp.exe
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_21_Arrays\CopyTo_and_Clone_ConsoleApp\bin\Debug\CopyTo_and_Clone_ConsoleApp.pdb
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_21_Arrays\CopyTo_and_Clone_ConsoleApp\obj\Debug\CopyTo_and_Clone_ConsoleApp.csproj.AssemblyReference.cache
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_21_Arrays\CopyTo_and_Clone_ConsoleApp\obj\Debug\CopyTo_and_Clone_ConsoleApp.csproj.CoreCompileInputs.cache
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_21_Arrays\CopyTo_and_Clone_ConsoleApp\obj\Debug\CopyTo_and_Clone_ConsoleApp.exe
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_21_Arrays\CopyTo_and_Clone_ConsoleApp\obj\Debug\CopyTo_and_Clone_ConsoleApp.pdb
