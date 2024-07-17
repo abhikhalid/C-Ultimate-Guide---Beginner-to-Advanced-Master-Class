@@ -1,0 +1,7 @@
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_22_Collections\IndexOf_Binary_Search_Contains_ConsoleApp\bin\Debug\IndexOf_Binary_Search_Contains_ConsoleApp.exe.config
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_22_Collections\IndexOf_Binary_Search_Contains_ConsoleApp\bin\Debug\IndexOf_Binary_Search_Contains_ConsoleApp.exe
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_22_Collections\IndexOf_Binary_Search_Contains_ConsoleApp\bin\Debug\IndexOf_Binary_Search_Contains_ConsoleApp.pdb
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_22_Collections\IndexOf_Binary_Search_Contains_ConsoleApp\obj\Debug\IndexOf_Binary_Search_Contains_ConsoleApp.csproj.AssemblyReference.cache
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_22_Collections\IndexOf_Binary_Search_Contains_ConsoleApp\obj\Debug\IndexOf_Binary_Search_Contains_ConsoleApp.csproj.CoreCompileInputs.cache
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_22_Collections\IndexOf_Binary_Search_Contains_ConsoleApp\obj\Debug\IndexOf_Binary_Search_Contains_ConsoleApp.exe
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_22_Collections\IndexOf_Binary_Search_Contains_ConsoleApp\obj\Debug\IndexOf_Binary_Search_Contains_ConsoleApp.pdb
