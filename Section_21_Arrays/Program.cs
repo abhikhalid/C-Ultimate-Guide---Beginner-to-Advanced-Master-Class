@@ -13,13 +13,19 @@ namespace Section_21_Arrays
             string[] b = new string[5] {"one","two","three","four","five"};
 
 
-            for (int i = 0; i < a.Length; i++) {
-               Console.WriteLine(a[i]);
+            foreach(int i in a) {
+               Console.WriteLine(i);
             }
 
             Console.WriteLine();
 
-            for (int i = 0; i < b.Length; i++) {
+            foreach(string i in b) {
+                Console.WriteLine(i);
+            }
+
+            //reverse
+            for (int i = b.Length - 1; i >= 0; i--)
+            {
                 Console.WriteLine(b[i]);
             }
 
