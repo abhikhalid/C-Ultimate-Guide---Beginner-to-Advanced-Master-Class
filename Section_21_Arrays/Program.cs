@@ -7,13 +7,14 @@ namespace Section_21_Arrays
         static void Main(string[] args)
         {
             //create array
-            int[] a = new int[] {10, 20, 30,40,50,60};
+            int[] a = new int[] { 10, 20, 30 };
 
-            //clear elements of array
-            Array.Clear(a,2,3);
+            //resize array to 5
+            Array.Resize(ref a,5);
 
-            foreach (int item in a) {
-              System.Console.WriteLine(item);
+            foreach(int i in a)
+            {
+                Console.WriteLine(i);
             }
 
             Console.ReadKey();
