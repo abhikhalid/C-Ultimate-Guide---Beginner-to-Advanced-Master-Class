@@ -7,14 +7,15 @@ namespace Section_21_Arrays
         static void Main(string[] args)
         {
             //create array
-            int[] a = new int[] { 10, 20, 30 };
+            int[] a = new int[] { 67, 12, 99, 4, 500, 125 };
 
-            //resize array to 5
-            Array.Resize(ref a,5);
+            //sort ascending order
+            Array.Sort(a);
 
-            foreach(int i in a)
+            //display array after sort
+            foreach(int item in a)
             {
-                Console.WriteLine(i);
+                Console.WriteLine(item);
             }
 
             Console.ReadKey();
