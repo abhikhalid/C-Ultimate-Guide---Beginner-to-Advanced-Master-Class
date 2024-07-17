@@ -1,0 +1,7 @@
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_22_Collections\Sort_Reverse_ConsoleApp\bin\Debug\Sort_Reverse_ConsoleApp.exe.config
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_22_Collections\Sort_Reverse_ConsoleApp\bin\Debug\Sort_Reverse_ConsoleApp.exe
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_22_Collections\Sort_Reverse_ConsoleApp\bin\Debug\Sort_Reverse_ConsoleApp.pdb
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_22_Collections\Sort_Reverse_ConsoleApp\obj\Debug\Sort_Reverse_ConsoleApp.csproj.AssemblyReference.cache
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_22_Collections\Sort_Reverse_ConsoleApp\obj\Debug\Sort_Reverse_ConsoleApp.csproj.CoreCompileInputs.cache
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_22_Collections\Sort_Reverse_ConsoleApp\obj\Debug\Sort_Reverse_ConsoleApp.exe
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_22_Collections\Sort_Reverse_ConsoleApp\obj\Debug\Sort_Reverse_ConsoleApp.pdb
