@@ -18,6 +18,15 @@ namespace Section_21_Arrays
                 Console.WriteLine(item);
             }
 
+            Console.WriteLine();
+
+            Array.Reverse(a);
+
+            foreach (int item in a)
+            {
+                Console.WriteLine(item);
+            }
+
             Console.ReadKey();
         }
     }
