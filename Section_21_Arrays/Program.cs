@@ -7,19 +7,16 @@ namespace Section_21_Arrays
         static void Main(string[] args)
         {
             //create an array
-            double[] a = new double[6] { 10, 20, 30, 40, 50, 30 };
+            double[] a = new double[] { 10, 20, 30, 40,50,60,70,80,90,100};
 
-            //search for 30 in the array
-            int n = Array.IndexOf(a, 30);
+            //search for 30 in the array (first half)
+            int n = Array.BinarySearch(a, 30);
             Console.WriteLine("30 is found at "+n);
 
-            //search for 30 in the array (second occurrence)
-            int n2 = Array.IndexOf(a, 30, 3);
-            Console.WriteLine("30 second occurrence is found at " + n2);
 
-            //search for 100 in the array (not exists)
-            int n3 = Array.IndexOf(a, 100);
-            Console.WriteLine("100 is found at " + n3);
+            //search for 100 in the array (second half)
+            int n2 = Array.BinarySearch(a, 80);
+            Console.WriteLine("100 is found at " + n2);
 
 
             Console.ReadKey();
