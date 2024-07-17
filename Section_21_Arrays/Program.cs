@@ -6,28 +6,28 @@ namespace Section_21_Arrays
     {
         static void Main(string[] args)
         {
-            //create array
-            int[] a = new int[] { 67, 12, 99, 4, 500, 125 };
-
-            //sort ascending order
-            Array.Sort(a);
-
-            //display array after sort
-            foreach(int item in a)
+            //multi-dim array 4 x 3
+            int[,] a = new int[4, 3]
             {
-                Console.WriteLine(item);
-            }
+                {10,20,30},
+                {40,50,60},
+                {70,80,90},
+                {100,110,120}
+            };
 
-            Console.WriteLine();
-
-            Array.Reverse(a);
-
-            foreach (int item in a)
+            //read data from multi-dim array
+            for(int i = 0;i<4;i++)
             {
-                Console.WriteLine(item);
+                for(int j = 0; j < 3; j++)
+                {
+                    System.Console.Write(a[i,j]+" ");
+                }
+                Console.WriteLine();
             }
 
             Console.ReadKey();
         }
+
+        // Pracise with 3 or more dimentional array
     }
 }
