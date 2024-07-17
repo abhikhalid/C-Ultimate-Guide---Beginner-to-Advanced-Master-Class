@@ -7,27 +7,19 @@ namespace Section_21_Arrays
         static void Main(string[] args)
         {
             //create an array
+            double[] a = new double[6] { 10, 20, 30, 40, 50, 30 };
 
-            //since the data type is int - that is the numerical type - the default value for int is 0
-            int[] a = new int[5] {10,20,30,40,50};
-            string[] b = new string[5] {"one","two","three","four","five"};
+            //search for 30 in the array
+            int n = Array.IndexOf(a, 30);
+            Console.WriteLine("30 is found at "+n);
 
+            //search for 30 in the array (second occurrence)
+            int n2 = Array.IndexOf(a, 30, 3);
+            Console.WriteLine("30 second occurrence is found at " + n2);
 
-            foreach(int i in a) {
-               Console.WriteLine(i);
-            }
-
-            Console.WriteLine();
-
-            foreach(string i in b) {
-                Console.WriteLine(i);
-            }
-
-            //reverse
-            for (int i = b.Length - 1; i >= 0; i--)
-            {
-                Console.WriteLine(b[i]);
-            }
+            //search for 100 in the array (not exists)
+            int n3 = Array.IndexOf(a, 100);
+            Console.WriteLine("100 is found at " + n3);
 
 
             Console.ReadKey();
