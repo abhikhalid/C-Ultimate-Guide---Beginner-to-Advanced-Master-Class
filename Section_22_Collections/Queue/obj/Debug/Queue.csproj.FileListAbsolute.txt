@@ -1,0 +1,7 @@
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_22_Collections\Queue\bin\Debug\Queue.exe.config
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_22_Collections\Queue\bin\Debug\Queue.exe
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_22_Collections\Queue\bin\Debug\Queue.pdb
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_22_Collections\Queue\obj\Debug\Queue.csproj.AssemblyReference.cache
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_22_Collections\Queue\obj\Debug\Queue.csproj.CoreCompileInputs.cache
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_22_Collections\Queue\obj\Debug\Queue.exe
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_22_Collections\Queue\obj\Debug\Queue.pdb
