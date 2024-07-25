@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_22_Collections\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E83A8F3C-F512-40B2-9C4D-4E24BBFD2378}|ArrayList\\ArrayList.csproj|d:\\coding\\development\\c#\\c_sharp-ultimate-guide-beginner-to-advanced-master-class\\section_22_collections\\arraylist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E83A8F3C-F512-40B2-9C4D-4E24BBFD2378}|ArrayList\\ArrayList.csproj|solutionrelative:arraylist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1C760354-3962-499F-9F57-86CB34292F3B}|Stack\\Stack.csproj|d:\\coding\\development\\c#\\c_sharp-ultimate-guide-beginner-to-advanced-master-class\\section_22_collections\\stack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C760354-3962-499F-9F57-86CB34292F3B}|Stack\\Stack.csproj|solutionrelative:stack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -40,13 +40,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_22_Collections\\ArrayList\\Program.cs",
-              "RelativeDocumentMoniker": "ArrayList\\Program.cs",
-              "ToolTip": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_22_Collections\\ArrayList\\Program.cs",
-              "RelativeToolTip": "ArrayList\\Program.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAJAAAA",
+              "DocumentMoniker": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_22_Collections\\Stack\\Program.cs",
+              "RelativeDocumentMoniker": "Stack\\Program.cs",
+              "ToolTip": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_22_Collections\\Stack\\Program.cs",
+              "RelativeToolTip": "Stack\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-25T14:21:13.97Z",
+              "WhenOpened": "2024-07-25T15:34:05.57Z",
               "EditorCaption": ""
             }
           ]
