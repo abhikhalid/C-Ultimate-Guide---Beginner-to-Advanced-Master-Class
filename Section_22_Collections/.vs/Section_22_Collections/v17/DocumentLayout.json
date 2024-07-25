@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_22_Collections\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5EBD17C5-CC73-4FC7-8C81-47A9A6968748}|Queue\\Queue.csproj|d:\\coding\\development\\c#\\c_sharp-ultimate-guide-beginner-to-advanced-master-class\\section_22_collections\\queue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5EBD17C5-CC73-4FC7-8C81-47A9A6968748}|Queue\\Queue.csproj|solutionrelative:queue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{75C55DE8-5906-4533-9A3C-BC845D743967}|Collection_of_Objects_ConsoleApp\\Collection_of_Objects_ConsoleApp.csproj|d:\\coding\\development\\c#\\c_sharp-ultimate-guide-beginner-to-advanced-master-class\\section_22_collections\\collection_of_objects_consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75C55DE8-5906-4533-9A3C-BC845D743967}|Collection_of_Objects_ConsoleApp\\Collection_of_Objects_ConsoleApp.csproj|solutionrelative:collection_of_objects_consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75C55DE8-5906-4533-9A3C-BC845D743967}|Collection_of_Objects_ConsoleApp\\Collection_of_Objects_ConsoleApp.csproj|d:\\coding\\development\\c#\\c_sharp-ultimate-guide-beginner-to-advanced-master-class\\section_22_collections\\collection_of_objects_consoleapp\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75C55DE8-5906-4533-9A3C-BC845D743967}|Collection_of_Objects_ConsoleApp\\Collection_of_Objects_ConsoleApp.csproj|solutionrelative:collection_of_objects_consoleapp\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,15 +42,28 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_22_Collections\\Collection_of_Objects_ConsoleApp\\Product.cs",
+              "RelativeDocumentMoniker": "Collection_of_Objects_ConsoleApp\\Product.cs",
+              "ToolTip": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_22_Collections\\Collection_of_Objects_ConsoleApp\\Product.cs",
+              "RelativeToolTip": "Collection_of_Objects_ConsoleApp\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T17:24:18.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_22_Collections\\Queue\\Program.cs",
-              "RelativeDocumentMoniker": "Queue\\Program.cs",
-              "ToolTip": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_22_Collections\\Queue\\Program.cs",
-              "RelativeToolTip": "Queue\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAuAAAA",
+              "DocumentMoniker": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_22_Collections\\Collection_of_Objects_ConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "Collection_of_Objects_ConsoleApp\\Program.cs",
+              "ToolTip": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_22_Collections\\Collection_of_Objects_ConsoleApp\\Program.cs",
+              "RelativeToolTip": "Collection_of_Objects_ConsoleApp\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAkwCMAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-25T16:42:08.211Z",
+              "WhenOpened": "2024-07-25T17:22:26.203Z",
               "EditorCaption": ""
             }
           ]
