@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_22_Collections\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7400A907-CD7B-4A97-8201-933D79CBBB1D}|SortedList\\SortedList.csproj|d:\\coding\\development\\c#\\c_sharp-ultimate-guide-beginner-to-advanced-master-class\\section_22_collections\\sortedlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7400A907-CD7B-4A97-8201-933D79CBBB1D}|SortedList\\SortedList.csproj|solutionrelative:sortedlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F8E410BE-63DD-479C-8A63-9A9512A6DC02}|HashTable\\HashTable.csproj|d:\\coding\\development\\c#\\c_sharp-ultimate-guide-beginner-to-advanced-master-class\\section_22_collections\\hashtable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8E410BE-63DD-479C-8A63-9A9512A6DC02}|HashTable\\HashTable.csproj|solutionrelative:hashtable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -40,13 +40,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_22_Collections\\SortedList\\Program.cs",
-              "RelativeDocumentMoniker": "SortedList\\Program.cs",
-              "ToolTip": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_22_Collections\\SortedList\\Program.cs",
-              "RelativeToolTip": "SortedList\\Program.cs",
-              "ViewState": "AQIAAC4AAAAAAAAAAAAAAD8AAAAAAAAA",
+              "DocumentMoniker": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_22_Collections\\HashTable\\Program.cs",
+              "RelativeDocumentMoniker": "HashTable\\Program.cs",
+              "ToolTip": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_22_Collections\\HashTable\\Program.cs",
+              "RelativeToolTip": "HashTable\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABkAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-25T07:19:53.388Z",
+              "WhenOpened": "2024-07-25T08:32:28.404Z",
               "EditorCaption": ""
             }
           ]
