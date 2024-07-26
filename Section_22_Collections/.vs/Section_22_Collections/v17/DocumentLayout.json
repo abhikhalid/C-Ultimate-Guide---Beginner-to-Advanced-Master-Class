@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_22_Collections\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1829BD46-134B-428E-803D-052D4DDD0DF9}|Iterator_and_Yield_Return\\Iterator_and_Yield_Return.csproj|d:\\coding\\development\\c#\\c_sharp-ultimate-guide-beginner-to-advanced-master-class\\section_22_collections\\iterator_and_yield_return\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1829BD46-134B-428E-803D-052D4DDD0DF9}|Iterator_and_Yield_Return\\Iterator_and_Yield_Return.csproj|solutionrelative:iterator_and_yield_return\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{33E57934-D127-479D-BC09-C32EB4F7EC8E}|CustomCollections\\CustomCollections.csproj|d:\\coding\\development\\c#\\c_sharp-ultimate-guide-beginner-to-advanced-master-class\\section_22_collections\\customcollections\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33E57934-D127-479D-BC09-C32EB4F7EC8E}|CustomCollections\\CustomCollections.csproj|solutionrelative:customcollections\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -40,13 +40,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_22_Collections\\Iterator_and_Yield_Return\\Program.cs",
-              "RelativeDocumentMoniker": "Iterator_and_Yield_Return\\Program.cs",
-              "ToolTip": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_22_Collections\\Iterator_and_Yield_Return\\Program.cs",
-              "RelativeToolTip": "Iterator_and_Yield_Return\\Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAAARAAAA",
+              "DocumentMoniker": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_22_Collections\\CustomCollections\\Program.cs",
+              "RelativeDocumentMoniker": "CustomCollections\\Program.cs",
+              "ToolTip": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_22_Collections\\CustomCollections\\Program.cs",
+              "RelativeToolTip": "CustomCollections\\Program.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAiwFgAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-26T12:24:30.327Z",
+              "WhenOpened": "2024-07-26T13:46:48.988Z",
               "EditorCaption": ""
             }
           ]
