@@ -21,31 +21,7 @@ namespace CustomCollections
     //custom collection class
     public class CustomersList : IEnumerable
     {
-        private List<Customer> _customers = new List<Customer>()
-        {
-            new Customer()
-            {
-                CustomerID = "A101",
-                CustomerName = "James",
-                Email = "khalid@gmail.com",
-                CustomerType = TypeOfCustomer.RegularCustomer
-            },
-              new Customer()
-            {
-                CustomerID = "A201",
-                CustomerName = "Bob",
-                Email = "bob@gmail.com",
-                CustomerType = TypeOfCustomer.VIPCustomer
-            },
-                new Customer()
-            {
-                CustomerID = "A301",
-                CustomerName = "Alice",
-                Email = "alice@gmail.com",
-                CustomerType = TypeOfCustomer.VIPCustomer
-            }
-        };
-
+        private List<Customer> _customers = new List<Customer>();
 
         public List<Customer> GetCustomers()
         {
@@ -92,7 +68,40 @@ namespace CustomCollections
     {
         static void Main()
         {
-            CustomersList customersList = new CustomersList(); //3 Customers
+            //this is called as Collection Initializer. whenever a custom collection class has Add method
+            // and you supply a set of customer objects like this; for each method supplied here, the add method will be called once.
+            // this is inbuilt in C#
+            CustomersList customersList = new CustomersList()
+            {
+                 new Customer()
+                {
+                    CustomerID = "A101",
+                    CustomerName = "James",
+                    Email = "khalid@gmail.com",
+                    CustomerType = TypeOfCustomer.RegularCustomer
+                },
+                  new Customer()
+                {
+                    CustomerID = "A201",
+                    CustomerName = "Bob",
+                    Email = "bob@gmail.com",
+                    CustomerType = TypeOfCustomer.VIPCustomer
+                },
+                  new Customer()
+                {
+                    CustomerID = "A301",
+                    CustomerName = "Alice",
+                    Email = "alice@gmail.com",
+                    CustomerType = TypeOfCustomer.VIPCustomer
+                },
+                new Customer()
+                {
+                    CustomerID = "A456",
+                    CustomerName = "Jacob",
+                    Email = "jacon@example.com",
+                    CustomerType = TypeOfCustomer.VIPCustomer
+                }
+            };
 
             //aproach 1
             //List<Customer> c = customersList.GetCustomers();
@@ -113,24 +122,13 @@ namespace CustomCollections
 
             //or
 
-            Customer new_cust = new Customer()
-            {
-                CustomerID = "A456",
-                CustomerName = "Jacob",
-                Email = "jacon@example.com",
-                CustomerType = TypeOfCustomer.VIPCustomer
-            };
-
-
+          
             //approach 3 
             foreach (Customer customer in customersList) //behind the scene, it will call the GetEnumerator() method of CustomerList class as it implements IEnumerable interface.
             {
                 Console.WriteLine(customer.CustomerID + "," + customer.CustomerName
                     + "," + customer.Email + "," + customer.CustomerType);
             }
-
-            
-
 
             Console.ReadKey();  
 
