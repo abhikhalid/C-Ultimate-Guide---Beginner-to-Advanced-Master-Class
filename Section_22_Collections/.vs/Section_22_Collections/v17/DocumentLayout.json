@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_22_Collections\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{65E90F65-7676-4092-B002-2588CCD64479}|Custom_Collection_With_IList\\Custom_Collection_With_IList.csproj|d:\\coding\\development\\c#\\c_sharp-ultimate-guide-beginner-to-advanced-master-class\\section_22_collections\\custom_collection_with_ilist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65E90F65-7676-4092-B002-2588CCD64479}|Custom_Collection_With_IList\\Custom_Collection_With_IList.csproj|solutionrelative:custom_collection_with_ilist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A4C1B402-6056-4A43-91B4-54C75893E2E0}|IEquatable\\IEquatable.csproj|d:\\coding\\development\\c#\\c_sharp-ultimate-guide-beginner-to-advanced-master-class\\section_22_collections\\iequatable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4C1B402-6056-4A43-91B4-54C75893E2E0}|IEquatable\\IEquatable.csproj|solutionrelative:iequatable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,13 +36,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_22_Collections\\Custom_Collection_With_IList\\Program.cs",
-              "RelativeDocumentMoniker": "Custom_Collection_With_IList\\Program.cs",
-              "ToolTip": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_22_Collections\\Custom_Collection_With_IList\\Program.cs",
-              "RelativeToolTip": "Custom_Collection_With_IList\\Program.cs",
-              "ViewState": "AQIAAO8AAAAAAAAAAAAAAAMBAAA9AAAA",
+              "DocumentMoniker": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_22_Collections\\IEquatable\\Program.cs",
+              "RelativeDocumentMoniker": "IEquatable\\Program.cs",
+              "ToolTip": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_22_Collections\\IEquatable\\Program.cs",
+              "RelativeToolTip": "IEquatable\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-26T18:39:11.917Z",
+              "WhenOpened": "2024-07-26T19:09:30.279Z",
               "EditorCaption": ""
             }
           ]
