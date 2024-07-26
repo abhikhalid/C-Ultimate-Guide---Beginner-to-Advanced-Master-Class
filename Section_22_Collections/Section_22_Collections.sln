@@ -45,6 +45,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomCollections", "Custom
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Custom_Collection_With_ICollection", "Custom_Collection_With_ICollection\Custom_Collection_With_ICollection.csproj", "{CE486E6C-5AE4-4C57-8847-668EF5032A15}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Custom_Collection_With_IList", "Custom_Collection_With_IList\Custom_Collection_With_IList.csproj", "{65E90F65-7676-4092-B002-2588CCD64479}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -135,6 +137,10 @@ Global
 		{CE486E6C-5AE4-4C57-8847-668EF5032A15}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CE486E6C-5AE4-4C57-8847-668EF5032A15}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CE486E6C-5AE4-4C57-8847-668EF5032A15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65E90F65-7676-4092-B002-2588CCD64479}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65E90F65-7676-4092-B002-2588CCD64479}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65E90F65-7676-4092-B002-2588CCD64479}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65E90F65-7676-4092-B002-2588CCD64479}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
