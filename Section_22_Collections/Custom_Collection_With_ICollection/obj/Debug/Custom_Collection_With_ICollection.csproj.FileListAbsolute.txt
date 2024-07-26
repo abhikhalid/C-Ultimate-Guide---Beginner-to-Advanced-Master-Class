@@ -1,0 +1,7 @@
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_22_Collections\Custom_Collection_With_ICollection\bin\Debug\Custom_Collection_With_ICollection.exe.config
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_22_Collections\Custom_Collection_With_ICollection\bin\Debug\Custom_Collection_With_ICollection.exe
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_22_Collections\Custom_Collection_With_ICollection\bin\Debug\Custom_Collection_With_ICollection.pdb
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_22_Collections\Custom_Collection_With_ICollection\obj\Debug\Custom_Collection_With_ICollection.csproj.AssemblyReference.cache
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_22_Collections\Custom_Collection_With_ICollection\obj\Debug\Custom_Collection_With_ICollection.csproj.CoreCompileInputs.cache
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_22_Collections\Custom_Collection_With_ICollection\obj\Debug\Custom_Collection_With_ICollection.exe
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_22_Collections\Custom_Collection_With_ICollection\obj\Debug\Custom_Collection_With_ICollection.pdb
