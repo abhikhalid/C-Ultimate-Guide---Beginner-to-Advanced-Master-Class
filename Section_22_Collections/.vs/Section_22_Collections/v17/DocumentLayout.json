@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_22_Collections\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3F509E37-F377-44EF-8313-D5038DC87CE1}|Object_Relation_Many_To_One_ConsoleApp\\Object_Relation_Many_To_One_ConsoleApp.csproj|d:\\coding\\development\\c#\\c_sharp-ultimate-guide-beginner-to-advanced-master-class\\section_22_collections\\object_relation_many_to_one_consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F509E37-F377-44EF-8313-D5038DC87CE1}|Object_Relation_Many_To_One_ConsoleApp\\Object_Relation_Many_To_One_ConsoleApp.csproj|solutionrelative:object_relation_many_to_one_consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{847FD2F4-1D8C-43FD-9916-CE09E31EEAFD}|Object_Relation_Many_To_One_Class_Library\\Object_Relation_Many_To_One_Class_Library.csproj|d:\\coding\\development\\c#\\c_sharp-ultimate-guide-beginner-to-advanced-master-class\\section_22_collections\\object_relation_many_to_one_class_library\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{847FD2F4-1D8C-43FD-9916-CE09E31EEAFD}|Object_Relation_Many_To_One_Class_Library\\Object_Relation_Many_To_One_Class_Library.csproj|solutionrelative:object_relation_many_to_one_class_library\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{847FD2F4-1D8C-43FD-9916-CE09E31EEAFD}|Object_Relation_Many_To_One_Class_Library\\Object_Relation_Many_To_One_Class_Library.csproj|d:\\coding\\development\\c#\\c_sharp-ultimate-guide-beginner-to-advanced-master-class\\section_22_collections\\object_relation_many_to_one_class_library\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{847FD2F4-1D8C-43FD-9916-CE09E31EEAFD}|Object_Relation_Many_To_One_Class_Library\\Object_Relation_Many_To_One_Class_Library.csproj|solutionrelative:object_relation_many_to_one_class_library\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{38C907C8-3932-4E8B-9CA0-DC726AE00560}|IEnumerable\\IEnumerable.csproj|d:\\coding\\development\\c#\\c_sharp-ultimate-guide-beginner-to-advanced-master-class\\section_22_collections\\ienumerable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38C907C8-3932-4E8B-9CA0-DC726AE00560}|IEnumerable\\IEnumerable.csproj|solutionrelative:ienumerable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -48,39 +40,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_22_Collections\\Object_Relation_Many_To_One_ConsoleApp\\Program.cs",
-              "RelativeDocumentMoniker": "Object_Relation_Many_To_One_ConsoleApp\\Program.cs",
-              "ToolTip": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_22_Collections\\Object_Relation_Many_To_One_ConsoleApp\\Program.cs",
-              "RelativeToolTip": "Object_Relation_Many_To_One_ConsoleApp\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADoAAAAwAAAA",
+              "DocumentMoniker": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_22_Collections\\IEnumerable\\Program.cs",
+              "RelativeDocumentMoniker": "IEnumerable\\Program.cs",
+              "ToolTip": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_22_Collections\\IEnumerable\\Program.cs",
+              "RelativeToolTip": "IEnumerable\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACAAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-26T05:52:18.968Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Department.cs",
-              "DocumentMoniker": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_22_Collections\\Object_Relation_Many_To_One_Class_Library\\Department.cs",
-              "RelativeDocumentMoniker": "Object_Relation_Many_To_One_Class_Library\\Department.cs",
-              "ToolTip": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_22_Collections\\Object_Relation_Many_To_One_Class_Library\\Department.cs",
-              "RelativeToolTip": "Object_Relation_Many_To_One_Class_Library\\Department.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-26T05:45:24.992Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_22_Collections\\Object_Relation_Many_To_One_Class_Library\\Employee.cs",
-              "RelativeDocumentMoniker": "Object_Relation_Many_To_One_Class_Library\\Employee.cs",
-              "ToolTip": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_22_Collections\\Object_Relation_Many_To_One_Class_Library\\Employee.cs",
-              "RelativeToolTip": "Object_Relation_Many_To_One_Class_Library\\Employee.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-26T05:43:25.805Z",
+              "WhenOpened": "2024-07-26T10:46:26.784Z",
               "EditorCaption": ""
             }
           ]

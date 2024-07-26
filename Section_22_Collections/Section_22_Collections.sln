@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Object_Relation_Many_To_One
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Object_Relation_Many_To_One_ConsoleApp", "Object_Relation_Many_To_One_ConsoleApp\Object_Relation_Many_To_One_ConsoleApp.csproj", "{3F509E37-F377-44EF-8313-D5038DC87CE1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IEnumerable", "IEnumerable\IEnumerable.csproj", "{38C907C8-3932-4E8B-9CA0-DC726AE00560}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{3F509E37-F377-44EF-8313-D5038DC87CE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3F509E37-F377-44EF-8313-D5038DC87CE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3F509E37-F377-44EF-8313-D5038DC87CE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38C907C8-3932-4E8B-9CA0-DC726AE00560}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38C907C8-3932-4E8B-9CA0-DC726AE00560}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38C907C8-3932-4E8B-9CA0-DC726AE00560}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38C907C8-3932-4E8B-9CA0-DC726AE00560}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
