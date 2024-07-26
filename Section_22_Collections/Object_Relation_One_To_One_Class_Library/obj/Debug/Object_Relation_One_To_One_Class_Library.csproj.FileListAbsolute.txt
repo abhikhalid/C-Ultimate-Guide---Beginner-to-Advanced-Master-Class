@@ -1,0 +1,6 @@
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_22_Collections\Object_Relation_One_To_One_Class_Library\bin\Debug\Object_Relation_One_To_One_Class_Library.dll
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_22_Collections\Object_Relation_One_To_One_Class_Library\bin\Debug\Object_Relation_One_To_One_Class_Library.pdb
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_22_Collections\Object_Relation_One_To_One_Class_Library\obj\Debug\Object_Relation_One_To_One_Class_Library.csproj.AssemblyReference.cache
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_22_Collections\Object_Relation_One_To_One_Class_Library\obj\Debug\Object_Relation_One_To_One_Class_Library.csproj.CoreCompileInputs.cache
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_22_Collections\Object_Relation_One_To_One_Class_Library\obj\Debug\Object_Relation_One_To_One_Class_Library.dll
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_22_Collections\Object_Relation_One_To_One_Class_Library\obj\Debug\Object_Relation_One_To_One_Class_Library.pdb

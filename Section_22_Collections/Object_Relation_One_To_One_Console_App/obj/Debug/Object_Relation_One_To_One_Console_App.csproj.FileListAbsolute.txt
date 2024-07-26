@@ -1,0 +1,10 @@
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_22_Collections\Object_Relation_One_To_One_Console_App\bin\Debug\Object_Relation_One_To_One_Console_App.exe.config
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_22_Collections\Object_Relation_One_To_One_Console_App\bin\Debug\Object_Relation_One_To_One_Console_App.exe
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_22_Collections\Object_Relation_One_To_One_Console_App\bin\Debug\Object_Relation_One_To_One_Console_App.pdb
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_22_Collections\Object_Relation_One_To_One_Console_App\bin\Debug\Object_Relation_One_To_One_Class_Library.dll
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_22_Collections\Object_Relation_One_To_One_Console_App\bin\Debug\Object_Relation_One_To_One_Class_Library.pdb
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_22_Collections\Object_Relation_One_To_One_Console_App\obj\Debug\Object_Relation_One_To_One_Console_App.csproj.AssemblyReference.cache
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_22_Collections\Object_Relation_One_To_One_Console_App\obj\Debug\Object_Relation_One_To_One_Console_App.csproj.CoreCompileInputs.cache
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_22_Collections\Object_Relation_One_To_One_Console_App\obj\Debug\Object_R.DC07629C.Up2Date
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_22_Collections\Object_Relation_One_To_One_Console_App\obj\Debug\Object_Relation_One_To_One_Console_App.exe
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_22_Collections\Object_Relation_One_To_One_Console_App\obj\Debug\Object_Relation_One_To_One_Console_App.pdb
