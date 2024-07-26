@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_22_Collections\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E9B011C2-59C1-48C2-A733-E4E31C8FE8DA}|Object_Relation_One_To_One_Console_App\\Object_Relation_One_To_One_Console_App.csproj|d:\\coding\\development\\c#\\c_sharp-ultimate-guide-beginner-to-advanced-master-class\\section_22_collections\\object_relation_one_to_one_console_app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E9B011C2-59C1-48C2-A733-E4E31C8FE8DA}|Object_Relation_One_To_One_Console_App\\Object_Relation_One_To_One_Console_App.csproj|solutionrelative:object_relation_one_to_one_console_app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EC8C5C1C-1D87-4BE0-BE4E-85BF854A30C7}|Object_Relation_One_To_Many_Class_Library\\Object_Relation_One_To_Many_Class_Library.csproj|d:\\coding\\development\\c#\\c_sharp-ultimate-guide-beginner-to-advanced-master-class\\section_22_collections\\object_relation_one_to_many_class_library\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC8C5C1C-1D87-4BE0-BE4E-85BF854A30C7}|Object_Relation_One_To_Many_Class_Library\\Object_Relation_One_To_Many_Class_Library.csproj|solutionrelative:object_relation_one_to_many_class_library\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A850EAE-BEC9-49CF-B0EA-EABC8D19D4EE}|Object_Relation_One_To_One_Class_Library\\Object_Relation_One_To_One_Class_Library.csproj|d:\\coding\\development\\c#\\c_sharp-ultimate-guide-beginner-to-advanced-master-class\\section_22_collections\\object_relation_one_to_one_class_library\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A850EAE-BEC9-49CF-B0EA-EABC8D19D4EE}|Object_Relation_One_To_One_Class_Library\\Object_Relation_One_To_One_Class_Library.csproj|solutionrelative:object_relation_one_to_one_class_library\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B914C8F1-5DF9-4767-BE9C-CA7E750B3186}|Object_Relation_One_To_Many_Console_App\\Object_Relation_One_To_Many_Console_App.csproj|d:\\coding\\development\\c#\\c_sharp-ultimate-guide-beginner-to-advanced-master-class\\section_22_collections\\object_relation_one_to_many_console_app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B914C8F1-5DF9-4767-BE9C-CA7E750B3186}|Object_Relation_One_To_Many_Console_App\\Object_Relation_One_To_Many_Console_App.csproj|solutionrelative:object_relation_one_to_many_console_app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A850EAE-BEC9-49CF-B0EA-EABC8D19D4EE}|Object_Relation_One_To_One_Class_Library\\Object_Relation_One_To_One_Class_Library.csproj|d:\\coding\\development\\c#\\c_sharp-ultimate-guide-beginner-to-advanced-master-class\\section_22_collections\\object_relation_one_to_one_class_library\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A850EAE-BEC9-49CF-B0EA-EABC8D19D4EE}|Object_Relation_One_To_One_Class_Library\\Object_Relation_One_To_One_Class_Library.csproj|solutionrelative:object_relation_one_to_one_class_library\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EC8C5C1C-1D87-4BE0-BE4E-85BF854A30C7}|Object_Relation_One_To_Many_Class_Library\\Object_Relation_One_To_Many_Class_Library.csproj|d:\\coding\\development\\c#\\c_sharp-ultimate-guide-beginner-to-advanced-master-class\\section_22_collections\\object_relation_one_to_many_class_library\\examination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC8C5C1C-1D87-4BE0-BE4E-85BF854A30C7}|Object_Relation_One_To_Many_Class_Library\\Object_Relation_One_To_Many_Class_Library.csproj|solutionrelative:object_relation_one_to_many_class_library\\examination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,40 +22,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 6,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Student.cs",
-              "DocumentMoniker": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_22_Collections\\Object_Relation_One_To_One_Class_Library\\Student.cs",
-              "RelativeDocumentMoniker": "Object_Relation_One_To_One_Class_Library\\Student.cs",
-              "ToolTip": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_22_Collections\\Object_Relation_One_To_One_Class_Library\\Student.cs",
-              "RelativeToolTip": "Object_Relation_One_To_One_Class_Library\\Student.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-26T03:10:18.335Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Branch.cs",
-              "DocumentMoniker": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_22_Collections\\Object_Relation_One_To_One_Class_Library\\Branch.cs",
-              "RelativeDocumentMoniker": "Object_Relation_One_To_One_Class_Library\\Branch.cs",
-              "ToolTip": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_22_Collections\\Object_Relation_One_To_One_Class_Library\\Branch.cs",
-              "RelativeToolTip": "Object_Relation_One_To_One_Class_Library\\Branch.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-26T03:14:26.882Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -73,16 +41,46 @@
               "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Examination.cs",
+              "DocumentMoniker": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_22_Collections\\Object_Relation_One_To_Many_Class_Library\\Examination.cs",
+              "RelativeDocumentMoniker": "Object_Relation_One_To_Many_Class_Library\\Examination.cs",
+              "ToolTip": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_22_Collections\\Object_Relation_One_To_Many_Class_Library\\Examination.cs",
+              "RelativeToolTip": "Object_Relation_One_To_Many_Class_Library\\Examination.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T05:03:56.979Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_22_Collections\\Object_Relation_One_To_One_Console_App\\Program.cs",
-              "RelativeDocumentMoniker": "Object_Relation_One_To_One_Console_App\\Program.cs",
-              "ToolTip": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_22_Collections\\Object_Relation_One_To_One_Console_App\\Program.cs",
-              "RelativeToolTip": "Object_Relation_One_To_One_Console_App\\Program.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAABYAAAAiAAAA",
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_22_Collections\\Object_Relation_One_To_Many_Class_Library\\Student.cs",
+              "RelativeDocumentMoniker": "Object_Relation_One_To_Many_Class_Library\\Student.cs",
+              "ToolTip": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_22_Collections\\Object_Relation_One_To_Many_Class_Library\\Student.cs",
+              "RelativeToolTip": "Object_Relation_One_To_Many_Class_Library\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-26T03:08:30.952Z",
+              "WhenOpened": "2024-07-26T05:02:41.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_22_Collections\\Object_Relation_One_To_Many_Console_App\\Program.cs",
+              "RelativeDocumentMoniker": "Object_Relation_One_To_Many_Console_App\\Program.cs",
+              "ToolTip": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_22_Collections\\Object_Relation_One_To_Many_Console_App\\Program.cs",
+              "RelativeToolTip": "Object_Relation_One_To_Many_Console_App\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T04:59:34.712Z",
               "EditorCaption": ""
             }
           ]

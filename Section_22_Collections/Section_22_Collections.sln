@@ -29,6 +29,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Object_Relation_One_To_One_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Object_Relation_One_To_One_Class_Library", "Object_Relation_One_To_One_Class_Library\Object_Relation_One_To_One_Class_Library.csproj", "{3A850EAE-BEC9-49CF-B0EA-EABC8D19D4EE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Object_Relation_One_To_Many_Console_App", "Object_Relation_One_To_Many_Console_App\Object_Relation_One_To_Many_Console_App.csproj", "{B914C8F1-5DF9-4767-BE9C-CA7E750B3186}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Object_Relation_One_To_Many_Class_Library", "Object_Relation_One_To_Many_Class_Library\Object_Relation_One_To_Many_Class_Library.csproj", "{EC8C5C1C-1D87-4BE0-BE4E-85BF854A30C7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +91,14 @@ Global
 		{3A850EAE-BEC9-49CF-B0EA-EABC8D19D4EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3A850EAE-BEC9-49CF-B0EA-EABC8D19D4EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3A850EAE-BEC9-49CF-B0EA-EABC8D19D4EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B914C8F1-5DF9-4767-BE9C-CA7E750B3186}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B914C8F1-5DF9-4767-BE9C-CA7E750B3186}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B914C8F1-5DF9-4767-BE9C-CA7E750B3186}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B914C8F1-5DF9-4767-BE9C-CA7E750B3186}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC8C5C1C-1D87-4BE0-BE4E-85BF854A30C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC8C5C1C-1D87-4BE0-BE4E-85BF854A30C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC8C5C1C-1D87-4BE0-BE4E-85BF854A30C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC8C5C1C-1D87-4BE0-BE4E-85BF854A30C7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
