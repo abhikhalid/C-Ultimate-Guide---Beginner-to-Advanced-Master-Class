@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_22_Collections\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B652835A-051C-48EE-8999-5760075BA57F}|IComparer_Part_1\\IComparer_Part_1.csproj|d:\\coding\\development\\c#\\c_sharp-ultimate-guide-beginner-to-advanced-master-class\\section_22_collections\\icomparer_part_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B652835A-051C-48EE-8999-5760075BA57F}|IComparer_Part_1\\IComparer_Part_1.csproj|solutionrelative:icomparer_part_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EC4B33DC-C885-48F8-ADDF-7E6245644F59}|IComparable\\IComparable.csproj|d:\\coding\\development\\c#\\c_sharp-ultimate-guide-beginner-to-advanced-master-class\\section_22_collections\\icomparable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EC4B33DC-C885-48F8-ADDF-7E6245644F59}|IComparable\\IComparable.csproj|solutionrelative:icomparable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -33,18 +37,31 @@
               "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_22_Collections\\IComparer_Part_1\\Program.cs",
+              "RelativeDocumentMoniker": "IComparer_Part_1\\Program.cs",
+              "ToolTip": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_22_Collections\\IComparer_Part_1\\Program.cs",
+              "RelativeToolTip": "IComparer_Part_1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T14:30:14.577Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_22_Collections\\IComparable\\Program.cs",
               "RelativeDocumentMoniker": "IComparable\\Program.cs",
               "ToolTip": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_22_Collections\\IComparable\\Program.cs",
               "RelativeToolTip": "IComparable\\Program.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAgAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-27T10:21:12.656Z",
               "EditorCaption": ""
