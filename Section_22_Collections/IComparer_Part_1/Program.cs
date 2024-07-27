@@ -12,11 +12,88 @@ namespace IComparer_Part_1
         public string Job { get; set; }
     }
 
+    public enum SortBy
+    {
+        EmpID, Empname, Job
+    }
+
     class CustomComparer : IComparer<Employee>
     {
+        //Sort by EmpID
+        //public int Compare(Employee x, Employee y)
+        //{
+        //    return x.EmpID - y.EmpID;
+        //}
+
+        //Sort By EmpName
+        //public int Compare(Employee x, Employee y)
+        //{
+        //    return x.EmpName.CompareTo(y.EmpName);
+        //}
+
+        //Sort By Job,EmpName
+        //public int Compare(Employee x, Employee y)
+        //{
+        //    int result = 0;
+
+        //    if(x.Job != null)
+        //    {
+        //        result = x.Job.CompareTo(y.Job);
+        //    }
+
+        //    if (result == 0)
+        //    {
+        //        if (x.EmpName != null)
+        //        {
+        //            result = x.EmpName.CompareTo(y.EmpName);
+        //        }
+        //    }
+
+        //    return result;
+        //}
+
+        //public int Compare(Employee x, Employee y)
+        //{
+        //    int result = 0;
+
+        //    if (x.Job != null)
+        //    {
+        //        result = x.Job.CompareTo(y.Job);
+        //    }
+
+        //    if (result == 0)
+        //    {
+        //        if (x.EmpName != null)
+        //        {
+        //            result = x.EmpName.CompareTo(y.EmpName);
+        //        }
+        //    }
+
+        //    return result;
+        //}
+
+
+        public SortBy sortBy { get; set; }
+
         public int Compare(Employee x, Employee y)
         {
-            return x.EmpID - y.EmpID;
+            int result = 0;
+
+            switch (this.sortBy)
+            {
+                case SortBy.EmpID:
+                    result = x.EmpID - y.EmpID; break;
+
+                case SortBy.Empname:
+                    result = (x.EmpName!=null) ? x.EmpName.CompareTo(y.EmpName) : 0; break;
+              
+                case SortBy.Job:
+                    result = (x.Job!=null) ? x.Job.CompareTo(y.Job) : 0; break;
+                default:
+                    result = 0; break;
+            }
+
+            return result;
         }
     }
 
@@ -53,12 +130,22 @@ namespace IComparer_Part_1
                     EmpName = "Jade",
                     Job = "Analyst"
                 },
+                  new Employee()
+                {
+                    EmpID = 105,
+                    EmpName = "Israr",
+                    Job = null
+                },
             };
 
 
             CustomComparer customComparer = new CustomComparer();
+           
+            
+            customComparer.sortBy = SortBy.EmpID; //this line added later
 
             employees.Sort(customComparer);
+            employees.Reverse();
 
             foreach (Employee employee in employees)
             {
