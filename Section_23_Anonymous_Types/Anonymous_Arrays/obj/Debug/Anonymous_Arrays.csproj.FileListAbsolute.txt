@@ -1,0 +1,7 @@
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_23_Anonymous_Types\Anonymous_Arrays\bin\Debug\Anonymous_Arrays.exe.config
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_23_Anonymous_Types\Anonymous_Arrays\bin\Debug\Anonymous_Arrays.exe
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_23_Anonymous_Types\Anonymous_Arrays\bin\Debug\Anonymous_Arrays.pdb
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_23_Anonymous_Types\Anonymous_Arrays\obj\Debug\Anonymous_Arrays.csproj.AssemblyReference.cache
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_23_Anonymous_Types\Anonymous_Arrays\obj\Debug\Anonymous_Arrays.csproj.CoreCompileInputs.cache
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_23_Anonymous_Types\Anonymous_Arrays\obj\Debug\Anonymous_Arrays.exe
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_23_Anonymous_Types\Anonymous_Arrays\obj\Debug\Anonymous_Arrays.pdb
