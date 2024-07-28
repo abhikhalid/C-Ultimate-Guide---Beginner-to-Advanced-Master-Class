@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Sec_13_Partial_and_Static_Classes_Enumerations\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8C902BE0-185E-41CE-A0A7-56446E064915}|Enumerations_Class_Library\\Enumerations_Class_Library.csproj|d:\\coding\\development\\c#\\c_sharp-ultimate-guide-beginner-to-advanced-master-class\\sec_13_partial_and_static_classes_enumerations\\enumerations_class_library\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C902BE0-185E-41CE-A0A7-56446E064915}|Enumerations_Class_Library\\Enumerations_Class_Library.csproj|solutionrelative:enumerations_class_library\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{158677C6-AE65-43DF-B30F-2E2577EA9B6E}|Enumerations_Console_App\\Enumerations_Console_App.csproj|d:\\coding\\development\\c#\\c_sharp-ultimate-guide-beginner-to-advanced-master-class\\sec_13_partial_and_static_classes_enumerations\\enumerations_console_app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{158677C6-AE65-43DF-B30F-2E2577EA9B6E}|Enumerations_Console_App\\Enumerations_Console_App.csproj|solutionrelative:enumerations_console_app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C902BE0-185E-41CE-A0A7-56446E064915}|Enumerations_Class_Library\\Enumerations_Class_Library.csproj|d:\\coding\\development\\c#\\c_sharp-ultimate-guide-beginner-to-advanced-master-class\\sec_13_partial_and_static_classes_enumerations\\enumerations_class_library\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C902BE0-185E-41CE-A0A7-56446E064915}|Enumerations_Class_Library\\Enumerations_Class_Library.csproj|solutionrelative:enumerations_class_library\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,33 +18,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Class1.cs",
               "DocumentMoniker": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Sec_13_Partial_and_Static_Classes_Enumerations\\Enumerations_Class_Library\\Class1.cs",
               "RelativeDocumentMoniker": "Enumerations_Class_Library\\Class1.cs",
               "ToolTip": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Sec_13_Partial_and_Static_Classes_Enumerations\\Enumerations_Class_Library\\Class1.cs",
               "RelativeToolTip": "Enumerations_Class_Library\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAKAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-14T07:29:06.715Z",
+              "WhenOpened": "2024-07-20T08:31:17.902Z",
               "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Sec_13_Partial_and_Static_Classes_Enumerations\\Enumerations_Console_App\\Program.cs",
               "RelativeDocumentMoniker": "Enumerations_Console_App\\Program.cs",
               "ToolTip": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Sec_13_Partial_and_Static_Classes_Enumerations\\Enumerations_Console_App\\Program.cs",
               "RelativeToolTip": "Enumerations_Console_App\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAcAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-14T07:28:41.169Z",
+              "WhenOpened": "2024-07-20T08:31:19.243Z",
               "IsPinned": true,
               "EditorCaption": ""
             },
@@ -59,10 +59,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Bookmark",

@@ -20,7 +20,6 @@ namespace IDisposable_Class_Library
         }
 
         //Dispose
-
         //Generally, it is recommended to place the database connection and file connection closing logic in the Dispose Method.
         public void Dispose()
         {

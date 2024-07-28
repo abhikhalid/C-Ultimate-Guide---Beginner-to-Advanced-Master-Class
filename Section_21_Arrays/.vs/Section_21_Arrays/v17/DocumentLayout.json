@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_21_Arrays\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{28544FE0-C33E-4791-A64D-0BCACF92F551}|Arrays_Of_Obejcts_Class_Library\\Arrays_Of_Obejcts_Class_Library.csproj|d:\\coding\\development\\c#\\c_sharp-ultimate-guide-beginner-to-advanced-master-class\\section_21_arrays\\arrays_of_obejcts_class_library\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28544FE0-C33E-4791-A64D-0BCACF92F551}|Arrays_Of_Obejcts_Class_Library\\Arrays_Of_Obejcts_Class_Library.csproj|solutionrelative:arrays_of_obejcts_class_library\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8595F93-D563-4434-AC6B-C571B6C83E54}|Arrays_Of_Objects_ConsoleApp\\Arrays_Of_Objects_ConsoleApp.csproj|d:\\coding\\development\\c#\\c_sharp-ultimate-guide-beginner-to-advanced-master-class\\section_21_arrays\\arrays_of_objects_consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8595F93-D563-4434-AC6B-C571B6C83E54}|Arrays_Of_Objects_ConsoleApp\\Arrays_Of_Objects_ConsoleApp.csproj|solutionrelative:arrays_of_objects_consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{10AE4B6D-83C2-404F-AB24-318F51F8DB24}|CopyTo_and_Clone_ConsoleApp\\CopyTo_and_Clone_ConsoleApp.csproj|d:\\coding\\development\\c#\\c_sharp-ultimate-guide-beginner-to-advanced-master-class\\section_21_arrays\\copyto_and_clone_consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{10AE4B6D-83C2-404F-AB24-318F51F8DB24}|CopyTo_and_Clone_ConsoleApp\\CopyTo_and_Clone_ConsoleApp.csproj|solutionrelative:copyto_and_clone_consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,23 +38,45 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_21_Arrays\\CopyTo_and_Clone_ConsoleApp\\Program.cs",
               "RelativeDocumentMoniker": "CopyTo_and_Clone_ConsoleApp\\Program.cs",
               "ToolTip": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_21_Arrays\\CopyTo_and_Clone_ConsoleApp\\Program.cs",
               "RelativeToolTip": "CopyTo_and_Clone_ConsoleApp\\Program.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAAACUAAAAVAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-17T08:56:43.744Z",
+              "WhenOpened": "2024-07-22T09:43:06.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_21_Arrays\\Arrays_Of_Objects_ConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "Arrays_Of_Objects_ConsoleApp\\Program.cs",
+              "ToolTip": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_21_Arrays\\Arrays_Of_Objects_ConsoleApp\\Program.cs",
+              "RelativeToolTip": "Arrays_Of_Objects_ConsoleApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T09:40:58.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_21_Arrays\\Arrays_Of_Obejcts_Class_Library\\Class1.cs",
+              "RelativeDocumentMoniker": "Arrays_Of_Obejcts_Class_Library\\Class1.cs",
+              "ToolTip": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_21_Arrays\\Arrays_Of_Obejcts_Class_Library\\Class1.cs",
+              "RelativeToolTip": "Arrays_Of_Obejcts_Class_Library\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T09:40:47.448Z",
               "EditorCaption": ""
             }
           ]

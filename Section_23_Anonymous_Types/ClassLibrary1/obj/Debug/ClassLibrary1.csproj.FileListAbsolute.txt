@@ -1,0 +1,6 @@
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_23_Anonymous_Types\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_23_Anonymous_Types\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_23_Anonymous_Types\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.AssemblyReference.cache
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_23_Anonymous_Types\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_23_Anonymous_Types\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_23_Anonymous_Types\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

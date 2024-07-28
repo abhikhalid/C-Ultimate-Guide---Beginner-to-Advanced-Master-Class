@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_11_Abstract_Classes_and_Interfaces\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D30F0844-D7BC-408C-BBB2-51E743FCA5AC}|ClassLibrary1\\ClassLibrary1.csproj|D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_11_Abstract_Classes_and_Interfaces\\classlibrary1\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D30F0844-D7BC-408C-BBB2-51E743FCA5AC}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6164DE95-0563-4ED9-8535-A7CE0A30CD5E}|Section_11_Abstract_Classes_and_Interfaces.csproj|d:\\coding\\development\\c#\\c_sharp-ultimate-guide-beginner-to-advanced-master-class\\section_11_abstract_classes_and_interfaces\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6164DE95-0563-4ED9-8535-A7CE0A30CD5E}|Section_11_Abstract_Classes_and_Interfaces.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D30F0844-D7BC-408C-BBB2-51E743FCA5AC}|ClassLibrary1\\ClassLibrary1.csproj|D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_11_Abstract_Classes_and_Interfaces\\classlibrary1\\iperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D30F0844-D7BC-408C-BBB2-51E743FCA5AC}|ClassLibrary1\\ClassLibrary1.csproj|d:\\coding\\development\\c#\\c_sharp-ultimate-guide-beginner-to-advanced-master-class\\section_11_abstract_classes_and_interfaces\\classlibrary1\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D30F0844-D7BC-408C-BBB2-51E743FCA5AC}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D30F0844-D7BC-408C-BBB2-51E743FCA5AC}|ClassLibrary1\\ClassLibrary1.csproj|d:\\coding\\development\\c#\\c_sharp-ultimate-guide-beginner-to-advanced-master-class\\section_11_abstract_classes_and_interfaces\\classlibrary1\\salesman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D30F0844-D7BC-408C-BBB2-51E743FCA5AC}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\salesman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D30F0844-D7BC-408C-BBB2-51E743FCA5AC}|ClassLibrary1\\ClassLibrary1.csproj|d:\\coding\\development\\c#\\c_sharp-ultimate-guide-beginner-to-advanced-master-class\\section_11_abstract_classes_and_interfaces\\classlibrary1\\iperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D30F0844-D7BC-408C-BBB2-51E743FCA5AC}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\iperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D30F0844-D7BC-408C-BBB2-51E743FCA5AC}|ClassLibrary1\\ClassLibrary1.csproj|D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_11_Abstract_Classes_and_Interfaces\\classlibrary1\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D30F0844-D7BC-408C-BBB2-51E743FCA5AC}|ClassLibrary1\\ClassLibrary1.csproj|d:\\coding\\development\\c#\\c_sharp-ultimate-guide-beginner-to-advanced-master-class\\section_11_abstract_classes_and_interfaces\\classlibrary1\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D30F0844-D7BC-408C-BBB2-51E743FCA5AC}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D30F0844-D7BC-408C-BBB2-51E743FCA5AC}|ClassLibrary1\\ClassLibrary1.csproj|D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_11_Abstract_Classes_and_Interfaces\\classlibrary1\\salesman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D30F0844-D7BC-408C-BBB2-51E743FCA5AC}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\salesman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,33 +30,73 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Manager.cs",
-              "DocumentMoniker": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_11_Abstract_Classes_and_Interfaces\\ClassLibrary1\\Manager.cs",
-              "RelativeDocumentMoniker": "ClassLibrary1\\Manager.cs",
-              "ToolTip": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_11_Abstract_Classes_and_Interfaces\\ClassLibrary1\\Manager.cs",
-              "RelativeToolTip": "ClassLibrary1\\Manager.cs",
-              "ViewState": "AQIAADkAAAAAAAAAAAAAADkAAAAAAAAA",
+              "DocumentIndex": 3,
+              "Title": "IPerson.cs",
+              "DocumentMoniker": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_11_Abstract_Classes_and_Interfaces\\ClassLibrary1\\IPerson.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\IPerson.cs",
+              "ToolTip": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_11_Abstract_Classes_and_Interfaces\\ClassLibrary1\\IPerson.cs",
+              "RelativeToolTip": "ClassLibrary1\\IPerson.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-14T02:46:03.199Z",
+              "WhenOpened": "2024-07-19T19:38:19.974Z",
               "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
+              "Title": "IEmployee.cs",
+              "DocumentMoniker": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_11_Abstract_Classes_and_Interfaces\\ClassLibrary1\\IEmployee.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\IEmployee.cs",
+              "ToolTip": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_11_Abstract_Classes_and_Interfaces\\ClassLibrary1\\IEmployee.cs",
+              "RelativeToolTip": "ClassLibrary1\\IEmployee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T19:38:21.185Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_11_Abstract_Classes_and_Interfaces\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_11_Abstract_Classes_and_Interfaces\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-14T03:10:28.31Z",
+              "WhenOpened": "2024-07-19T19:41:32.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SalesMan.cs",
+              "DocumentMoniker": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_11_Abstract_Classes_and_Interfaces\\ClassLibrary1\\SalesMan.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\SalesMan.cs",
+              "ToolTip": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_11_Abstract_Classes_and_Interfaces\\ClassLibrary1\\SalesMan.cs",
+              "RelativeToolTip": "ClassLibrary1\\SalesMan.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABAAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T19:38:31.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_11_Abstract_Classes_and_Interfaces\\ClassLibrary1\\Manager.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Manager.cs",
+              "ToolTip": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_11_Abstract_Classes_and_Interfaces\\ClassLibrary1\\Manager.cs",
+              "RelativeToolTip": "ClassLibrary1\\Manager.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T19:38:30.717Z",
               "EditorCaption": ""
             },
             {
@@ -65,49 +105,15 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IPerson.cs",
-              "DocumentMoniker": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_11_Abstract_Classes_and_Interfaces\\ClassLibrary1\\IPerson.cs",
-              "RelativeDocumentMoniker": "ClassLibrary1\\IPerson.cs",
-              "ToolTip": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_11_Abstract_Classes_and_Interfaces\\ClassLibrary1\\IPerson.cs",
-              "RelativeToolTip": "ClassLibrary1\\IPerson.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T18:47:27.589Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "SalesMan.cs",
-              "DocumentMoniker": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_11_Abstract_Classes_and_Interfaces\\ClassLibrary1\\SalesMan.cs",
-              "RelativeDocumentMoniker": "ClassLibrary1\\SalesMan.cs",
-              "ToolTip": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_11_Abstract_Classes_and_Interfaces\\ClassLibrary1\\SalesMan.cs",
-              "RelativeToolTip": "ClassLibrary1\\SalesMan.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T15:29:13.604Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IEmployee.cs",
-              "DocumentMoniker": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_11_Abstract_Classes_and_Interfaces\\ClassLibrary1\\IEmployee.cs",
-              "RelativeDocumentMoniker": "ClassLibrary1\\IEmployee.cs",
-              "ToolTip": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_11_Abstract_Classes_and_Interfaces\\ClassLibrary1\\IEmployee.cs",
-              "RelativeToolTip": "ClassLibrary1\\IEmployee.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T08:57:17.291Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             }
           ]
         },

@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{99DC5D42-9501-4699-88C2-36161086BE0D}|Read_Only_Structures_Class_Library\\Read_Only_Structures_Class_Library.csproj|solutionrelative:read_only_structures_class_library\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F8BB266-F555-4203-9DED-E02D43325A01}|Readonly_Structures.csproj|d:\\coding\\development\\c#\\c_sharp-ultimate-guide-beginner-to-advanced-master-class\\section_14_structures\\readonly_structures\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7F8BB266-F555-4203-9DED-E02D43325A01}|Readonly_Structures.csproj|D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_14_Structures\\Readonly_Structures\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7F8BB266-F555-4203-9DED-E02D43325A01}|Readonly_Structures.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,10 +34,6 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
@@ -48,7 +44,7 @@
               "RelativeDocumentMoniker": "Read_Only_Structures_Class_Library\\Class1.cs",
               "ToolTip": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_14_Structures\\Readonly_Structures\\Read_Only_Structures_Class_Library\\Class1.cs",
               "RelativeToolTip": "Read_Only_Structures_Class_Library\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAQAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-14T10:08:51.296Z",
               "EditorCaption": ""
@@ -63,8 +59,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-14T09:56:14.589Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-14T09:56:14.589Z"
             }
           ]
         },

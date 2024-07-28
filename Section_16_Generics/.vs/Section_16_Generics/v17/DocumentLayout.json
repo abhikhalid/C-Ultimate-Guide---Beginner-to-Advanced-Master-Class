@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_16_Generics\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{29C87908-E3FE-45E3-BB7E-761D1179F489}|Generic_Methods_Console_Application\\Generic_Methods_Console_Application.csproj|d:\\coding\\development\\c#\\c_sharp-ultimate-guide-beginner-to-advanced-master-class\\section_16_generics\\generic_methods_console_application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29C87908-E3FE-45E3-BB7E-761D1179F489}|Generic_Methods_Console_Application\\Generic_Methods_Console_Application.csproj|solutionrelative:generic_methods_console_application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4DC43C4E-ABEB-4CB9-8DA0-986126585F13}|Generic_Methods_Class_Library\\Generic_Methods_Class_Library.csproj|d:\\coding\\development\\c#\\c_sharp-ultimate-guide-beginner-to-advanced-master-class\\section_16_generics\\generic_methods_class_library\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4DC43C4E-ABEB-4CB9-8DA0-986126585F13}|Generic_Methods_Class_Library\\Generic_Methods_Class_Library.csproj|solutionrelative:generic_methods_class_library\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29C87908-E3FE-45E3-BB7E-761D1179F489}|Generic_Methods_Console_Application\\Generic_Methods_Console_Application.csproj|d:\\coding\\development\\c#\\c_sharp-ultimate-guide-beginner-to-advanced-master-class\\section_16_generics\\generic_methods_console_application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29C87908-E3FE-45E3-BB7E-761D1179F489}|Generic_Methods_Console_Application\\Generic_Methods_Console_Application.csproj|solutionrelative:generic_methods_console_application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,28 +23,28 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_16_Generics\\Generic_Methods_Class_Library\\Class1.cs",
-              "RelativeDocumentMoniker": "Generic_Methods_Class_Library\\Class1.cs",
-              "ToolTip": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_16_Generics\\Generic_Methods_Class_Library\\Class1.cs",
-              "RelativeToolTip": "Generic_Methods_Class_Library\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAATAAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_16_Generics\\Generic_Methods_Console_Application\\Program.cs",
+              "RelativeDocumentMoniker": "Generic_Methods_Console_Application\\Program.cs",
+              "ToolTip": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_16_Generics\\Generic_Methods_Console_Application\\Program.cs",
+              "RelativeToolTip": "Generic_Methods_Console_Application\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-14T15:15:30.966Z",
+              "WhenOpened": "2024-07-21T05:13:23.966Z",
               "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_16_Generics\\Generic_Methods_Console_Application\\Program.cs",
-              "RelativeDocumentMoniker": "Generic_Methods_Console_Application\\Program.cs",
-              "ToolTip": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_16_Generics\\Generic_Methods_Console_Application\\Program.cs",
-              "RelativeToolTip": "Generic_Methods_Console_Application\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAaAAAA",
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_16_Generics\\Generic_Methods_Class_Library\\Class1.cs",
+              "RelativeDocumentMoniker": "Generic_Methods_Class_Library\\Class1.cs",
+              "ToolTip": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_16_Generics\\Generic_Methods_Class_Library\\Class1.cs",
+              "RelativeToolTip": "Generic_Methods_Class_Library\\Class1.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAABIAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-14T15:26:34.09Z",
+              "WhenOpened": "2024-07-21T05:13:22.446Z",
               "IsPinned": true,
               "EditorCaption": ""
             },
@@ -59,10 +59,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Bookmark",

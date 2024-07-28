@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_14_Structures\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D77CB6B-EA6A-45BF-8144-72890E6EE2DC}|Structures_vs_Class_Practically_ClassLibrary\\Structures_vs_Class_Practically_ClassLibrary.csproj|d:\\coding\\development\\c#\\c_sharp-ultimate-guide-beginner-to-advanced-master-class\\section_14_structures\\structures_vs_class_practically_classlibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D77CB6B-EA6A-45BF-8144-72890E6EE2DC}|Structures_vs_Class_Practically_ClassLibrary\\Structures_vs_Class_Practically_ClassLibrary.csproj|solutionrelative:structures_vs_class_practically_classlibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A352DDE6-58C8-4844-95DB-7B1FDAAA267F}|Understanding_Structures_vs_Class_Practically\\Understanding_Structures_vs_Class_Practically.csproj|d:\\coding\\development\\c#\\c_sharp-ultimate-guide-beginner-to-advanced-master-class\\section_14_structures\\understanding_structures_vs_class_practically\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A352DDE6-58C8-4844-95DB-7B1FDAAA267F}|Understanding_Structures_vs_Class_Practically\\Understanding_Structures_vs_Class_Practically.csproj|solutionrelative:understanding_structures_vs_class_practically\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +18,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_14_Structures\\Understanding_Structures_vs_Class_Practically\\Program.cs",
+              "RelativeDocumentMoniker": "Understanding_Structures_vs_Class_Practically\\Program.cs",
+              "ToolTip": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_14_Structures\\Understanding_Structures_vs_Class_Practically\\Program.cs",
+              "RelativeToolTip": "Understanding_Structures_vs_Class_Practically\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T16:01:13.138Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_14_Structures\\Structures_vs_Class_Practically_ClassLibrary\\Class1.cs",
+              "RelativeDocumentMoniker": "Structures_vs_Class_Practically_ClassLibrary\\Class1.cs",
+              "ToolTip": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_14_Structures\\Structures_vs_Class_Practically_ClassLibrary\\Class1.cs",
+              "RelativeToolTip": "Structures_vs_Class_Practically_ClassLibrary\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T16:01:10.194Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -22,10 +59,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Bookmark",

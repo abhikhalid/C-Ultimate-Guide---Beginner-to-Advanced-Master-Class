@@ -9,7 +9,7 @@ class Program
        var p2 = "Khalid".ToUpper();
 
        Console.WriteLine(p.PersonName);
-        Console.WriteLine(p2);
-        Console.ReadKey();
+       Console.WriteLine(p2);
+       Console.ReadKey();
     }
 }
