@@ -1,0 +1,7 @@
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_25_LINQ\bin\Debug\Section_25_LINQ.exe.config
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_25_LINQ\bin\Debug\Section_25_LINQ.exe
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_25_LINQ\bin\Debug\Section_25_LINQ.pdb
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_25_LINQ\obj\Debug\Section_25_LINQ.csproj.AssemblyReference.cache
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_25_LINQ\obj\Debug\Section_25_LINQ.csproj.CoreCompileInputs.cache
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_25_LINQ\obj\Debug\Section_25_LINQ.exe
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_25_LINQ\obj\Debug\Section_25_LINQ.pdb
