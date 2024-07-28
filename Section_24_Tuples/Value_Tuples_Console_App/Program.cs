@@ -10,11 +10,21 @@ namespace ClassLibrary1
             Customer customer = new Customer();   
 
             //get details
-            (int customerID, string customerName,string email) cust = customer.GetCustomerDetails();
+            //(int customerID, string customerName,string email) cust = customer.GetCustomerDetails();
 
-            Console.WriteLine(cust.customerID);
-            Console.WriteLine(cust.customerName);
-            Console.WriteLine(cust.email);
+
+            //Deconstructing
+            //these three become as local variable of the Main method - rather than treating them as fields of the tuple.
+            (int customerID, string customerName,string email)  = customer.GetCustomerDetails();
+
+            //Console.WriteLine(cust.customerID);
+            //Console.WriteLine(cust.customerName);
+            //Console.WriteLine(cust.email);    
+            
+            
+            Console.WriteLine(customerID);
+            Console.WriteLine(customerName);
+            Console.WriteLine(email);
         
             Console.ReadKey();
         }
