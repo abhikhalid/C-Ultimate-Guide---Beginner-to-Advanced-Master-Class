@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Single_and_SingleOrDefault"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Select", "Select\Select.csproj", "{6040129B-8F84-4AC8-B3E4-EC6213859F3D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Min_Max_Count_Sum_Average", "Min_Max_Count_Sum_Average\Min_Max_Count_Sum_Average.csproj", "{6B8E5D84-54BD-4947-9502-4FF09C213B50}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{6040129B-8F84-4AC8-B3E4-EC6213859F3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6040129B-8F84-4AC8-B3E4-EC6213859F3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6040129B-8F84-4AC8-B3E4-EC6213859F3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B8E5D84-54BD-4947-9502-4FF09C213B50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B8E5D84-54BD-4947-9502-4FF09C213B50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B8E5D84-54BD-4947-9502-4FF09C213B50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B8E5D84-54BD-4947-9502-4FF09C213B50}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

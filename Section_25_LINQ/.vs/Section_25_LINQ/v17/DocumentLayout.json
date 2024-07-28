@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_25_LINQ\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6040129B-8F84-4AC8-B3E4-EC6213859F3D}|Select\\Select.csproj|d:\\coding\\development\\c#\\c_sharp-ultimate-guide-beginner-to-advanced-master-class\\section_25_linq\\select\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6040129B-8F84-4AC8-B3E4-EC6213859F3D}|Select\\Select.csproj|solutionrelative:select\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6B8E5D84-54BD-4947-9502-4FF09C213B50}|Min_Max_Count_Sum_Average\\Min_Max_Count_Sum_Average.csproj|d:\\coding\\development\\c#\\c_sharp-ultimate-guide-beginner-to-advanced-master-class\\section_25_linq\\min_max_count_sum_average\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B8E5D84-54BD-4947-9502-4FF09C213B50}|Min_Max_Count_Sum_Average\\Min_Max_Count_Sum_Average.csproj|solutionrelative:min_max_count_sum_average\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,13 +36,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_25_LINQ\\Select\\Program.cs",
-              "RelativeDocumentMoniker": "Select\\Program.cs",
-              "ToolTip": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_25_LINQ\\Select\\Program.cs",
-              "RelativeToolTip": "Select\\Program.cs",
-              "ViewState": "AQIAAEUAAAAAAAAAAAAAAFgAAAAXAAAA",
+              "DocumentMoniker": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_25_LINQ\\Min_Max_Count_Sum_Average\\Program.cs",
+              "RelativeDocumentMoniker": "Min_Max_Count_Sum_Average\\Program.cs",
+              "ToolTip": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_25_LINQ\\Min_Max_Count_Sum_Average\\Program.cs",
+              "RelativeToolTip": "Min_Max_Count_Sum_Average\\Program.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAUwFMAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-28T18:06:58.153Z",
+              "WhenOpened": "2024-07-28T18:22:06.471Z",
               "EditorCaption": ""
             }
           ]
