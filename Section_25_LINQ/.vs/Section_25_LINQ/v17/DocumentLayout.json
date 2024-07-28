@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_25_LINQ\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{90661037-99BE-4D76-A24C-4EDFDE09BF4A}|OrderBy\\OrderBy.csproj|d:\\coding\\development\\c#\\c_sharp-ultimate-guide-beginner-to-advanced-master-class\\section_25_linq\\orderby\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{90661037-99BE-4D76-A24C-4EDFDE09BF4A}|OrderBy\\OrderBy.csproj|solutionrelative:orderby\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FBB0C9C8-3C3C-4AA8-91DB-5195642F248B}|First_and_FirstOrDefault\\First_and_FirstOrDefault.csproj|d:\\coding\\development\\c#\\c_sharp-ultimate-guide-beginner-to-advanced-master-class\\section_25_linq\\first_and_firstordefault\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBB0C9C8-3C3C-4AA8-91DB-5195642F248B}|First_and_FirstOrDefault\\First_and_FirstOrDefault.csproj|solutionrelative:first_and_firstordefault\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,13 +36,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_25_LINQ\\OrderBy\\Program.cs",
-              "RelativeDocumentMoniker": "OrderBy\\Program.cs",
-              "ToolTip": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_25_LINQ\\OrderBy\\Program.cs",
-              "RelativeToolTip": "OrderBy\\Program.cs",
-              "ViewState": "AQIAADkAAAAAAAAAAAAAAEkAAAAAAAAA",
+              "DocumentMoniker": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_25_LINQ\\First_and_FirstOrDefault\\Program.cs",
+              "RelativeDocumentMoniker": "First_and_FirstOrDefault\\Program.cs",
+              "ToolTip": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_25_LINQ\\First_and_FirstOrDefault\\Program.cs",
+              "RelativeToolTip": "First_and_FirstOrDefault\\Program.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAAAFgAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-28T16:02:40.363Z",
+              "WhenOpened": "2024-07-28T16:24:59.554Z",
               "EditorCaption": ""
             }
           ]

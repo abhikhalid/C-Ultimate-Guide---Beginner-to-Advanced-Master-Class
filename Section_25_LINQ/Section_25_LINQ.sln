@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Section_25_LINQ", "Section_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderBy", "OrderBy\OrderBy.csproj", "{90661037-99BE-4D76-A24C-4EDFDE09BF4A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "First_and_FirstOrDefault", "First_and_FirstOrDefault\First_and_FirstOrDefault.csproj", "{FBB0C9C8-3C3C-4AA8-91DB-5195642F248B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{90661037-99BE-4D76-A24C-4EDFDE09BF4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{90661037-99BE-4D76-A24C-4EDFDE09BF4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{90661037-99BE-4D76-A24C-4EDFDE09BF4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBB0C9C8-3C3C-4AA8-91DB-5195642F248B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBB0C9C8-3C3C-4AA8-91DB-5195642F248B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBB0C9C8-3C3C-4AA8-91DB-5195642F248B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBB0C9C8-3C3C-4AA8-91DB-5195642F248B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
