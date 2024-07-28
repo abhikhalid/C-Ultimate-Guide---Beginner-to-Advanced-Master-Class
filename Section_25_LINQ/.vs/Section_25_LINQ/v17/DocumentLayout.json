@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_25_LINQ\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{765CB432-AAE9-4C0C-AA90-187546DAD877}|Single_and_SingleOrDefault\\Single_and_SingleOrDefault.csproj|d:\\coding\\development\\c#\\c_sharp-ultimate-guide-beginner-to-advanced-master-class\\section_25_linq\\single_and_singleordefault\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{765CB432-AAE9-4C0C-AA90-187546DAD877}|Single_and_SingleOrDefault\\Single_and_SingleOrDefault.csproj|solutionrelative:single_and_singleordefault\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6040129B-8F84-4AC8-B3E4-EC6213859F3D}|Select\\Select.csproj|d:\\coding\\development\\c#\\c_sharp-ultimate-guide-beginner-to-advanced-master-class\\section_25_linq\\select\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6040129B-8F84-4AC8-B3E4-EC6213859F3D}|Select\\Select.csproj|solutionrelative:select\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,13 +36,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_25_LINQ\\Single_and_SingleOrDefault\\Program.cs",
-              "RelativeDocumentMoniker": "Single_and_SingleOrDefault\\Program.cs",
-              "ToolTip": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_25_LINQ\\Single_and_SingleOrDefault\\Program.cs",
-              "RelativeToolTip": "Single_and_SingleOrDefault\\Program.cs",
-              "ViewState": "AQIAAEMAAAAAAAAAAAAEwFoAAAAAAAAA",
+              "DocumentMoniker": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_25_LINQ\\Select\\Program.cs",
+              "RelativeDocumentMoniker": "Select\\Program.cs",
+              "ToolTip": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_25_LINQ\\Select\\Program.cs",
+              "RelativeToolTip": "Select\\Program.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAAFgAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-28T17:40:20.043Z",
+              "WhenOpened": "2024-07-28T18:06:58.153Z",
               "EditorCaption": ""
             }
           ]
