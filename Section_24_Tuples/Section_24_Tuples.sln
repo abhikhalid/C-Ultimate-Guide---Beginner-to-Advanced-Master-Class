@@ -5,6 +5,10 @@ VisualStudioVersion = 17.10.35027.167
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Section_24_Tuples", "Section_24_Tuples.csproj", "{856CCC6C-C187-4896-ACEE-2E8D8B379A73}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Value_Tuples_Console_App", "Value_Tuples_Console_App\Value_Tuples_Console_App.csproj", "{AA9469E9-BD39-4A10-824D-6DEF5244D098}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Value_Tuples_Class_Library", "Value_Tuples_Class_Library\Value_Tuples_Class_Library.csproj", "{8B3F6A6C-AEE8-4375-8A59-46076A74B8FA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{856CCC6C-C187-4896-ACEE-2E8D8B379A73}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{856CCC6C-C187-4896-ACEE-2E8D8B379A73}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{856CCC6C-C187-4896-ACEE-2E8D8B379A73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA9469E9-BD39-4A10-824D-6DEF5244D098}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA9469E9-BD39-4A10-824D-6DEF5244D098}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA9469E9-BD39-4A10-824D-6DEF5244D098}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA9469E9-BD39-4A10-824D-6DEF5244D098}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B3F6A6C-AEE8-4375-8A59-46076A74B8FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B3F6A6C-AEE8-4375-8A59-46076A74B8FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B3F6A6C-AEE8-4375-8A59-46076A74B8FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B3F6A6C-AEE8-4375-8A59-46076A74B8FA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,10 @@
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_24_Tuples\Value_Tuples_Console_App\bin\Debug\Value_Tuples_Console_App.exe.config
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_24_Tuples\Value_Tuples_Console_App\bin\Debug\Value_Tuples_Console_App.exe
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_24_Tuples\Value_Tuples_Console_App\bin\Debug\Value_Tuples_Console_App.pdb
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_24_Tuples\Value_Tuples_Console_App\bin\Debug\Value_Tuples_Class_Library.dll
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_24_Tuples\Value_Tuples_Console_App\bin\Debug\Value_Tuples_Class_Library.pdb
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_24_Tuples\Value_Tuples_Console_App\obj\Debug\Value_Tuples_Console_App.csproj.AssemblyReference.cache
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_24_Tuples\Value_Tuples_Console_App\obj\Debug\Value_Tuples_Console_App.csproj.CoreCompileInputs.cache
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_24_Tuples\Value_Tuples_Console_App\obj\Debug\Value_Tu.2EF1B676.Up2Date
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_24_Tuples\Value_Tuples_Console_App\obj\Debug\Value_Tuples_Console_App.exe
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_24_Tuples\Value_Tuples_Console_App\obj\Debug\Value_Tuples_Console_App.pdb
