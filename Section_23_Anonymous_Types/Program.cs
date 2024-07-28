@@ -19,12 +19,15 @@ namespace Section_23_Anonymous_Types
             var person = new
             {
                 PersonName = p.GetPersonName(),
-                Age = p.GetPersonAge()
+                Age = p.GetPersonAge(),
+                Address = new {Street = "abc", City = "xyz"}
             };
 
             //Print
             Console.WriteLine(person.PersonName);
             Console.WriteLine(person.Age);
+            Console.WriteLine(person.Address.City);
+            Console.WriteLine(person.Address.Street);
 
             Console.ReadKey();
 
