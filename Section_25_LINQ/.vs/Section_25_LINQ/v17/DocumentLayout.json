@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_25_LINQ\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FBB0C9C8-3C3C-4AA8-91DB-5195642F248B}|First_and_FirstOrDefault\\First_and_FirstOrDefault.csproj|d:\\coding\\development\\c#\\c_sharp-ultimate-guide-beginner-to-advanced-master-class\\section_25_linq\\first_and_firstordefault\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FBB0C9C8-3C3C-4AA8-91DB-5195642F248B}|First_and_FirstOrDefault\\First_and_FirstOrDefault.csproj|solutionrelative:first_and_firstordefault\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{405E0C0F-C6E0-433E-B884-E90C779B998C}|Last_and_LastOrDefault\\Last_and_LastOrDefault.csproj|d:\\coding\\development\\c#\\c_sharp-ultimate-guide-beginner-to-advanced-master-class\\section_25_linq\\last_and_lastordefault\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{405E0C0F-C6E0-433E-B884-E90C779B998C}|Last_and_LastOrDefault\\Last_and_LastOrDefault.csproj|solutionrelative:last_and_lastordefault\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,13 +36,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_25_LINQ\\First_and_FirstOrDefault\\Program.cs",
-              "RelativeDocumentMoniker": "First_and_FirstOrDefault\\Program.cs",
-              "ToolTip": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_25_LINQ\\First_and_FirstOrDefault\\Program.cs",
-              "RelativeToolTip": "First_and_FirstOrDefault\\Program.cs",
-              "ViewState": "AQIAAEYAAAAAAAAAAAAAAFgAAAAGAAAA",
+              "DocumentMoniker": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_25_LINQ\\Last_and_LastOrDefault\\Program.cs",
+              "RelativeDocumentMoniker": "Last_and_LastOrDefault\\Program.cs",
+              "ToolTip": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_25_LINQ\\Last_and_LastOrDefault\\Program.cs",
+              "RelativeToolTip": "Last_and_LastOrDefault\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAEUAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-28T16:24:59.554Z",
+              "WhenOpened": "2024-07-28T16:54:26.755Z",
               "EditorCaption": ""
             }
           ]

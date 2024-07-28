@@ -1,0 +1,7 @@
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_25_LINQ\Last_and_LastOrDefault\bin\Debug\Last_and_LastOrDefault.exe.config
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_25_LINQ\Last_and_LastOrDefault\bin\Debug\Last_and_LastOrDefault.exe
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_25_LINQ\Last_and_LastOrDefault\bin\Debug\Last_and_LastOrDefault.pdb
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_25_LINQ\Last_and_LastOrDefault\obj\Debug\Last_and_LastOrDefault.csproj.AssemblyReference.cache
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_25_LINQ\Last_and_LastOrDefault\obj\Debug\Last_and_LastOrDefault.csproj.CoreCompileInputs.cache
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_25_LINQ\Last_and_LastOrDefault\obj\Debug\Last_and_LastOrDefault.exe
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_25_LINQ\Last_and_LastOrDefault\obj\Debug\Last_and_LastOrDefault.pdb
