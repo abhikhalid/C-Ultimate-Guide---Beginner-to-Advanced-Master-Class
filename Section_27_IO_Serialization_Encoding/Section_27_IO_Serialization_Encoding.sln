@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Section_27_IO_Serialization
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Octal_Number_System", "Octal_Number_System\Octal_Number_System.csproj", "{AE1E53DE-23BA-4C88-B9DA-14B24D95166C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HexaDecimalNumberSystem", "HexaDecimalNumberSystem\HexaDecimalNumberSystem.csproj", "{97BD6BBD-38F7-4684-B8E2-0F7FB0770B85}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{AE1E53DE-23BA-4C88-B9DA-14B24D95166C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AE1E53DE-23BA-4C88-B9DA-14B24D95166C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AE1E53DE-23BA-4C88-B9DA-14B24D95166C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97BD6BBD-38F7-4684-B8E2-0F7FB0770B85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97BD6BBD-38F7-4684-B8E2-0F7FB0770B85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97BD6BBD-38F7-4684-B8E2-0F7FB0770B85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97BD6BBD-38F7-4684-B8E2-0F7FB0770B85}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

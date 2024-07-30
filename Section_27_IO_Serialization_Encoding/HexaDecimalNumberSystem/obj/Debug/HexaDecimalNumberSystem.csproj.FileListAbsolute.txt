@@ -1,0 +1,7 @@
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_27_IO_Serialization_Encoding\HexaDecimalNumberSystem\bin\Debug\HexaDecimalNumberSystem.exe.config
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_27_IO_Serialization_Encoding\HexaDecimalNumberSystem\bin\Debug\HexaDecimalNumberSystem.exe
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_27_IO_Serialization_Encoding\HexaDecimalNumberSystem\bin\Debug\HexaDecimalNumberSystem.pdb
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_27_IO_Serialization_Encoding\HexaDecimalNumberSystem\obj\Debug\HexaDecimalNumberSystem.csproj.AssemblyReference.cache
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_27_IO_Serialization_Encoding\HexaDecimalNumberSystem\obj\Debug\HexaDecimalNumberSystem.csproj.CoreCompileInputs.cache
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_27_IO_Serialization_Encoding\HexaDecimalNumberSystem\obj\Debug\HexaDecimalNumberSystem.exe
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_27_IO_Serialization_Encoding\HexaDecimalNumberSystem\obj\Debug\HexaDecimalNumberSystem.pdb
