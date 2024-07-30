@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Octal_Number_System", "Octa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HexaDecimalNumberSystem", "HexaDecimalNumberSystem\HexaDecimalNumberSystem.csproj", "{97BD6BBD-38F7-4684-B8E2-0F7FB0770B85}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ascii_Character_Encoding", "Ascii_Character_Encoding\Ascii_Character_Encoding.csproj", "{FB2E88E8-2D7C-4EAE-BED3-F0068AB16A82}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{97BD6BBD-38F7-4684-B8E2-0F7FB0770B85}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{97BD6BBD-38F7-4684-B8E2-0F7FB0770B85}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{97BD6BBD-38F7-4684-B8E2-0F7FB0770B85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB2E88E8-2D7C-4EAE-BED3-F0068AB16A82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB2E88E8-2D7C-4EAE-BED3-F0068AB16A82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB2E88E8-2D7C-4EAE-BED3-F0068AB16A82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB2E88E8-2D7C-4EAE-BED3-F0068AB16A82}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
