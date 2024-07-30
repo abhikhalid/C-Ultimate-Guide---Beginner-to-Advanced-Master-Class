@@ -3,7 +3,16 @@
   "WorkspaceRootPath": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_20_Delegates_and_Events\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3286BCC4-3DA4-487E-A2DA-F90DB3D70F2D}|..\\Section_22_Collections\\Exists_Find_FindIndex_FindLast_FindLastIndex\\Exists_Find_FindIndex_FindLast_FindLastIndex.csproj|d:\\coding\\development\\c#\\c_sharp-ultimate-guide-beginner-to-advanced-master-class\\section_22_collections\\exists_find_findindex_findlast_findlastindex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{663EEE3D-2DF2-44D1-86D8-F2A5D50A7789}|Events_ConsoleApp\\Events_ConsoleApp.csproj|d:\\coding\\development\\c#\\c_sharp-ultimate-guide-beginner-to-advanced-master-class\\section_20_delegates_and_events\\events_consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{663EEE3D-2DF2-44D1-86D8-F2A5D50A7789}|Events_ConsoleApp\\Events_ConsoleApp.csproj|solutionrelative:events_consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{008C16BA-C229-4CC2-9DA7-9DE7D958D458}|Events_ClassLibrary\\Events_ClassLibrary.csproj|d:\\coding\\development\\c#\\c_sharp-ultimate-guide-beginner-to-advanced-master-class\\section_20_delegates_and_events\\events_classlibrary\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{008C16BA-C229-4CC2-9DA7-9DE7D958D458}|Events_ClassLibrary\\Events_ClassLibrary.csproj|solutionrelative:events_classlibrary\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{663EEE3D-2DF2-44D1-86D8-F2A5D50A7789}|Events_ConsoleApp\\Events_ConsoleApp.csproj|d:\\coding\\development\\c#\\c_sharp-ultimate-guide-beginner-to-advanced-master-class\\section_20_delegates_and_events\\events_consoleapp\\subscriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{663EEE3D-2DF2-44D1-86D8-F2A5D50A7789}|Events_ConsoleApp\\Events_ConsoleApp.csproj|solutionrelative:events_consoleapp\\subscriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -13,8 +22,35 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_20_Delegates_and_Events\\Events_ConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "Events_ConsoleApp\\Program.cs",
+              "ToolTip": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_20_Delegates_and_Events\\Events_ConsoleApp\\Program.cs",
+              "RelativeToolTip": "Events_ConsoleApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T05:26:17.489Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Subscriber.cs",
+              "DocumentMoniker": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_20_Delegates_and_Events\\Events_ConsoleApp\\Subscriber.cs",
+              "RelativeDocumentMoniker": "Events_ConsoleApp\\Subscriber.cs",
+              "ToolTip": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_20_Delegates_and_Events\\Events_ConsoleApp\\Subscriber.cs",
+              "RelativeToolTip": "Events_ConsoleApp\\Subscriber.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T05:27:27.894Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -33,15 +69,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_22_Collections\\Exists_Find_FindIndex_FindLast_FindLastIndex\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Section_22_Collections\\Exists_Find_FindIndex_FindLast_FindLastIndex\\Program.cs",
-              "ToolTip": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_22_Collections\\Exists_Find_FindIndex_FindLast_FindLastIndex\\Program.cs",
-              "RelativeToolTip": "..\\Section_22_Collections\\Exists_Find_FindIndex_FindLast_FindLastIndex\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAuAAAA",
+              "DocumentIndex": 1,
+              "Title": "Publisher.cs",
+              "DocumentMoniker": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_20_Delegates_and_Events\\Events_ClassLibrary\\Publisher.cs",
+              "RelativeDocumentMoniker": "Events_ClassLibrary\\Publisher.cs",
+              "ToolTip": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_20_Delegates_and_Events\\Events_ClassLibrary\\Publisher.cs",
+              "RelativeToolTip": "Events_ClassLibrary\\Publisher.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-24T15:42:29.34Z",
+              "WhenOpened": "2024-07-29T05:26:24.11Z",
               "EditorCaption": ""
             }
           ]
@@ -53,10 +89,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }
