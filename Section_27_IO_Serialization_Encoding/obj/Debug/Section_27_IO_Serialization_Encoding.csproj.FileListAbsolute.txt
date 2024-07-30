@@ -1,0 +1,7 @@
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_27_IO_Serialization_Encoding\bin\Debug\Section_27_IO_Serialization_Encoding.exe.config
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_27_IO_Serialization_Encoding\bin\Debug\Section_27_IO_Serialization_Encoding.exe
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_27_IO_Serialization_Encoding\bin\Debug\Section_27_IO_Serialization_Encoding.pdb
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_27_IO_Serialization_Encoding\obj\Debug\Section_27_IO_Serialization_Encoding.csproj.AssemblyReference.cache
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_27_IO_Serialization_Encoding\obj\Debug\Section_27_IO_Serialization_Encoding.csproj.CoreCompileInputs.cache
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_27_IO_Serialization_Encoding\obj\Debug\Section_27_IO_Serialization_Encoding.exe
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_27_IO_Serialization_Encoding\obj\Debug\Section_27_IO_Serialization_Encoding.pdb
