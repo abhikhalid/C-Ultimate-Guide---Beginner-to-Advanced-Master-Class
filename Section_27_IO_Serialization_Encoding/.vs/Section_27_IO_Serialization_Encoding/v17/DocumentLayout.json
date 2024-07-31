@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_27_IO_Serialization_Encoding\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{70F36D8E-8A8F-4FB8-ACAD-422C7D9BFB5D}|File_Class\\File_Class.csproj|d:\\coding\\development\\c#\\c_sharp-ultimate-guide-beginner-to-advanced-master-class\\section_27_io_serialization_encoding\\file_class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{70F36D8E-8A8F-4FB8-ACAD-422C7D9BFB5D}|File_Class\\File_Class.csproj|solutionrelative:file_class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1886A60A-2E87-41E1-A601-03F573C53F75}|File_Class_Read_and_Write\\File_Class_Read_and_Write.csproj|d:\\coding\\development\\c#\\c_sharp-ultimate-guide-beginner-to-advanced-master-class\\section_27_io_serialization_encoding\\file_class_read_and_write\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1886A60A-2E87-41E1-A601-03F573C53F75}|File_Class_Read_and_Write\\File_Class_Read_and_Write.csproj|solutionrelative:file_class_read_and_write\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,13 +36,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_27_IO_Serialization_Encoding\\File_Class\\Program.cs",
-              "RelativeDocumentMoniker": "File_Class\\Program.cs",
-              "ToolTip": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_27_IO_Serialization_Encoding\\File_Class\\Program.cs",
-              "RelativeToolTip": "File_Class\\Program.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAACEAAAANAAAA",
+              "DocumentMoniker": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_27_IO_Serialization_Encoding\\File_Class_Read_and_Write\\Program.cs",
+              "RelativeDocumentMoniker": "File_Class_Read_and_Write\\Program.cs",
+              "ToolTip": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_27_IO_Serialization_Encoding\\File_Class_Read_and_Write\\Program.cs",
+              "RelativeToolTip": "File_Class_Read_and_Write\\Program.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAACsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T14:09:31.581Z",
+              "WhenOpened": "2024-07-31T16:31:43.728Z",
               "EditorCaption": ""
             }
           ]

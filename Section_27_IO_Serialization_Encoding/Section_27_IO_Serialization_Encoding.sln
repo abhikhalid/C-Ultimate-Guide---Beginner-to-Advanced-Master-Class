@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniCode_Character_Encoding"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "File_Class", "File_Class\File_Class.csproj", "{70F36D8E-8A8F-4FB8-ACAD-422C7D9BFB5D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "File_Class_Read_and_Write", "File_Class_Read_and_Write\File_Class_Read_and_Write.csproj", "{1886A60A-2E87-41E1-A601-03F573C53F75}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{70F36D8E-8A8F-4FB8-ACAD-422C7D9BFB5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{70F36D8E-8A8F-4FB8-ACAD-422C7D9BFB5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{70F36D8E-8A8F-4FB8-ACAD-422C7D9BFB5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1886A60A-2E87-41E1-A601-03F573C53F75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1886A60A-2E87-41E1-A601-03F573C53F75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1886A60A-2E87-41E1-A601-03F573C53F75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1886A60A-2E87-41E1-A601-03F573C53F75}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
