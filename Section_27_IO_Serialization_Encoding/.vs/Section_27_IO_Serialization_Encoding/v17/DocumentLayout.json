@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_27_IO_Serialization_Encoding\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FB2E88E8-2D7C-4EAE-BED3-F0068AB16A82}|Ascii_Character_Encoding\\Ascii_Character_Encoding.csproj|d:\\coding\\development\\c#\\c_sharp-ultimate-guide-beginner-to-advanced-master-class\\section_27_io_serialization_encoding\\ascii_character_encoding\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB2E88E8-2D7C-4EAE-BED3-F0068AB16A82}|Ascii_Character_Encoding\\Ascii_Character_Encoding.csproj|solutionrelative:ascii_character_encoding\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2DEEEC75-694C-41C1-AEB6-FD1ACAF24836}|UniCode_Character_Encodiing\\UniCod_Character_Encoding.csproj|d:\\coding\\development\\c#\\c_sharp-ultimate-guide-beginner-to-advanced-master-class\\section_27_io_serialization_encoding\\unicode_character_encodiing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DEEEC75-694C-41C1-AEB6-FD1ACAF24836}|UniCode_Character_Encodiing\\UniCod_Character_Encoding.csproj|solutionrelative:unicode_character_encodiing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -13,7 +13,7 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
+          "DockedWidth": 335,
           "SelectedChildIndex": 4,
           "Children": [
             {
@@ -36,19 +36,19 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_27_IO_Serialization_Encoding\\Ascii_Character_Encoding\\Program.cs",
-              "RelativeDocumentMoniker": "Ascii_Character_Encoding\\Program.cs",
-              "ToolTip": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_27_IO_Serialization_Encoding\\Ascii_Character_Encoding\\Program.cs",
-              "RelativeToolTip": "Ascii_Character_Encoding\\Program.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB0AAAA0AAAA",
+              "DocumentMoniker": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_27_IO_Serialization_Encoding\\UniCode_Character_Encodiing\\Program.cs",
+              "RelativeDocumentMoniker": "UniCode_Character_Encodiing\\Program.cs",
+              "ToolTip": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_27_IO_Serialization_Encoding\\UniCode_Character_Encodiing\\Program.cs",
+              "RelativeToolTip": "UniCode_Character_Encodiing\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-30T16:51:24.166Z",
+              "WhenOpened": "2024-07-31T11:02:14.72Z",
               "EditorCaption": ""
             }
           ]
         },
         {
-          "DockedWidth": 200,
+          "DockedWidth": 65,
           "SelectedChildIndex": -1,
           "Children": [
             {
