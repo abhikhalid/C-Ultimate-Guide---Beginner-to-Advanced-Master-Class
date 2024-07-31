@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_27_IO_Serialization_Encoding\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2DEEEC75-694C-41C1-AEB6-FD1ACAF24836}|UniCode_Character_Encodiing\\UniCod_Character_Encoding.csproj|d:\\coding\\development\\c#\\c_sharp-ultimate-guide-beginner-to-advanced-master-class\\section_27_io_serialization_encoding\\unicode_character_encodiing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2DEEEC75-694C-41C1-AEB6-FD1ACAF24836}|UniCode_Character_Encodiing\\UniCod_Character_Encoding.csproj|solutionrelative:unicode_character_encodiing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{70F36D8E-8A8F-4FB8-ACAD-422C7D9BFB5D}|File_Class\\File_Class.csproj|d:\\coding\\development\\c#\\c_sharp-ultimate-guide-beginner-to-advanced-master-class\\section_27_io_serialization_encoding\\file_class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70F36D8E-8A8F-4FB8-ACAD-422C7D9BFB5D}|File_Class\\File_Class.csproj|solutionrelative:file_class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,13 +36,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_27_IO_Serialization_Encoding\\UniCode_Character_Encodiing\\Program.cs",
-              "RelativeDocumentMoniker": "UniCode_Character_Encodiing\\Program.cs",
-              "ToolTip": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_27_IO_Serialization_Encoding\\UniCode_Character_Encodiing\\Program.cs",
-              "RelativeToolTip": "UniCode_Character_Encodiing\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "DocumentMoniker": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_27_IO_Serialization_Encoding\\File_Class\\Program.cs",
+              "RelativeDocumentMoniker": "File_Class\\Program.cs",
+              "ToolTip": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_27_IO_Serialization_Encoding\\File_Class\\Program.cs",
+              "RelativeToolTip": "File_Class\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACEAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T11:02:14.72Z",
+              "WhenOpened": "2024-07-31T14:09:31.581Z",
               "EditorCaption": ""
             }
           ]
@@ -51,6 +51,10 @@
           "DockedWidth": 65,
           "SelectedChildIndex": -1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
