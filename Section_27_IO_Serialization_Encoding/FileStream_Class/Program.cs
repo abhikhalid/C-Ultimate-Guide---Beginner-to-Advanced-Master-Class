@@ -41,6 +41,28 @@ namespace FileStream_Class
 
             Console.WriteLine("dog.txt created");
 
+            // It's recommended to create two stream, one is for reading and another one is for writing.
+
+            //File Reading
+
+            //FileStream fileStream2 = new FileStream(filePath,FileMode.OpenOrCreate,FileAccess.Read);
+            //FileStream fileStream2 = File.Open(filePath,FileMode.OpenOrCreate,FileAccess.Read);
+            //FileStream fileStream2 = fileInfo.Open(FileMode.OpenOrCreate,FileAccess.Read);
+            FileStream fileStream2 = fileInfo.OpenRead();
+
+            //create empty bytes[]
+            byte[] bytes3 = new byte[fileStream2.Length]; 
+            
+            //Read
+            fileStream2.Read(bytes3, 0, bytes3.Length);
+
+            //Convert byte[] to string
+            string content3 = Encoding.ASCII.GetString(bytes3);
+            Console.WriteLine("\nFile read. File content is:");
+            Console.WriteLine(content3);
+
+            fileStream2.Close();
+
             Console.ReadKey();
         }
     }
