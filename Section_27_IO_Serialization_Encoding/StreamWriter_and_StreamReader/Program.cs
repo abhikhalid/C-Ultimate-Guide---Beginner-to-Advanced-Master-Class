@@ -9,32 +9,54 @@ namespace StreamWriter_and_StreamReader
         {
             string filePath = @"D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_27_IO_Serialization_Encoding\FileStream_Class\cat.txt";
 
+            FileInfo fileInfo = new FileInfo(filePath);
+
+            //FileStream fileStream = new FileStream(filePath, FileMode.Create, FileAccess.Write);
+
+
+            //4 ways to create new object of StreamWriter
             //StreamWriter streamWriter = new StreamWriter(filePath);
-           
-            FileStream fileStream = new FileStream(filePath, FileMode.Create, FileAccess.Write); 
             //StreamWriter streamWriter = new StreamWriter(fileStream);
+            //StreamWriter streamWriter = fileInfo.AppendText();
             
-            
-            //as a developer you are using the strea writer directly but it internally uses the file stream in that way
-            //it works so here the benefit for you is you need not worry about converting the string value into byte array
-
-            //streamWriter.WriteLine("Hello");
-
-            //you have to close the stream writer once you close the stream writer internally
-            //what it happens is it actually closes the file stream so it will automatically dispose
-            //the file stream so any memory allocation of this file stream will be deleted and also the file
-            //gets closed to the operating system so that when next time when you try to modify or overwrite that
-            //particular file you will not get any errors.
-
-            //streamWriter.Close();
-
-            //or
-
-            using(StreamWriter streamWriter = new StreamWriter(fileStream))
+            using(StreamWriter streamWriter = fileInfo.CreateText())
             {
-                streamWriter.WriteLine("Hello");
+                streamWriter.WriteLine("Russia has population about 145,934,000");
+                streamWriter.WriteLine("Germany has population about 145,934,000");
+                streamWriter.WriteLine("United Kingdom has population about 145,934,000");
                 //streamWriter.Close(); optional
             }
+
+            Console.WriteLine("europe.txt created");
+
+            //3 ways to create object of StreamReader
+            StreamReader streamReader = new StreamReader(filePath);
+            StreamReader streamReader1 = fileInfo.OpenText();
+
+            FileStream fileStream2 = new FileStream(filePath,FileMode.Open,FileAccess.Read);
+
+            using(StreamReader streamReader2 = new StreamReader(fileStream2))
+            {
+                Console.WriteLine("\nFile read. File content is:");
+
+                //To read full file
+                //string content_from_file = streamReader2.ReadToEnd();
+                //Console.WriteLine(content_from_file);
+
+                //To read part-by-part (10 Character)
+                char[] buffer = new char[10];
+                int char_count;
+                do
+                {
+                    char_count = streamReader2.Read(buffer, 0, 10);
+                    string s1 = new string(buffer);
+                    Console.WriteLine(s1);
+
+                } while (char_count > 0);
+            }
+
+
+            Console.ReadKey();
         }
     }
 }
