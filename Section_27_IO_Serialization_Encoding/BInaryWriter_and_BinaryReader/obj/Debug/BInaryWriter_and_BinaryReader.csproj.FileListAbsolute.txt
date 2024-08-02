@@ -1,0 +1,7 @@
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_27_IO_Serialization_Encoding\BInaryWriter_and_BinaryReader\bin\Debug\BInaryWriter_and_BinaryReader.exe.config
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_27_IO_Serialization_Encoding\BInaryWriter_and_BinaryReader\bin\Debug\BInaryWriter_and_BinaryReader.exe
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_27_IO_Serialization_Encoding\BInaryWriter_and_BinaryReader\bin\Debug\BInaryWriter_and_BinaryReader.pdb
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_27_IO_Serialization_Encoding\BInaryWriter_and_BinaryReader\obj\Debug\BInaryWriter_and_BinaryReader.csproj.AssemblyReference.cache
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_27_IO_Serialization_Encoding\BInaryWriter_and_BinaryReader\obj\Debug\BInaryWriter_and_BinaryReader.csproj.CoreCompileInputs.cache
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_27_IO_Serialization_Encoding\BInaryWriter_and_BinaryReader\obj\Debug\BInaryWriter_and_BinaryReader.exe
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_27_IO_Serialization_Encoding\BInaryWriter_and_BinaryReader\obj\Debug\BInaryWriter_and_BinaryReader.pdb

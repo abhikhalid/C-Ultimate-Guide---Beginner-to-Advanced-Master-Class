@@ -31,6 +31,25 @@ namespace BInaryWriter_and_BinaryReader
 
             Console.WriteLine("bangladesh.txt");
 
+            //BinaryReader
+
+            //now we have to read in the same order with the same data type we have written in the file
+
+            FileStream fileStream2 = new FileStream(filePath, FileMode.Open, FileAccess.Read);
+
+            using (BinaryReader binaryReader = new BinaryReader(fileStream2))
+            {
+                int countryId_from_file = binaryReader.ReadInt16(); // ReadInt16() is equivalent to short
+                string countryName_from_file = binaryReader.ReadString();
+                long population_from_file = binaryReader.ReadInt64();
+                string region_from_file = binaryReader.ReadString();
+
+                Console.WriteLine("Country ID: " + countryId_from_file);
+                Console.WriteLine("Country Name: "+ countryName_from_file);
+                Console.WriteLine("Population: " + population_from_file);
+                Console.WriteLine("Region: " + region_from_file);
+            }
+            
             Console.ReadKey();
         }
     }
