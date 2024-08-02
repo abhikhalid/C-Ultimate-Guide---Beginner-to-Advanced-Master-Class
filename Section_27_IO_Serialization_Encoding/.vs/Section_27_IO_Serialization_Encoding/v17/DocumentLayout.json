@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_27_IO_Serialization_Encoding\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{69333BD9-55BA-4048-8B6A-01AA2B5E5A65}|Json_Serialization\\Json_Serialization.csproj|d:\\coding\\development\\c#\\c_sharp-ultimate-guide-beginner-to-advanced-master-class\\section_27_io_serialization_encoding\\json_serialization\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69333BD9-55BA-4048-8B6A-01AA2B5E5A65}|Json_Serialization\\Json_Serialization.csproj|solutionrelative:json_serialization\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CD338CED-955A-4500-963F-8DFEF4EC1C9C}|XML_Serialization\\XML_Serialization.csproj|d:\\coding\\development\\c#\\c_sharp-ultimate-guide-beginner-to-advanced-master-class\\section_27_io_serialization_encoding\\xml_serialization\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD338CED-955A-4500-963F-8DFEF4EC1C9C}|XML_Serialization\\XML_Serialization.csproj|solutionrelative:xml_serialization\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,13 +36,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_27_IO_Serialization_Encoding\\Json_Serialization\\Program.cs",
-              "RelativeDocumentMoniker": "Json_Serialization\\Program.cs",
-              "ToolTip": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_27_IO_Serialization_Encoding\\Json_Serialization\\Program.cs",
-              "RelativeToolTip": "Json_Serialization\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAaAAAA",
+              "DocumentMoniker": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_27_IO_Serialization_Encoding\\XML_Serialization\\Program.cs",
+              "RelativeDocumentMoniker": "XML_Serialization\\Program.cs",
+              "ToolTip": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_27_IO_Serialization_Encoding\\XML_Serialization\\Program.cs",
+              "RelativeToolTip": "XML_Serialization\\Program.cs",
+              "ViewState": "AQIAAJ4AAAAAAAAAAAAAALQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-02T15:47:58.129Z",
+              "WhenOpened": "2024-08-02T17:09:59.112Z",
               "EditorCaption": ""
             }
           ]
@@ -51,6 +51,10 @@
           "DockedWidth": 65,
           "SelectedChildIndex": -1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"

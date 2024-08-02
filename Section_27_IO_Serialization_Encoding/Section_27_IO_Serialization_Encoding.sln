@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Binary_Serialization", "Bin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Json_Serialization", "Json_Serialization\Json_Serialization.csproj", "{69333BD9-55BA-4048-8B6A-01AA2B5E5A65}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XML_Serialization", "XML_Serialization\XML_Serialization.csproj", "{CD338CED-955A-4500-963F-8DFEF4EC1C9C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{69333BD9-55BA-4048-8B6A-01AA2B5E5A65}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{69333BD9-55BA-4048-8B6A-01AA2B5E5A65}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{69333BD9-55BA-4048-8B6A-01AA2B5E5A65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD338CED-955A-4500-963F-8DFEF4EC1C9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD338CED-955A-4500-963F-8DFEF4EC1C9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD338CED-955A-4500-963F-8DFEF4EC1C9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD338CED-955A-4500-963F-8DFEF4EC1C9C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
