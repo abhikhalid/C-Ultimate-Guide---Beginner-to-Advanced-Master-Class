@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StreamWriter_and_StreamRead
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BInaryWriter_and_BinaryReader", "BInaryWriter_and_BinaryReader\BInaryWriter_and_BinaryReader.csproj", "{8E0ADCC6-ABD9-49F5-A741-9632AA79899F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Binary_Serialization", "Binary_Serialization\Binary_Serialization.csproj", "{09CCC080-F705-4F5F-9453-06ECC5E15A16}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{8E0ADCC6-ABD9-49F5-A741-9632AA79899F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8E0ADCC6-ABD9-49F5-A741-9632AA79899F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8E0ADCC6-ABD9-49F5-A741-9632AA79899F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09CCC080-F705-4F5F-9453-06ECC5E15A16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09CCC080-F705-4F5F-9453-06ECC5E15A16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09CCC080-F705-4F5F-9453-06ECC5E15A16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09CCC080-F705-4F5F-9453-06ECC5E15A16}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
