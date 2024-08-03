@@ -1,0 +1,7 @@
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_28_Exception_Handling\IndexOutOfRangeException\bin\Debug\IndexOutOfRangeException.exe.config
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_28_Exception_Handling\IndexOutOfRangeException\bin\Debug\IndexOutOfRangeException.exe
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_28_Exception_Handling\IndexOutOfRangeException\bin\Debug\IndexOutOfRangeException.pdb
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_28_Exception_Handling\IndexOutOfRangeException\obj\Debug\IndexOutOfRangeException.csproj.AssemblyReference.cache
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_28_Exception_Handling\IndexOutOfRangeException\obj\Debug\IndexOutOfRangeException.csproj.CoreCompileInputs.cache
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_28_Exception_Handling\IndexOutOfRangeException\obj\Debug\IndexOutOfRangeException.exe
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_28_Exception_Handling\IndexOutOfRangeException\obj\Debug\IndexOutOfRangeException.pdb
