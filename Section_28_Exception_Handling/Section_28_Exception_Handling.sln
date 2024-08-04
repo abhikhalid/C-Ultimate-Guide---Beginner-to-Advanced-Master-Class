@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InnerException", "InnerExce
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArgumentOutOfRangeException", "ArgumentOutOfRangeException\ArgumentOutOfRangeException.csproj", "{BBEBC3C5-5CE4-46BD-8D7B-9C2C3BA09643}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArgumentException", "ArgumentException\ArgumentException.csproj", "{A095DF64-0C4E-4802-B5D1-DCF72134CEDF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{BBEBC3C5-5CE4-46BD-8D7B-9C2C3BA09643}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BBEBC3C5-5CE4-46BD-8D7B-9C2C3BA09643}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BBEBC3C5-5CE4-46BD-8D7B-9C2C3BA09643}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A095DF64-0C4E-4802-B5D1-DCF72134CEDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A095DF64-0C4E-4802-B5D1-DCF72134CEDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A095DF64-0C4E-4802-B5D1-DCF72134CEDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A095DF64-0C4E-4802-B5D1-DCF72134CEDF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
