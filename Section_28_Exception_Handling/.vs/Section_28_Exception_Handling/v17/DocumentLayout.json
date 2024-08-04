@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_28_Exception_Handling\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{394B3132-5DEF-45F5-8477-B18BDC776141}|IndexOutOfRangeException\\IndexOutOfRangeException.csproj|d:\\coding\\development\\c#\\c_sharp-ultimate-guide-beginner-to-advanced-master-class\\section_28_exception_handling\\indexoutofrangeexception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{394B3132-5DEF-45F5-8477-B18BDC776141}|IndexOutOfRangeException\\IndexOutOfRangeException.csproj|solutionrelative:indexoutofrangeexception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AE66ACEF-E043-4B72-868A-72A1B2A29388}|NullReferenceException\\NullReferenceException.csproj|d:\\coding\\development\\c#\\c_sharp-ultimate-guide-beginner-to-advanced-master-class\\section_28_exception_handling\\nullreferenceexception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE66ACEF-E043-4B72-868A-72A1B2A29388}|NullReferenceException\\NullReferenceException.csproj|solutionrelative:nullreferenceexception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +14,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 335,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
@@ -36,13 +40,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_28_Exception_Handling\\IndexOutOfRangeException\\Program.cs",
-              "RelativeDocumentMoniker": "IndexOutOfRangeException\\Program.cs",
-              "ToolTip": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_28_Exception_Handling\\IndexOutOfRangeException\\Program.cs",
-              "RelativeToolTip": "IndexOutOfRangeException\\Program.cs",
-              "ViewState": "AQIAAD8AAAAAAAAAAAAAAEwAAAAAAAAA",
+              "DocumentMoniker": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_28_Exception_Handling\\NullReferenceException\\Program.cs",
+              "RelativeDocumentMoniker": "NullReferenceException\\Program.cs",
+              "ToolTip": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_28_Exception_Handling\\NullReferenceException\\Program.cs",
+              "RelativeToolTip": "NullReferenceException\\Program.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-03T14:43:45.726Z",
+              "WhenOpened": "2024-08-03T16:05:51.903Z",
               "EditorCaption": ""
             }
           ]
