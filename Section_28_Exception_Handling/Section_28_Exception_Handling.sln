@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IndexOutOfRangeException", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NullReferenceException", "NullReferenceException\NullReferenceException.csproj", "{AE66ACEF-E043-4B72-868A-72A1B2A29388}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArgumentNullException", "ArgumentNullException\ArgumentNullException.csproj", "{918BE246-08DB-4F54-B125-955A291B7562}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{AE66ACEF-E043-4B72-868A-72A1B2A29388}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AE66ACEF-E043-4B72-868A-72A1B2A29388}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AE66ACEF-E043-4B72-868A-72A1B2A29388}.Release|Any CPU.Build.0 = Release|Any CPU
+		{918BE246-08DB-4F54-B125-955A291B7562}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{918BE246-08DB-4F54-B125-955A291B7562}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{918BE246-08DB-4F54-B125-955A291B7562}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{918BE246-08DB-4F54-B125-955A291B7562}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
