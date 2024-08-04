@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_28_Exception_Handling\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{27FB3780-9744-4F4E-8DA9-2DE4EA3301D6}|InnerException\\InnerException.csproj|d:\\coding\\development\\c#\\c_sharp-ultimate-guide-beginner-to-advanced-master-class\\section_28_exception_handling\\innerexception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27FB3780-9744-4F4E-8DA9-2DE4EA3301D6}|InnerException\\InnerException.csproj|solutionrelative:innerexception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BBEBC3C5-5CE4-46BD-8D7B-9C2C3BA09643}|ArgumentOutOfRangeException\\ArgumentOutOfRangeException.csproj|d:\\coding\\development\\c#\\c_sharp-ultimate-guide-beginner-to-advanced-master-class\\section_28_exception_handling\\argumentoutofrangeexception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBEBC3C5-5CE4-46BD-8D7B-9C2C3BA09643}|ArgumentOutOfRangeException\\ArgumentOutOfRangeException.csproj|solutionrelative:argumentoutofrangeexception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -13,7 +13,7 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 335,
+          "DockedWidth": 262,
           "SelectedChildIndex": 4,
           "Children": [
             {
@@ -36,19 +36,19 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_28_Exception_Handling\\InnerException\\Program.cs",
-              "RelativeDocumentMoniker": "InnerException\\Program.cs",
-              "ToolTip": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_28_Exception_Handling\\InnerException\\Program.cs",
-              "RelativeToolTip": "InnerException\\Program.cs",
-              "ViewState": "AQIAACAAAAAAAAAAAAAhwC0AAAANAAAA",
+              "DocumentMoniker": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_28_Exception_Handling\\ArgumentOutOfRangeException\\Program.cs",
+              "RelativeDocumentMoniker": "ArgumentOutOfRangeException\\Program.cs",
+              "ToolTip": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_28_Exception_Handling\\ArgumentOutOfRangeException\\Program.cs",
+              "RelativeToolTip": "ArgumentOutOfRangeException\\Program.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAASwFcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-04T06:01:51.111Z",
+              "WhenOpened": "2024-08-04T06:57:41.226Z",
               "EditorCaption": ""
             }
           ]
         },
         {
-          "DockedWidth": 65,
+          "DockedWidth": 138,
           "SelectedChildIndex": -1,
           "Children": [
             {
