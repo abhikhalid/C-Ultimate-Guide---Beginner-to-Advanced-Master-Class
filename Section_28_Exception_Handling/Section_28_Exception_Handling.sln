@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NullReferenceException", "N
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArgumentNullException", "ArgumentNullException\ArgumentNullException.csproj", "{918BE246-08DB-4F54-B125-955A291B7562}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InnerException", "InnerException\InnerException.csproj", "{27FB3780-9744-4F4E-8DA9-2DE4EA3301D6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{918BE246-08DB-4F54-B125-955A291B7562}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{918BE246-08DB-4F54-B125-955A291B7562}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{918BE246-08DB-4F54-B125-955A291B7562}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27FB3780-9744-4F4E-8DA9-2DE4EA3301D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27FB3780-9744-4F4E-8DA9-2DE4EA3301D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27FB3780-9744-4F4E-8DA9-2DE4EA3301D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27FB3780-9744-4F4E-8DA9-2DE4EA3301D6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
