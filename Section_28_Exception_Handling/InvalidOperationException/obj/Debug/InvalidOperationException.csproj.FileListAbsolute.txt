@@ -1,0 +1,7 @@
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_28_Exception_Handling\InvalidOperationException\bin\Debug\InvalidOperationException.exe.config
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_28_Exception_Handling\InvalidOperationException\bin\Debug\InvalidOperationException.exe
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_28_Exception_Handling\InvalidOperationException\bin\Debug\InvalidOperationException.pdb
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_28_Exception_Handling\InvalidOperationException\obj\Debug\InvalidOperationException.csproj.AssemblyReference.cache
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_28_Exception_Handling\InvalidOperationException\obj\Debug\InvalidOperationException.csproj.CoreCompileInputs.cache
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_28_Exception_Handling\InvalidOperationException\obj\Debug\InvalidOperationException.exe
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_28_Exception_Handling\InvalidOperationException\obj\Debug\InvalidOperationException.pdb
