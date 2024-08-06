@@ -50,7 +50,7 @@ namespace ArgumentException1
             string filePath = @"D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_28_Exception_Handling\Custom_Exceptions\ErrorLog.txt";
             StreamWriter streamWriter = File.AppendText(filePath);
 
-            streamWriter.WriteLine("Exception on "+DateTime.Now);
+            streamWriter.WriteLine("\n\nException on "+DateTime.Now);
             streamWriter.WriteLine(ex.GetType().ToString()); //Exception Name
            
             streamWriter.WriteLine("\nStack Trace:");
@@ -159,6 +159,11 @@ namespace ArgumentException1
                 ExceptionLogger.AddException(ex);
             }
             catch (InvalidOperationException ex) // it catches the object of InvalidOperationException which was thrown in 'Transfer' method.
+            {
+                Console.WriteLine(ex.Message);
+                ExceptionLogger.AddException(ex);
+            }
+            catch(Exception ex)
             {
                 Console.WriteLine(ex.Message);
                 ExceptionLogger.AddException(ex);
