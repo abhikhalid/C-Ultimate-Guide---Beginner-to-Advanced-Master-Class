@@ -132,7 +132,7 @@ namespace ArgumentException1
                 Console.WriteLine(ex.InnerException?.Message);
                 ExceptionLogger.AddException(ex);
             }
-            catch (ArgumentOutOfRangeException ex)
+            catch (ArgumentOutOfRangeException ex) when (ex.ParamName == "amount")
             {
                 Console.WriteLine(ex.Message);
                 Console.WriteLine(ex.ActualValue);
