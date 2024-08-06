@@ -1,0 +1,7 @@
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_28_Exception_Handling\Custom_Exceptions\bin\Debug\Custom_Exceptions.exe.config
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_28_Exception_Handling\Custom_Exceptions\bin\Debug\Custom_Exceptions.exe
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_28_Exception_Handling\Custom_Exceptions\bin\Debug\Custom_Exceptions.pdb
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_28_Exception_Handling\Custom_Exceptions\obj\Debug\Custom_Exceptions.csproj.AssemblyReference.cache
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_28_Exception_Handling\Custom_Exceptions\obj\Debug\Custom_Exceptions.csproj.CoreCompileInputs.cache
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_28_Exception_Handling\Custom_Exceptions\obj\Debug\Custom_Exceptions.exe
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_28_Exception_Handling\Custom_Exceptions\obj\Debug\Custom_Exceptions.pdb

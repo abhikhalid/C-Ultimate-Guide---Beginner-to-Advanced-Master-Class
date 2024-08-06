@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArgumentException", "Argume
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InvalidOperationException", "InvalidOperationException\InvalidOperationException.csproj", "{6DD50B12-2305-4FAB-9854-49A35D7A5EB8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Custom_Exceptions", "Custom_Exceptions\Custom_Exceptions.csproj", "{151A60AA-5084-4FF2-9494-A25014429B3C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{6DD50B12-2305-4FAB-9854-49A35D7A5EB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6DD50B12-2305-4FAB-9854-49A35D7A5EB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6DD50B12-2305-4FAB-9854-49A35D7A5EB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{151A60AA-5084-4FF2-9494-A25014429B3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{151A60AA-5084-4FF2-9494-A25014429B3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{151A60AA-5084-4FF2-9494-A25014429B3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{151A60AA-5084-4FF2-9494-A25014429B3C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

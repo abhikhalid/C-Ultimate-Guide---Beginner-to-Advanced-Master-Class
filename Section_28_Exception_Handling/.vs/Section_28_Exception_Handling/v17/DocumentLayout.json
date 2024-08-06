@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_28_Exception_Handling\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6DD50B12-2305-4FAB-9854-49A35D7A5EB8}|InvalidOperationException\\InvalidOperationException.csproj|d:\\coding\\development\\c#\\c_sharp-ultimate-guide-beginner-to-advanced-master-class\\section_28_exception_handling\\invalidoperationexception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DD50B12-2305-4FAB-9854-49A35D7A5EB8}|InvalidOperationException\\InvalidOperationException.csproj|solutionrelative:invalidoperationexception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{151A60AA-5084-4FF2-9494-A25014429B3C}|Custom_Exceptions\\Custom_Exceptions.csproj|d:\\coding\\development\\c#\\c_sharp-ultimate-guide-beginner-to-advanced-master-class\\section_28_exception_handling\\custom_exceptions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{151A60AA-5084-4FF2-9494-A25014429B3C}|Custom_Exceptions\\Custom_Exceptions.csproj|solutionrelative:custom_exceptions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,13 +36,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_28_Exception_Handling\\InvalidOperationException\\Program.cs",
-              "RelativeDocumentMoniker": "InvalidOperationException\\Program.cs",
-              "ToolTip": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_28_Exception_Handling\\InvalidOperationException\\Program.cs",
-              "RelativeToolTip": "InvalidOperationException\\Program.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAACkAAAA3AAAA",
+              "DocumentMoniker": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_28_Exception_Handling\\Custom_Exceptions\\Program.cs",
+              "RelativeDocumentMoniker": "Custom_Exceptions\\Program.cs",
+              "ToolTip": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_28_Exception_Handling\\Custom_Exceptions\\Program.cs",
+              "RelativeToolTip": "Custom_Exceptions\\Program.cs",
+              "ViewState": "AQIAAHsAAAAAAAAAAAAAAIcAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-04T08:47:49.068Z",
+              "WhenOpened": "2024-08-05T04:45:15.897Z",
               "EditorCaption": ""
             }
           ]
@@ -51,6 +51,10 @@
           "DockedWidth": 138,
           "SelectedChildIndex": -1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
