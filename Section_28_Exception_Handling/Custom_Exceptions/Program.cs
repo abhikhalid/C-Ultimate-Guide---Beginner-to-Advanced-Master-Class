@@ -133,6 +133,7 @@ namespace ArgumentException1
             catch (InsufficientFundsException ex)
             {
                 Console.WriteLine(ex.Message);
+                Console.WriteLine(ex.StackTrace);
             }
             catch (InvalidOperationException ex) // it catches the object of InvalidOperationException which was thrown in 'Transfer' method.
             {
