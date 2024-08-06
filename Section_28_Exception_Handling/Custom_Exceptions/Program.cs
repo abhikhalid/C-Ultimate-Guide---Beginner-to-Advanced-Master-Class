@@ -1,4 +1,5 @@
 ﻿using System;
+using System.IO;
 
 namespace ArgumentException1
 {
@@ -39,6 +40,24 @@ namespace ArgumentException1
 
         public InsufficientFundsException(string message, Exception innerException) : base(message, innerException)
         {
+        }
+    }
+
+    class ExceptionLogger
+    {
+        public static void AddException(Exception ex)
+        {
+            string filePath = @"D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_28_Exception_Handling\Custom_Exceptions\ErrorLog.txt";
+            StreamWriter streamWriter = File.AppendText(filePath);
+
+            streamWriter.WriteLine("Exception on "+DateTime.Now);
+            streamWriter.WriteLine(ex.GetType().ToString()); //Exception Name
+           
+            streamWriter.WriteLine("\nStack Trace:");
+            streamWriter.WriteLine(ex.StackTrace);
+            streamWriter.WriteLine("\nMessage:");
+            streamWriter.WriteLine(ex.Message);
+            streamWriter.Close();
         }
     }
 
@@ -111,16 +130,19 @@ namespace ArgumentException1
             {
                 Console.WriteLine(ex.Message);
                 Console.WriteLine(ex.InnerException?.Message);
+                ExceptionLogger.AddException(ex);
             }
             catch (ArgumentOutOfRangeException ex)
             {
                 Console.WriteLine(ex.Message);
                 Console.WriteLine(ex.ActualValue);
                 Console.WriteLine(ex.ParamName);
+                ExceptionLogger.AddException(ex);
             }
             catch (ArgumentException ex) // it catches the object of ArgumentException which was thrown in 'Transfer' method.
             {
                 Console.WriteLine(ex.Message);
+                ExceptionLogger.AddException(ex);
             }
             //catch (InvalidOperationException ex) // it catches the object of InvalidOperationException which was thrown in 'Transfer' method.
             //{
@@ -134,10 +156,12 @@ namespace ArgumentException1
             {
                 Console.WriteLine(ex.Message);
                 Console.WriteLine(ex.StackTrace);
+                ExceptionLogger.AddException(ex);
             }
             catch (InvalidOperationException ex) // it catches the object of InvalidOperationException which was thrown in 'Transfer' method.
             {
                 Console.WriteLine(ex.Message);
+                ExceptionLogger.AddException(ex);
             }
 
             Console.ReadKey();

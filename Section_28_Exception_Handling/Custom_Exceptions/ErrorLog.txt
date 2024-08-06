@@ -1,0 +1,9 @@
+Exception on 06/08/2024 21:35:26
+ArgumentException1.InsufficientFundsException
+
+Stack Trace:
+   at ArgumentException1.FundsTransfer.Transfer(BankAccount sourceAccount, BankAccount destinationAccount, Double amount) in D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_28_Exception_Handling\Custom_Exceptions\Program.cs:line 77
+   at ArgumentException1.Program.Main() in D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_28_Exception_Handling\Custom_Exceptions\Program.cs:line 125
+
+Message:
+Insufficient balance in the source account. The current balance is 7000. But the amount to trasfet is $9000
