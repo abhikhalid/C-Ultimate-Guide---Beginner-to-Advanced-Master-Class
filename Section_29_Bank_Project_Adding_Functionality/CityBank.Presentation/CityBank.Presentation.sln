@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CityBank.Presentation", "CityBank.Presentation.csproj", "{54AD782E-6477-4084-942B-6BF6C204293F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CityBank.Entities", "..\CityBank.Entities\CityBank.Entities.csproj", "{1E2A48F1-56AE-4E35-9453-56A9E607F969}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CityBank.DataAccesLayer", "..\CityBank.DataAccesLayer\CityBank.DataAccesLayer.csproj", "{0877766B-0A82-4DD9-A563-36C4C263CFB4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CityBank.BusinessLogicLayer", "..\CityBank.BusinessLogicLayer\CityBank.BusinessLogicLayer.csproj", "{E0B5073C-9CF7-42DF-92E7-DF638F0BCB62}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CityBank.Configuration", "..\CityBank.Configuration\CityBank.Configuration.csproj", "{0E70F13E-EAA8-4B91-842A-9471F80AC106}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CityBank.Exceptions", "..\CityBank.Exceptions\CityBank.Exceptions.csproj", "{489856AE-00C3-416F-AA50-5F25179A50E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54AD782E-6477-4084-942B-6BF6C204293F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54AD782E-6477-4084-942B-6BF6C204293F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54AD782E-6477-4084-942B-6BF6C204293F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54AD782E-6477-4084-942B-6BF6C204293F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E2A48F1-56AE-4E35-9453-56A9E607F969}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E2A48F1-56AE-4E35-9453-56A9E607F969}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E2A48F1-56AE-4E35-9453-56A9E607F969}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E2A48F1-56AE-4E35-9453-56A9E607F969}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0877766B-0A82-4DD9-A563-36C4C263CFB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0877766B-0A82-4DD9-A563-36C4C263CFB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0877766B-0A82-4DD9-A563-36C4C263CFB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0877766B-0A82-4DD9-A563-36C4C263CFB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0B5073C-9CF7-42DF-92E7-DF638F0BCB62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0B5073C-9CF7-42DF-92E7-DF638F0BCB62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0B5073C-9CF7-42DF-92E7-DF638F0BCB62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0B5073C-9CF7-42DF-92E7-DF638F0BCB62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E70F13E-EAA8-4B91-842A-9471F80AC106}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E70F13E-EAA8-4B91-842A-9471F80AC106}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E70F13E-EAA8-4B91-842A-9471F80AC106}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E70F13E-EAA8-4B91-842A-9471F80AC106}.Release|Any CPU.Build.0 = Release|Any CPU
+		{489856AE-00C3-416F-AA50-5F25179A50E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{489856AE-00C3-416F-AA50-5F25179A50E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{489856AE-00C3-416F-AA50-5F25179A50E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{489856AE-00C3-416F-AA50-5F25179A50E6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A4684E4-D9F8-414D-A3DD-8417FE3958F1}
+	EndGlobalSection
+EndGlobal
