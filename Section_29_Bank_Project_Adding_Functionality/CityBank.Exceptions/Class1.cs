@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace CityBank.Exceptions
 {
-    public class Class1
+    public class class1 
     {
+      
     }
 }
