@@ -6,8 +6,12 @@ using System.Threading.Tasks;
 
 namespace CityBank.Entities
 {
+    /// <summary>
+    /// Represents interface of customer entity.
+    /// </summary>
     public interface ICustomer
     {
+        #region Properties
         Guid CustomerID { get; set; }
 
         long CustomerCode { get; set; }
@@ -23,5 +27,6 @@ namespace CityBank.Entities
         string Country { get; set; }
 
         string Mobile { get; set; }
+        #endregion
     }
 }
