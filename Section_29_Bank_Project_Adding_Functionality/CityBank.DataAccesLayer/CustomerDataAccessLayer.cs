@@ -1,5 +1,6 @@
 ﻿using CityBank.DataAccesLayer.DALContracts;
 using CityBank.Entities;
+using CityBank.Exceptions;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -44,13 +45,24 @@ namespace CityBank.DataAccesLayer
         /// <returns>Returns Guid of newly created customer</returns>
         public Guid AddCustomer(Customer customer)
         {
-          //generate new Guid
-          customer.CustomerID = Guid.NewGuid();
-          
-          //add Customer
-          Customers.Add(customer);
-          
-          return customer.CustomerID;
+            try
+            {
+                //generate new Guid
+                customer.CustomerID = Guid.NewGuid();
+
+                //add Customer
+                Customers.Add(customer);
+
+                return customer.CustomerID;
+            }
+            catch(CustomerException ex)
+            {
+                throw ex;
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
         }
 
         /// <summary>
@@ -60,16 +72,22 @@ namespace CityBank.DataAccesLayer
         /// <returns></returns>
         public bool DeleteCustomer(Guid customerId)
         {
-            //delete customer by CustomerID
-            if (Customers.RemoveAll(item => item.CustomerID == customerId)>0)
+            try
             {
-                return true; //indicates one or more customers are deleted
+                //delete customer by CustomerID
+                if (Customers.RemoveAll(item => item.CustomerID == customerId) > 0)
+                {
+                    return true; //indicates one or more customers are deleted
+                }
+                else
+                {
+                    return false;
+                }
             }
-            else
+            catch (Exception ex)
             {
-                return false;
+                throw ex;
             }
-            
         }
 
         /// <summary>
@@ -78,13 +96,24 @@ namespace CityBank.DataAccesLayer
         /// <returns>Customers list</returns>
         public List<Customer> GetCustomers()
         {
-            //create a new customers list
-            List<Customer> customerList = new List<Customer>();
+            try
+            {
+                //create a new customers list
+                List<Customer> customerList = new List<Customer>();
 
-            //copy all customers from the source collection into the newCustomers list
-            Customers.ForEach(item =>  customerList.Add(item.Clone() as Customer));
-            
-            return customerList;
+                //copy all customers from the source collection into the newCustomers list
+                Customers.ForEach(item => customerList.Add(item.Clone() as Customer));
+
+                return customerList;
+            }
+            catch (CustomerException ex)
+            {
+                throw ex;
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
         }
 
         /// <summary>
@@ -94,15 +123,26 @@ namespace CityBank.DataAccesLayer
         /// <returns>List of matching customers.</returns>
         public List<Customer> GetCustomersByCondition(Predicate<Customer> predicate)
         {
-            //create a new customers list
-            List<Customer> customersList = new List<Customer>();
+            try
+            {
+                //create a new customers list
+                List<Customer> customersList = new List<Customer>();
 
-            //filter the collection
-            List<Customer> filteredCustomers = Customers.FindAll(predicate);
+                //filter the collection
+                List<Customer> filteredCustomers = Customers.FindAll(predicate);
 
-            filteredCustomers.ForEach(item => customersList.Add(item.Clone() as Customer));
-            
-            return customersList;
+                filteredCustomers.ForEach(item => customersList.Add(item.Clone() as Customer));
+
+                return customersList;
+            }
+            catch(CustomerException ex)
+            {
+                throw ex;
+            }
+            catch(Exception ex)
+            {
+                throw ex;
+            }
         }
 
         /// <summary>
@@ -112,25 +152,36 @@ namespace CityBank.DataAccesLayer
         /// <returns>Determines whether the customer is updated or not</returns>
         public bool UpdateCustomer(Customer customer)
         {
-           //find exisitng customer by CustomerID
-           Customer existingCustomer = Customers.Find(item =>  item.CustomerID == customer.CustomerID);
-           
-           //update all details of customer
-           if(existingCustomer != null)
-           {
-                existingCustomer.CustomerCode = customer.CustomerCode;
-                existingCustomer.CustomerName = customer.CustomerName;
-                existingCustomer.Address = customer.Address;
-                existingCustomer.LandMark = customer.LandMark;
-                existingCustomer.City = customer.City;
-                existingCustomer.Country = customer.Country;
-                existingCustomer.Mobile = customer.Mobile;
-
-                return true; 
-            }
-            else
+            try
             {
-                return false;
+                //find exisitng customer by CustomerID
+                Customer existingCustomer = Customers.Find(item => item.CustomerID == customer.CustomerID);
+
+                //update all details of customer
+                if (existingCustomer != null)
+                {
+                    existingCustomer.CustomerCode = customer.CustomerCode;
+                    existingCustomer.CustomerName = customer.CustomerName;
+                    existingCustomer.Address = customer.Address;
+                    existingCustomer.LandMark = customer.LandMark;
+                    existingCustomer.City = customer.City;
+                    existingCustomer.Country = customer.Country;
+                    existingCustomer.Mobile = customer.Mobile;
+
+                    return true;
+                }
+                else
+                {
+                    return false;
+                }
+            }
+            catch(CustomerException ex)
+            {
+                throw ex;
+            }
+            catch (Exception ex)
+            {
+                throw ex;
             }
         }
         #endregion
