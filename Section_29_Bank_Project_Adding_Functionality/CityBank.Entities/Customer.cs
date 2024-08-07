@@ -1,4 +1,5 @@
-﻿using System;
+﻿using CityBank.Exceptions;
+using System;
 
 namespace CityBank.Entities
 {
@@ -7,6 +8,10 @@ namespace CityBank.Entities
     /// </summary>
     public class Customer : ICustomer
     {
+        private long _customerCode;
+        private string _customerName;
+        private string _mobile;
+
         #region Public Properties
 
         /// <summary>
@@ -17,12 +22,43 @@ namespace CityBank.Entities
         /// <summary>
         /// Auto-generated code number of the customer
         /// </summary>
-        public long CustomerCode { get ; set ; }
+        public long CustomerCode
+        { 
+            get => _customerCode ;
+
+            set
+            {
+                //customer code should be positive
+                if (value > 0)
+                {
+                    _customerCode = value;
+                }
+                else
+                {
+                    throw new CustomerException("Customer code should be positive only");
+                }
+            } 
+        }
 
         /// <summary>
         /// Name of the customer
         /// </summary>
-        public string CustomerName { get; set; }
+        public string CustomerName 
+        {
+            get => _customerName;
+            set
+            {
+                //customer name should be less than 40 characters.
+                if(value.Length <= 40 && !string.IsNullOrEmpty(value))
+                {
+                    _customerName = value;
+                }
+                else
+                {
+                    throw new CustomerException("Customer Name should not be null and less than 40 characters long.");
+                }
+            }
+        }
 
         /// <summary>
         /// Address of the customer
@@ -47,7 +83,23 @@ namespace CityBank.Entities
         /// <summary>
         /// 10-digit Mobile number of the customer
         /// </summary>
-        public string Mobile { get; set; }
+        public string Mobile
+        {
+            get => _mobile;
+           
+            set
+            {
+                //mobile number should be 10 digit mobile number.
+                if(value.Length == 10)
+                {
+                    _mobile = value;
+                }
+                else
+                {
+                    throw new CustomerException("Mobile number should be a 10-digit mobile number");
+                }
+            }
+        }
         #endregion
 
 
