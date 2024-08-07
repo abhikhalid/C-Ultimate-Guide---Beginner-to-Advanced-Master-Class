@@ -3,28 +3,15 @@
   "WorkspaceRootPath": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_29_Bank_Project_Adding_Functionality\\CityBank.Presentation\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E0B5073C-9CF7-42DF-92E7-DF638F0BCB62}|..\\CityBank.BusinessLogicLayer\\CityBank.BusinessLogicLayer.csproj|d:\\coding\\development\\c#\\c_sharp-ultimate-guide-beginner-to-advanced-master-class\\section_29_bank_project_adding_functionality\\citybank.businesslogiclayer\\customersbusinesslogiclayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E70F13E-EAA8-4B91-842A-9471F80AC106}|..\\CityBank.Configuration\\CityBank.Configuration.csproj|d:\\coding\\development\\c#\\c_sharp-ultimate-guide-beginner-to-advanced-master-class\\section_29_bank_project_adding_functionality\\citybank.configuration\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1E2A48F1-56AE-4E35-9453-56A9E607F969}|..\\CityBank.Entities\\CityBank.Entities.csproj|d:\\coding\\development\\c#\\c_sharp-ultimate-guide-beginner-to-advanced-master-class\\section_29_bank_project_adding_functionality\\citybank.entities\\contracts\\icustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E0B5073C-9CF7-42DF-92E7-DF638F0BCB62}|..\\CityBank.BusinessLogicLayer\\CityBank.BusinessLogicLayer.csproj|d:\\coding\\development\\c#\\c_sharp-ultimate-guide-beginner-to-advanced-master-class\\section_29_bank_project_adding_functionality\\citybank.businesslogiclayer\\balcontracts\\icustomersbusinesslogiclayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{54AD782E-6477-4084-942B-6BF6C204293F}|CityBank.Presentation.csproj|d:\\coding\\development\\c#\\c_sharp-ultimate-guide-beginner-to-advanced-master-class\\section_29_bank_project_adding_functionality\\citybank.presentation\\customerspresentation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54AD782E-6477-4084-942B-6BF6C204293F}|CityBank.Presentation.csproj|solutionrelative:customerspresentation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0877766B-0A82-4DD9-A563-36C4C263CFB4}|..\\CityBank.DataAccesLayer\\CityBank.DataAccesLayer.csproj|d:\\coding\\development\\c#\\c_sharp-ultimate-guide-beginner-to-advanced-master-class\\section_29_bank_project_adding_functionality\\citybank.dataacceslayer\\customerdataaccesslayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0877766B-0A82-4DD9-A563-36C4C263CFB4}|..\\CityBank.DataAccesLayer\\CityBank.DataAccesLayer.csproj|d:\\coding\\development\\c#\\c_sharp-ultimate-guide-beginner-to-advanced-master-class\\section_29_bank_project_adding_functionality\\citybank.dataacceslayer\\dalcontracts\\icustomerdataaccesslayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{489856AE-00C3-416F-AA50-5F25179A50E6}|..\\CityBank.Exceptions\\CityBank.Exceptions.csproj|d:\\coding\\development\\c#\\c_sharp-ultimate-guide-beginner-to-advanced-master-class\\section_29_bank_project_adding_functionality\\citybank.exceptions\\customerexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1E2A48F1-56AE-4E35-9453-56A9E607F969}|..\\CityBank.Entities\\CityBank.Entities.csproj|d:\\coding\\development\\c#\\c_sharp-ultimate-guide-beginner-to-advanced-master-class\\section_29_bank_project_adding_functionality\\citybank.entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{54AD782E-6477-4084-942B-6BF6C204293F}|CityBank.Presentation.csproj|d:\\coding\\development\\c#\\c_sharp-ultimate-guide-beginner-to-advanced-master-class\\section_29_bank_project_adding_functionality\\citybank.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54AD782E-6477-4084-942B-6BF6C204293F}|CityBank.Presentation.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -33,61 +20,21 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "DockedWidth": 126,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ICustomer.cs",
-              "DocumentMoniker": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_29_Bank_Project_Adding_Functionality\\CityBank.Entities\\Contracts\\ICustomer.cs",
-              "RelativeDocumentMoniker": "..\\CityBank.Entities\\Contracts\\ICustomer.cs",
-              "ToolTip": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_29_Bank_Project_Adding_Functionality\\CityBank.Entities\\Contracts\\ICustomer.cs",
-              "RelativeToolTip": "..\\CityBank.Entities\\Contracts\\ICustomer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-07T05:03:08.712Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ICustomersBusinessLogicLayer.cs",
-              "DocumentMoniker": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_29_Bank_Project_Adding_Functionality\\CityBank.BusinessLogicLayer\\BALContracts\\ICustomersBusinessLogicLayer.cs",
-              "RelativeDocumentMoniker": "..\\CityBank.BusinessLogicLayer\\BALContracts\\ICustomersBusinessLogicLayer.cs",
-              "ToolTip": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_29_Bank_Project_Adding_Functionality\\CityBank.BusinessLogicLayer\\BALContracts\\ICustomersBusinessLogicLayer.cs",
-              "RelativeToolTip": "..\\CityBank.BusinessLogicLayer\\BALContracts\\ICustomersBusinessLogicLayer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-07T13:03:17.987Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CustomersBusinessLogicLayer.cs",
-              "DocumentMoniker": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_29_Bank_Project_Adding_Functionality\\CityBank.BusinessLogicLayer\\CustomersBusinessLogicLayer.cs",
-              "RelativeDocumentMoniker": "..\\CityBank.BusinessLogicLayer\\CustomersBusinessLogicLayer.cs",
-              "ToolTip": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_29_Bank_Project_Adding_Functionality\\CityBank.BusinessLogicLayer\\CustomersBusinessLogicLayer.cs",
-              "RelativeToolTip": "..\\CityBank.BusinessLogicLayer\\CustomersBusinessLogicLayer.cs",
-              "ViewState": "AQIAACoAAAAAAAAAAAAAAFkAAAANAAAA",
+              "Title": "CustomersPresentation.cs",
+              "DocumentMoniker": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_29_Bank_Project_Adding_Functionality\\CityBank.Presentation\\CustomersPresentation.cs",
+              "RelativeDocumentMoniker": "CustomersPresentation.cs",
+              "ToolTip": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_29_Bank_Project_Adding_Functionality\\CityBank.Presentation\\CustomersPresentation.cs",
+              "RelativeToolTip": "CustomersPresentation.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAwwBoAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-07T13:28:56.715Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CustomerDataAccessLayer.cs",
-              "DocumentMoniker": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_29_Bank_Project_Adding_Functionality\\CityBank.DataAccesLayer\\CustomerDataAccessLayer.cs",
-              "RelativeDocumentMoniker": "..\\CityBank.DataAccesLayer\\CustomerDataAccessLayer.cs",
-              "ToolTip": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_29_Bank_Project_Adding_Functionality\\CityBank.DataAccesLayer\\CustomerDataAccessLayer.cs",
-              "RelativeToolTip": "..\\CityBank.DataAccesLayer\\CustomerDataAccessLayer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-07T13:28:35.463Z",
+              "WhenOpened": "2024-08-07T15:39:52.141Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
@@ -109,58 +56,33 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Settings.cs",
-              "DocumentMoniker": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_29_Bank_Project_Adding_Functionality\\CityBank.Configuration\\Settings.cs",
-              "RelativeDocumentMoniker": "..\\CityBank.Configuration\\Settings.cs",
-              "ToolTip": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_29_Bank_Project_Adding_Functionality\\CityBank.Configuration\\Settings.cs",
-              "RelativeToolTip": "..\\CityBank.Configuration\\Settings.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAApAAAA",
+              "Title": "CustomerDataAccessLayer.cs",
+              "DocumentMoniker": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_29_Bank_Project_Adding_Functionality\\CityBank.DataAccesLayer\\CustomerDataAccessLayer.cs",
+              "RelativeDocumentMoniker": "..\\CityBank.DataAccesLayer\\CustomerDataAccessLayer.cs",
+              "ToolTip": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_29_Bank_Project_Adding_Functionality\\CityBank.DataAccesLayer\\CustomerDataAccessLayer.cs",
+              "RelativeToolTip": "..\\CityBank.DataAccesLayer\\CustomerDataAccessLayer.cs",
+              "ViewState": "AQIAAHUAAAAAAAAAAAAAAIcAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-07T12:52:44.474Z",
+              "WhenOpened": "2024-08-07T16:22:27.751Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Customer.cs",
-              "DocumentMoniker": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_29_Bank_Project_Adding_Functionality\\CityBank.Entities\\Customer.cs",
-              "RelativeDocumentMoniker": "..\\CityBank.Entities\\Customer.cs",
-              "ToolTip": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_29_Bank_Project_Adding_Functionality\\CityBank.Entities\\Customer.cs",
-              "RelativeToolTip": "..\\CityBank.Entities\\Customer.cs",
-              "ViewState": "AQIAAGsAAAAAAAAAAAAAAHgAAAAFAAAA",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_29_Bank_Project_Adding_Functionality\\CityBank.Presentation\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_29_Bank_Project_Adding_Functionality\\CityBank.Presentation\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAwwGgAAAA+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-07T05:03:10.296Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ICustomerDataAccessLayer.cs",
-              "DocumentMoniker": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_29_Bank_Project_Adding_Functionality\\CityBank.DataAccesLayer\\DALContracts\\ICustomerDataAccessLayer.cs",
-              "RelativeDocumentMoniker": "..\\CityBank.DataAccesLayer\\DALContracts\\ICustomerDataAccessLayer.cs",
-              "ToolTip": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_29_Bank_Project_Adding_Functionality\\CityBank.DataAccesLayer\\DALContracts\\ICustomerDataAccessLayer.cs",
-              "RelativeToolTip": "..\\CityBank.DataAccesLayer\\DALContracts\\ICustomerDataAccessLayer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-07T06:56:55.41Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CustomerException.cs",
-              "DocumentMoniker": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_29_Bank_Project_Adding_Functionality\\CityBank.Exceptions\\CustomerException.cs",
-              "RelativeDocumentMoniker": "..\\CityBank.Exceptions\\CustomerException.cs",
-              "ToolTip": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_29_Bank_Project_Adding_Functionality\\CityBank.Exceptions\\CustomerException.cs",
-              "RelativeToolTip": "..\\CityBank.Exceptions\\CustomerException.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-07T05:34:24.72Z",
+              "WhenOpened": "2024-08-07T14:10:06.223Z",
               "EditorCaption": ""
             }
           ]
         },
         {
-          "DockedWidth": 138,
+          "DockedWidth": 212,
           "SelectedChildIndex": -1,
           "Children": [
             {
