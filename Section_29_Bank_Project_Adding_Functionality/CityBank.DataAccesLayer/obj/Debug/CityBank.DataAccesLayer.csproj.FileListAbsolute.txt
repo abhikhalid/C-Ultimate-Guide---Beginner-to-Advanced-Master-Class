@@ -1,0 +1,2 @@
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_29_Bank_Project_Adding_Functionality\CityBank.DataAccesLayer\obj\Debug\CityBank.DataAccesLayer.csproj.AssemblyReference.cache
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_29_Bank_Project_Adding_Functionality\CityBank.DataAccesLayer\obj\Debug\CityBank.DataAccesLayer.csproj.CoreCompileInputs.cache

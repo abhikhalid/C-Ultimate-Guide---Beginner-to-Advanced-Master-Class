@@ -6,7 +6,7 @@ namespace CityBank.Entities
     /// <summary>
     /// Represents customer of the bank.
     /// </summary>
-    public class Customer : ICustomer
+    public class Customer : ICustomer, ICloneable
     {
         private long _customerCode;
         private string _customerName;
@@ -99,6 +99,21 @@ namespace CityBank.Entities
                     throw new CustomerException("Mobile number should be a 10-digit mobile number");
                 }
             }
+        }
+
+        public object Clone()
+        {
+            return new Customer()
+            {
+                CustomerID = this.CustomerID,
+                CustomerCode = this.CustomerCode,
+                CustomerName = this.CustomerName,
+                Address = this.Address,
+                LandMark = this.LandMark,
+                City = this.City,
+                Country = this.Country,
+                Mobile = this.Mobile
+            };
         }
         #endregion
 

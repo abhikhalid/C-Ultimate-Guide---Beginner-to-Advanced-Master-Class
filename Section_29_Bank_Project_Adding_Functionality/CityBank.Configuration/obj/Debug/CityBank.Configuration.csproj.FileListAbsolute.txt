@@ -1,0 +1,6 @@
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_29_Bank_Project_Adding_Functionality\CityBank.Configuration\bin\Debug\CityBank.Configuration.dll
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_29_Bank_Project_Adding_Functionality\CityBank.Configuration\bin\Debug\CityBank.Configuration.pdb
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_29_Bank_Project_Adding_Functionality\CityBank.Configuration\obj\Debug\CityBank.Configuration.csproj.AssemblyReference.cache
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_29_Bank_Project_Adding_Functionality\CityBank.Configuration\obj\Debug\CityBank.Configuration.csproj.CoreCompileInputs.cache
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_29_Bank_Project_Adding_Functionality\CityBank.Configuration\obj\Debug\CityBank.Configuration.dll
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_29_Bank_Project_Adding_Functionality\CityBank.Configuration\obj\Debug\CityBank.Configuration.pdb
