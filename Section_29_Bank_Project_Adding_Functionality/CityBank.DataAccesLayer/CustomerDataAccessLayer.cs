@@ -12,7 +12,7 @@ namespace CityBank.DataAccesLayer
     /// <summary>
     /// Represents DAL for bank customers
     /// </summary>
-    class CustomerDataAccessLayer : ICustomerDataAccessLayer
+    public class CustomerDataAccessLayer : ICustomerDataAccessLayer
     {
         #region Fields
         private List<Customer> _customers;
