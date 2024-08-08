@@ -3,9 +3,9 @@ using System.Threading;
 
 namespace Mutiple_Thread
 {
-    class MaxCount
+    class Shared
     {
-        public int Count { get; set; }
+        public static int SharedResource { get; set; }
     }
 
     class NumbersUpCounter
@@ -26,6 +26,10 @@ namespace Mutiple_Thread
                 for (int i = 1; i <= Count; i++)
                 {
                     sum += i;
+
+                    Console.WriteLine($"Shared Resource in Count-Up : {Shared.SharedResource}, "); //0 (Initial Value)
+                    Shared.SharedResource++;
+
                     System.Console.ForegroundColor = ConsoleColor.Green;
                     Console.WriteLine($"i = {i}, ");
 
@@ -57,9 +61,13 @@ namespace Mutiple_Thread
 
             for (int? j = Count; j >= 1; j--)
             {
+                Console.Write($"Shared Resource in Count-Down : {Shared.SharedResource}, "); // 1 (Initial Value)
+               
+                Shared.SharedResource--;
+
                 System.Console.ForegroundColor = ConsoleColor.Red;
-                Console.WriteLine($"j = {j}");
-                Thread.Sleep(1000);
+                Console.Write($"j = {j}, ");
+                Thread.Sleep(100);
             }
 
             Thread.Sleep(1000);
@@ -135,12 +143,15 @@ namespace Mutiple_Thread
 
             //thread2.Start(maxCount2);
             thread2.Start();
+
             Console.WriteLine($"${thread2.Name} ({thread2.ManagedThreadId}) is {thread2.ThreadState.ToString()}"); // Running
 
 
             //JOIN
             thread1.Join();
             thread2.Join();
+
+            Console.WriteLine($"\nShared Resource : ${Shared.SharedResource}"); // Expected: 0
 
             //Main thread now wait for thread1 and thread2 to be excuted.
             Console.WriteLine(mainThread.Name + " completed");
