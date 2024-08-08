@@ -8,9 +8,11 @@ namespace Mutiple_Thread
         public int Count { get; set; }
     }
 
-    class NumbersCounter
+    class NumbersUpCounter
     {
-        public  void CountUp(object? count)
+        public int Count { get; set; }
+
+        public void CountUp()
         {
             try
             {
@@ -19,14 +21,7 @@ namespace Mutiple_Thread
                 //for demonstration purpose, let's add another sleep
                 Thread.Sleep(1000);
 
-                MaxCount? maxCount = (MaxCount?)count;
-
-                if(maxCount == null)
-                {
-                    return;
-                }
-
-                for (int i = 1; i <= maxCount.Count; i++)
+                for (int i = 1; i <= Count; i++)
                 {
                     System.Console.ForegroundColor = ConsoleColor.Green;
                     Console.WriteLine($"i = {i}, ");
@@ -42,17 +37,18 @@ namespace Mutiple_Thread
                 Console.WriteLine("Count-Up Thread interrupted");
             }
         }
+    }
 
-        public  void CountDown(object? count)
+    class NumbersDownCounter
+    {
+        public int Count { get; set; }
+
+        public void CountDown()
         {
             Console.WriteLine("Count Down Started");
             Thread.Sleep(1000);
 
-            MaxCount? maxCount = (MaxCount?)count;
-
-            if(maxCount == null)   return;
-
-            for (int? j = maxCount.Count; j >= 1; j--)
+            for (int? j = Count; j >= 1; j--)
             {
                 System.Console.ForegroundColor = ConsoleColor.Red;
                 Console.WriteLine($"j = {j}");
@@ -62,7 +58,7 @@ namespace Mutiple_Thread
             Thread.Sleep(1000);
             Console.WriteLine("Count Down completed");
         }
-    }
+    } 
 
     internal class Program
     {
@@ -74,31 +70,40 @@ namespace Mutiple_Thread
             Console.WriteLine(mainThread.Name + " started");
 
             //Object of NumbersCounter
-            NumbersCounter numbersCounter = new NumbersCounter();
-           
+            NumbersUpCounter numbersUpCounter = new NumbersUpCounter()
+            {
+                Count = 100
+            };
+
             //Create first thread
             //ThreadStart threadStart1 = new ThreadStart(() =>
             //{
             //    numbersCounter.CountUp(100);
             //});
 
-            ParameterizedThreadStart threadStart1 = new ParameterizedThreadStart(numbersCounter.CountUp);
+            //ParameterizedThreadStart threadStart1 = new ParameterizedThreadStart(numbersCounter.CountUp);
 
+            ThreadStart threadStart1 = new ThreadStart(numbersUpCounter.CountUp);
           
             Thread thread1 = new Thread(threadStart1);
             thread1.Name = "Count-Up Thread";
             thread1.Priority = ThreadPriority.Highest;
 
-            MaxCount maxCount1 = new MaxCount() { Count = 100};
+            //MaxCount maxCount1 = new MaxCount() { Count = 100};
 
-            thread1.Start(maxCount1);
+            thread1.Start();
             Console.WriteLine($"${thread1.Name} ({thread1.ManagedThreadId}) is {thread1.ThreadState.ToString()}"); // Running
 
 
             //Create second thread
             //ThreadStart threadStart2 = new ThreadStart(numbersCounter.CountDown);
-            ParameterizedThreadStart threadStart2 = new ParameterizedThreadStart(numbersCounter.CountDown);
-            
+            // ParameterizedThreadStart threadStart2 = new ParameterizedThreadStart(numbersCounter.CountDown);
+
+            NumbersDownCounter numbersDownCounter = new NumbersDownCounter() { Count = 100 };
+
+            ThreadStart threadStart2 = new ThreadStart(numbersDownCounter.CountDown);
+
+           
             
             Thread thread2 = new Thread(threadStart2)
             {
@@ -106,9 +111,10 @@ namespace Mutiple_Thread
                 Priority = ThreadPriority.BelowNormal
             };
 
-            MaxCount maxCount2 = new MaxCount() { Count = 100 };
+           // MaxCount maxCount2 = new MaxCount() { Count = 100 };
 
-            thread2.Start(maxCount2);
+            //thread2.Start(maxCount2);
+            thread2.Start();
             Console.WriteLine($"${thread2.Name} ({thread2.ManagedThreadId}) is {thread2.ThreadState.ToString()}"); // Running
 
 
