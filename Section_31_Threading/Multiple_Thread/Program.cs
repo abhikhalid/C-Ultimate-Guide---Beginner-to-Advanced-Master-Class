@@ -7,21 +7,28 @@ namespace Mutiple_Thread
     {
         public  void CountUp()
         {
-            Console.WriteLine("Count Up started");
-
-            //for demonstration purpose, let's add another sleep
-            Thread.Sleep(1000);
-            
-            for (int i = 1; i <= 100; i++)
+            try
             {
-                System.Console.ForegroundColor = ConsoleColor.Green;
-                Console.WriteLine($"i = {i}, ");
+                Console.WriteLine("Count Up started");
 
-                Thread.Sleep(1000); // 1000 miliseconds = 1 second
+                //for demonstration purpose, let's add another sleep
+                Thread.Sleep(1000);
+
+                for (int i = 1; i <= 100; i++)
+                {
+                    System.Console.ForegroundColor = ConsoleColor.Green;
+                    Console.WriteLine($"i = {i}, ");
+
+                    Thread.Sleep(1000); // 1000 miliseconds = 1 second
+                }
+
+                Thread.Sleep(1000);
+                Console.WriteLine("Count Up completed");
             }
-
-            Thread.Sleep(1000);
-            Console.WriteLine("Count Up completed");
+            catch (ThreadInterruptedException ex)
+            {
+                Console.WriteLine("Count-Up Thread interrupted");
+            }
         }
 
         public  void CountDown()
@@ -76,8 +83,11 @@ namespace Mutiple_Thread
 
 
             //JOIN 
-            thread1.Join();
-            thread2.Join();
+            //thread1.Join();
+            //thread2.Join();
+
+            Thread.Sleep(2000); // 2 sec delay
+            thread1.Interrupt(); // but thread1 will throw an exception, we have to handle it.
 
 
             //Main thread now wait for thread1 and thread2 to be excuted.
