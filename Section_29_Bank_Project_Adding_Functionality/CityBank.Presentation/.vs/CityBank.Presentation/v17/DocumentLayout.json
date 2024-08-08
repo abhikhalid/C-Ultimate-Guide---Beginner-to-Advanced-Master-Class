@@ -10,7 +10,7 @@
       "AbsoluteMoniker": "D:0:0:{0877766B-0A82-4DD9-A563-36C4C263CFB4}|..\\CityBank.DataAccesLayer\\CityBank.DataAccesLayer.csproj|d:\\coding\\development\\c#\\c_sharp-ultimate-guide-beginner-to-advanced-master-class\\section_29_bank_project_adding_functionality\\citybank.dataacceslayer\\customerdataaccesslayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{54AD782E-6477-4084-942B-6BF6C204293F}|CityBank.Presentation.csproj|d:\\coding\\development\\c#\\c_sharp-ultimate-guide-beginner-to-advanced-master-class\\section_29_bank_project_adding_functionality\\citybank.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{54AD782E-6477-4084-942B-6BF6C204293F}|CityBank.Presentation.csproj|D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_29_Bank_Project_Adding_Functionality\\CityBank.Presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{54AD782E-6477-4084-942B-6BF6C204293F}|CityBank.Presentation.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -31,7 +31,7 @@
               "RelativeDocumentMoniker": "CustomersPresentation.cs",
               "ToolTip": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_29_Bank_Project_Adding_Functionality\\CityBank.Presentation\\CustomersPresentation.cs",
               "RelativeToolTip": "CustomersPresentation.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAwwBoAAAAVAAAA",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAwwAoAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-07T15:39:52.141Z",
               "IsPinned": true,
@@ -63,8 +63,7 @@
               "RelativeToolTip": "..\\CityBank.DataAccesLayer\\CustomerDataAccessLayer.cs",
               "ViewState": "AQIAAHUAAAAAAAAAAAAAAIcAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-07T16:22:27.751Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-07T16:22:27.751Z"
             },
             {
               "$type": "Document",
@@ -76,8 +75,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAFYAAAAAAAAAAAAwwGgAAAA+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-07T14:10:06.223Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-07T14:10:06.223Z"
             }
           ]
         },
