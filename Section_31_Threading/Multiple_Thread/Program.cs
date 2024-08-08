@@ -3,6 +3,11 @@ using System.Threading;
 
 namespace Mutiple_Thread
 {
+    class MaxCount
+    {
+        public int Count { get; set; }
+    }
+
     class NumbersCounter
     {
         public  void CountUp(object? count)
@@ -14,9 +19,14 @@ namespace Mutiple_Thread
                 //for demonstration purpose, let's add another sleep
                 Thread.Sleep(1000);
 
-                int? countInt = (int?)count;
+                MaxCount? maxCount = (MaxCount?)count;
 
-                for (int i = 1; i <= countInt; i++)
+                if(maxCount == null)
+                {
+                    return;
+                }
+
+                for (int i = 1; i <= maxCount.Count; i++)
                 {
                     System.Console.ForegroundColor = ConsoleColor.Green;
                     Console.WriteLine($"i = {i}, ");
@@ -38,9 +48,11 @@ namespace Mutiple_Thread
             Console.WriteLine("Count Down Started");
             Thread.Sleep(1000);
 
-            int? countInt = (int?)count;
+            MaxCount? maxCount = (MaxCount?)count;
 
-            for (int? j = countInt; j >= 1; j--)
+            if(maxCount == null)   return;
+
+            for (int? j = maxCount.Count; j >= 1; j--)
             {
                 System.Console.ForegroundColor = ConsoleColor.Red;
                 Console.WriteLine($"j = {j}");
@@ -77,7 +89,9 @@ namespace Mutiple_Thread
             thread1.Name = "Count-Up Thread";
             thread1.Priority = ThreadPriority.Highest;
 
-            thread1.Start(100);
+            MaxCount maxCount1 = new MaxCount() { Count = 100};
+
+            thread1.Start(maxCount1);
             Console.WriteLine($"${thread1.Name} ({thread1.ManagedThreadId}) is {thread1.ThreadState.ToString()}"); // Running
 
 
@@ -92,7 +106,9 @@ namespace Mutiple_Thread
                 Priority = ThreadPriority.BelowNormal
             };
 
-            thread2.Start(100);
+            MaxCount maxCount2 = new MaxCount() { Count = 100 };
+
+            thread2.Start(maxCount2);
             Console.WriteLine($"${thread2.Name} ({thread2.ManagedThreadId}) is {thread2.ThreadState.ToString()}"); // Running
 
 
