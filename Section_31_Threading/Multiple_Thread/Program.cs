@@ -5,7 +5,7 @@ namespace Mutiple_Thread
 {
     class NumbersCounter
     {
-        public  void CountUp(int count)
+        public  void CountUp(object? count)
         {
             try
             {
@@ -14,7 +14,9 @@ namespace Mutiple_Thread
                 //for demonstration purpose, let's add another sleep
                 Thread.Sleep(1000);
 
-                for (int i = 1; i <= count; i++)
+                int? countInt = (int?)count;
+
+                for (int i = 1; i <= countInt; i++)
                 {
                     System.Console.ForegroundColor = ConsoleColor.Green;
                     Console.WriteLine($"i = {i}, ");
@@ -31,12 +33,14 @@ namespace Mutiple_Thread
             }
         }
 
-        public  void CountDown()
+        public  void CountDown(object? count)
         {
             Console.WriteLine("Count Down Started");
             Thread.Sleep(1000);
 
-            for (int j = 100; j >= 1; j--)
+            int? countInt = (int?)count;
+
+            for (int? j = countInt; j >= 1; j--)
             {
                 System.Console.ForegroundColor = ConsoleColor.Red;
                 Console.WriteLine($"j = {j}");
@@ -61,28 +65,34 @@ namespace Mutiple_Thread
             NumbersCounter numbersCounter = new NumbersCounter();
            
             //Create first thread
-            ThreadStart threadStart1 = new ThreadStart(() =>
-            {
-                numbersCounter.CountUp(100);
-            });
+            //ThreadStart threadStart1 = new ThreadStart(() =>
+            //{
+            //    numbersCounter.CountUp(100);
+            //});
+
+            ParameterizedThreadStart threadStart1 = new ParameterizedThreadStart(numbersCounter.CountUp);
+
           
             Thread thread1 = new Thread(threadStart1);
             thread1.Name = "Count-Up Thread";
             thread1.Priority = ThreadPriority.Highest;
 
-            thread1.Start();
+            thread1.Start(100);
             Console.WriteLine($"${thread1.Name} ({thread1.ManagedThreadId}) is {thread1.ThreadState.ToString()}"); // Running
 
 
             //Create second thread
-            ThreadStart threadStart2 = new ThreadStart(numbersCounter.CountDown);
+            //ThreadStart threadStart2 = new ThreadStart(numbersCounter.CountDown);
+            ParameterizedThreadStart threadStart2 = new ParameterizedThreadStart(numbersCounter.CountDown);
+            
+            
             Thread thread2 = new Thread(threadStart2)
             {
                 Name = "Count-Down Thread",
                 Priority = ThreadPriority.BelowNormal
             };
 
-            thread2.Start();
+            thread2.Start(100);
             Console.WriteLine($"${thread2.Name} ({thread2.ManagedThreadId}) is {thread2.ThreadState.ToString()}"); // Running
 
 
