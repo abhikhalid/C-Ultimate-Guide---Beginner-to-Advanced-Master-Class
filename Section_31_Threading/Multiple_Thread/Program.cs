@@ -12,8 +12,10 @@ namespace Mutiple_Thread
     {
         public int Count { get; set; }
 
-        public void CountUp()
+        public void CountUp(Action<long> callback)
         {
+            long sum = 0;
+
             try
             {
                 Console.WriteLine("Count Up started");
@@ -23,6 +25,7 @@ namespace Mutiple_Thread
 
                 for (int i = 1; i <= Count; i++)
                 {
+                    sum += i;
                     System.Console.ForegroundColor = ConsoleColor.Green;
                     Console.WriteLine($"i = {i}, ");
 
@@ -35,6 +38,10 @@ namespace Mutiple_Thread
             catch (ThreadInterruptedException ex)
             {
                 Console.WriteLine("Count-Up Thread interrupted");
+            }
+            finally
+            {
+                callback(sum);
             }
         }
     }
@@ -83,13 +90,26 @@ namespace Mutiple_Thread
 
             //ParameterizedThreadStart threadStart1 = new ParameterizedThreadStart(numbersCounter.CountUp);
 
-            ThreadStart threadStart1 = new ThreadStart(numbersUpCounter.CountUp);
+            //Create Callback method
+            //I am using action here because this callback doesn't return anything it will receive the return value from the thread method
+            Action<long> callback = sum =>
+            {
+                Console.WriteLine($"\nReturn value from Count-Up Thread is : {sum}");
+            };
+
+
+            ThreadStart threadStart1 = new ThreadStart(() =>
+            {
+                numbersUpCounter.CountUp(callback);
+            });
           
             Thread thread1 = new Thread(threadStart1);
             thread1.Name = "Count-Up Thread";
             thread1.Priority = ThreadPriority.Highest;
 
             //MaxCount maxCount1 = new MaxCount() { Count = 100};
+
+            //Create callback method
 
             thread1.Start();
             Console.WriteLine($"${thread1.Name} ({thread1.ManagedThreadId}) is {thread1.ThreadState.ToString()}"); // Running
