@@ -57,19 +57,22 @@ namespace Mutiple_Thread
             ThreadStart threadStart1 = new ThreadStart(numbersCounter.CountUp);
             Thread thread1 = new Thread(threadStart1);
             thread1.Name = "Count-Up Thread";
-            
+            thread1.Priority = ThreadPriority.Highest;
 
             thread1.Start();
-            Console.WriteLine($"${thread1.Name} is ${thread1.ThreadState.ToString()}"); // Running
+            Console.WriteLine($"${thread1.Name} ({thread1.ManagedThreadId}) is {thread1.ThreadState.ToString()}"); // Running
 
 
             //Create second thread
             ThreadStart threadStart2 = new ThreadStart(numbersCounter.CountDown);
-            Thread thread2 = new Thread(threadStart2);
-            thread2.Name = "Count-Down Thread";
+            Thread thread2 = new Thread(threadStart2)
+            {
+                Name = "Count-Down Thread",
+                Priority = ThreadPriority.BelowNormal
+            };
 
             thread2.Start();
-            Console.WriteLine($"${thread2.Name} is ${thread2.ThreadState.ToString()}"); // Running
+            Console.WriteLine($"${thread2.Name} ({thread2.ManagedThreadId}) is {thread2.ThreadState.ToString()}"); // Running
 
 
             //JOIN 
