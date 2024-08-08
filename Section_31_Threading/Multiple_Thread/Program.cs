@@ -14,6 +14,8 @@ namespace Mutiple_Thread
             {
                 System.Console.ForegroundColor = ConsoleColor.Green;
                 Console.WriteLine($"i = {i}, ");
+
+                Thread.Sleep( 1000 ); // 1000 miliseconds = 1 second
             }
         }
 
@@ -26,6 +28,7 @@ namespace Mutiple_Thread
             {
                 System.Console.ForegroundColor = ConsoleColor.Red;
                 Console.WriteLine($"j = {j}");
+                Thread.Sleep(1000);
             }
         }
     }
