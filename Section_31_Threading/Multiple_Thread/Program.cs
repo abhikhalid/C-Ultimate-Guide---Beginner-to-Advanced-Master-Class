@@ -7,29 +7,37 @@ namespace Mutiple_Thread
     {
         public  void CountUp()
         {
-            // i = 1 to 100
-            //assume it is a large amount of code that takes few seconds to execute
-            //because the threading is mainly made for CPU intensive tasks such as large amount of code or any other code that takes more time. 
+            Console.WriteLine("Count Up started");
+
+            //for demonstration purpose, let's add another sleep
+            Thread.Sleep(1000);
+            
             for (int i = 1; i <= 100; i++)
             {
                 System.Console.ForegroundColor = ConsoleColor.Green;
                 Console.WriteLine($"i = {i}, ");
 
-                Thread.Sleep( 1000 ); // 1000 miliseconds = 1 second
+                Thread.Sleep(1000); // 1000 miliseconds = 1 second
             }
+
+            Thread.Sleep(1000);
+            Console.WriteLine("Count Up completed");
         }
 
         public  void CountDown()
         {
-            // i = 100 to 1
-            //assume it is a large amount of code that takes few seconds to execute
-            //because the threading is mainly made for CPU intensive tasks such as large amount of code or any other code that takes more time. 
+            Console.WriteLine("Count Down Started");
+            Thread.Sleep(1000);
+
             for (int j = 100; j >= 1; j--)
             {
                 System.Console.ForegroundColor = ConsoleColor.Red;
                 Console.WriteLine($"j = {j}");
                 Thread.Sleep(1000);
             }
+
+            Thread.Sleep(1000);
+            Console.WriteLine("Count Down completed");
         }
     }
 
@@ -40,7 +48,7 @@ namespace Mutiple_Thread
             //Get main Thread
             Thread mainThread = Thread.CurrentThread;
             mainThread.Name = "Main Thread";
-            Console.WriteLine(mainThread.Name);
+            Console.WriteLine(mainThread.Name + " started");
 
             //Object of NumbersCounter
             NumbersCounter numbersCounter = new NumbersCounter();
@@ -49,7 +57,7 @@ namespace Mutiple_Thread
             ThreadStart threadStart1 = new ThreadStart(numbersCounter.CountUp);
             Thread thread1 = new Thread(threadStart1);
             thread1.Name = "Count-Up Thread";
-            Console.WriteLine($"${thread1.Name} is {thread1.ThreadState.ToString()}"); //Unstarted
+            
 
             thread1.Start();
             Console.WriteLine($"${thread1.Name} is ${thread1.ThreadState.ToString()}"); // Running
@@ -59,12 +67,17 @@ namespace Mutiple_Thread
             ThreadStart threadStart2 = new ThreadStart(numbersCounter.CountDown);
             Thread thread2 = new Thread(threadStart2);
             thread2.Name = "Count-Down Thread";
-            Console.WriteLine($"${thread2.Name}  is {thread2.ThreadState.ToString()}"); //Unstarted
 
             thread2.Start();
             Console.WriteLine($"${thread2.Name} is ${thread2.ThreadState.ToString()}"); // Running
 
 
+            //JOIN 
+            thread1.Join();
+            thread2.Join();
+
+
+            //Main thread now wait for thread1 and thread2 to be excuted.
             Console.WriteLine(mainThread.Name + " completed");
 
             Console.ReadKey();
