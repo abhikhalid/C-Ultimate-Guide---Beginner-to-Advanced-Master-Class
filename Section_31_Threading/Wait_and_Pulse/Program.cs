@@ -34,6 +34,32 @@ namespace Wait_and_Pulse
         {
             Console.WriteLine($"Producer: Generating Data");
             //actual Code goes on
+            for(int i = 1; i <= 10; i++)
+            {
+                lock(Shared.LockObject)  // lock, added later for demostration purposes.
+                 {
+                    Console.WriteLine("Producer: Generating data");
+                    Thread.Sleep(7000); // 7 sec. artificial delay
+
+                    //Buffer is Full
+                    if (Shared.Buffer.Count == Shared.BufferCapacity)
+                    {
+                        Console.WriteLine("Buffer is full. Waiting for signal from consumer.");
+                        Monitor.Wait(Shared.LockObject); // Wait for signal from consumer thread. 
+                    }
+
+                    Shared.Buffer.Enqueue(i);
+
+                    Console.WriteLine($"Producer produced: {i}");
+
+                    Shared.Print();
+
+                    //Wake-up Consumer Thread
+                    Monitor.Pulse(Shared.LockObject); //notify the cosumer that one value has been added to the buffer.
+                }
+            }
+          
+
             Console.WriteLine("Production Completed");
         }
     }
@@ -46,7 +72,7 @@ namespace Wait_and_Pulse
             Console.WriteLine($"Consumer: Consumer Started");
             //actual Code goes on
 
-            for(int i = 0;i< Shared.BufferCapacity; i++) // pore add koresi explaination er purpose e.
+            for(int i = 0; i <10; i++) // pore add koresi explaination er purpose e.
             {
                 //as we are going to accss the shared resource, for thread synchronization, we will use lock statment
                 lock (Shared.LockObject)
@@ -54,7 +80,7 @@ namespace Wait_and_Pulse
                     if (Shared.Buffer.Count == 0)
                     {
                         Console.WriteLine("Buffer is empty. Waiting for signal from producer.");
-                        Monitor.Wait(Shared.LockObject); //Currently, deadlock situation because we have not implemented the Producer Method Thread Yet!
+                        Monitor.Wait(Shared.LockObject); 
                     }
                 }
 
@@ -67,6 +93,9 @@ namespace Wait_and_Pulse
                 {
                     int val = Shared.Buffer.Dequeue();
                     Console.WriteLine($"Consumer consumed: {val}");
+
+                    //Signal the producer that there is a space in the buffer
+                    Monitor.Pulse(Shared.LockObject);
                 }
             }
             
