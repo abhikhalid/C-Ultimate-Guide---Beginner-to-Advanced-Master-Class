@@ -27,12 +27,15 @@ namespace MonitorExplain
                 for (int i = 1; i <= Count; i++)
                 {
                     sum += i;
-                    
-                    Monitor.Enter(Shared.lockObject); //wait for lock gets opened
 
-                    Console.WriteLine($"Shared Resource in Count-Up : {Shared.SharedResource}, "); //0 (Initial Value)
-                    Shared.SharedResource++;
-                    Monitor.Exit(Shared.lockObject); //close the lock
+                    // Monitor.Enter(Shared.lockObject); //wait for lock gets opened
+
+                    lock (Shared.lockObject)
+                    {
+                        Console.WriteLine($"Shared Resource in Count-Up : {Shared.SharedResource}, "); //0 (Initial Value)
+                        Shared.SharedResource++;
+                        // Monitor.Exit(Shared.lockObject); //close the lock
+                    }
 
                     Console.ForegroundColor = ConsoleColor.Green;
                     Console.WriteLine($"i = {i}, ");
@@ -65,13 +68,14 @@ namespace MonitorExplain
 
             for (int? j = Count; j >= 1; j--)
             {
-                Monitor.Enter(Shared.lockObject); //wait for the lock gets opened. (aquired)
+                //Monitor.Enter(Shared.lockObject); //wait for the lock gets opened. (aquired)
+                lock (Shared.lockObject)
+                {
+                    Console.Write($"Shared Resource in Count-Down : {Shared.SharedResource}, "); // 1 (Initial Value)
 
-                Console.Write($"Shared Resource in Count-Down : {Shared.SharedResource}, "); // 1 (Initial Value)
-
-                Shared.SharedResource--;
-
-                Monitor.Exit(Shared.lockObject); // Close (release) the lock
+                    Shared.SharedResource--;
+                }
+                //Monitor.Exit(Shared.lockObject); // Close (release) the lock
 
                 Console.ForegroundColor = ConsoleColor.Red;
                 Console.Write($"j = {j}, ");
