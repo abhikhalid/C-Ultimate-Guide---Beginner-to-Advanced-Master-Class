@@ -13,14 +13,14 @@ namespace Manual_Reset_Event
 
         public static int BatchSize { get; set; }
 
-        public static ManualResetEvent Event{ get; set; }
+        public static AutoResetEvent Event{ get; set; }
 
         static Shared()
         {
             Data = new int[15];
             BatchCount = 5;
             BatchSize = 3;
-            Event = new ManualResetEvent(false); //unsignaled (false)
+            Event = new AutoResetEvent(false); //unsignaled (false)
         }
     }
 
@@ -45,8 +45,13 @@ namespace Manual_Reset_Event
 
                 //Consumer Thread is waiting for this exact moment.
                 Shared.Event.Set();
-                //Reseet the signal (makes the consumer thread wait for signal before reading next batch)
-                Shared.Event.Reset();
+                
+
+                //AutoResetEvent allows one waiting thread to proceed, and immediately rsets the event to "unsignaled".
+                //So, an explicit reset is not required.
+
+                //Reset the signal (makes the consumer thread wait for signal before reading next batch)
+               // Shared.Event.Reset();
             }
 
            
