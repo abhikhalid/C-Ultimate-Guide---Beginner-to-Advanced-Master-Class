@@ -9,14 +9,17 @@ namespace Manual_Reset_Event
         public static int[] Data { get; set; }
 
         //Total number of values
-        public static int DataCount { get; set; }
+        public static int BatchCount { get; set; }
+
+        public static int BatchSize { get; set; }
 
         public static ManualResetEvent Event{ get; set; }
 
         static Shared()
         {
             Data = new int[15];
-            DataCount = Data.Length;
+            BatchCount = 5;
+            BatchSize = 3;
             Event = new ManualResetEvent(false); //unsignaled (false)
         }
     }
@@ -29,18 +32,24 @@ namespace Manual_Reset_Event
         {
             Console.WriteLine($"{Thread.CurrentThread.Name} started");
 
-            //Generate some data and store it in the Data array.
-            for (int i = 0; i < Shared.Data.Length; i++)
+            for (int i = 0; i < Shared.BatchCount; i++) //5 times
             {
-                Shared.Data[i] = i + 1;
-                Thread.Sleep(300); // Simulating artificial delay.
+                //Generate some data and store it in the Data array.
+                for (int j = 0; j < Shared.BatchSize; j++) // 3 times
+                {
+                    Shared.Data[i * Shared.BatchSize + j] = (i * Shared.BatchSize) + j + 1;
+                    Thread.Sleep(300); // Simulating artificial delay.
+                }
+                //now, we can not talk to Consumer Thread Directly.
+                //Set the signal (signal that the producer has finished generating data)
+
+                //Consumer Thread is waiting for this exact moment.
+                Shared.Event.Set();
+                //Reseet the signal (makes the consumer thread wait for signal before reading next batch)
+                Shared.Event.Reset();
             }
 
-            //now, we can not talk to Consumer Thread Directly.
-            //Set the signal (signal that the producer has finished generating data)
-            
-            //Consumer Thread is waiting for this exact moment.
-            Shared.Event.Set();
+           
 
             Console.WriteLine($"{Thread.CurrentThread.Name} completed");
         }
@@ -55,15 +64,19 @@ namespace Manual_Reset_Event
             Console.WriteLine($"{Thread.CurrentThread.Name} started");
             Console.WriteLine("Consumer is waiting for producer thread to finish generating data");
 
-            Shared.Event.WaitOne(); //consumer thread waits until the status of event becomes singnaled.
-
-            Console.WriteLine("Consumer Thread has received a signal from the Producer Thread");
-
-            //Read Data
-            Console.WriteLine("\nData is");
-            for (int i = 0; i < Shared.Data.Length; i++)
+            for(int i=0; i< Shared.BatchCount; i++)
             {
-                Console.WriteLine(Shared.Data[i]);
+                Shared.Event.WaitOne(); //consumer thread waits until the status of event becomes singnaled.
+
+                Console.WriteLine("Consumer Thread has received a signal from the Producer Thread");
+
+                //Read Data
+                Console.WriteLine("\nData is");
+
+                for (int j = 0; j < Shared.BatchSize; j++)
+                {
+                    Console.WriteLine(Shared.Data[i * Shared.BatchSize + j]);
+                }
             }
 
             Console.WriteLine($"{Thread.CurrentThread.Name} completed");
