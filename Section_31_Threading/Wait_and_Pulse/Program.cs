@@ -45,6 +45,31 @@ namespace Wait_and_Pulse
         {
             Console.WriteLine($"Consumer: Consumer Started");
             //actual Code goes on
+
+            for(int i = 0;i< Shared.BufferCapacity; i++) // pore add koresi explaination er purpose e.
+            {
+                //as we are going to accss the shared resource, for thread synchronization, we will use lock statment
+                lock (Shared.LockObject)
+                {
+                    if (Shared.Buffer.Count == 0)
+                    {
+                        Console.WriteLine("Buffer is empty. Waiting for signal from producer.");
+                        Monitor.Wait(Shared.LockObject); //Currently, deadlock situation because we have not implemented the Producer Method Thread Yet!
+                    }
+                }
+
+                Console.WriteLine("Consumer Started");
+
+                Thread.Sleep(2500); //artificial lateny, assuming the time taken for reading the data.
+
+                //we could have use one lock statment here
+                lock (Shared.LockObject)
+                {
+                    int val = Shared.Buffer.Dequeue();
+                    Console.WriteLine($"Consumer consumed: {val}");
+                }
+            }
+            
             Console.WriteLine("Consumption Completed");
         }
     }
