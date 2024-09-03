@@ -15,6 +15,9 @@ namespace Wait_and_Pulse
         //maximum capacity of the buffer (queue)
         public const int BufferCapacity = 5;
 
+        public static ManualResetEvent ProducerEvent = new ManualResetEvent(true);
+        public static ManualResetEvent ConsumerEvent = new ManualResetEvent(false);
+
         public static void Print()
         {
             //O/P: Buffer: 1,2,3,4,5
@@ -32,21 +35,27 @@ namespace Wait_and_Pulse
         //Thread Method
         public void Produce()
         {
-            Console.WriteLine($"Producer: Generating Data");
-            //actual Code goes on
-            for(int i = 1; i <= 10; i++)
-            {
-                lock(Shared.LockObject)  // lock, added later for demostration purposes.
-                 {
-                    Console.WriteLine("Producer: Generating data");
-                    Thread.Sleep(7000); // 7 sec. artificial delay
+            Console.WriteLine("Producer: Generating data");
+            Thread.Sleep(7000); // 7 sec. artificial delay
 
+            //actual Code goes on
+            for (int i = 1; i <= 10; i++)
+            {
+                lock (Shared.LockObject)  // lock, added later for demostration purposes.
+                {
                     //Buffer is Full
                     if (Shared.Buffer.Count == Shared.BufferCapacity)
                     {
                         Console.WriteLine("Buffer is full. Waiting for signal from consumer.");
-                        Monitor.Wait(Shared.LockObject); // Wait for signal from consumer thread. 
+                        //Monitor.Wait(Shared.LockObject); // Wait for signal from consumer thread. 
+
+                        Shared.ProducerEvent.Reset(); //Sets the state of the producer event to "unsignaled"
                     }
+                }
+
+                lock (Shared.LockObject)
+                {
+                    Shared.ProducerEvent.WaitOne();
 
                     Shared.Buffer.Enqueue(i);
 
@@ -55,10 +64,12 @@ namespace Wait_and_Pulse
                     Shared.Print();
 
                     //Wake-up Consumer Thread
-                    Monitor.Pulse(Shared.LockObject); //notify the cosumer that one value has been added to the buffer.
+                    // Monitor.Pulse(Shared.LockObject); //notify the cosumer that one value has been added to the buffer.
+
+                    Shared.ConsumerEvent.Set();
                 }
+
             }
-          
 
             Console.WriteLine("Production Completed");
         }
@@ -80,9 +91,12 @@ namespace Wait_and_Pulse
                     if (Shared.Buffer.Count == 0)
                     {
                         Console.WriteLine("Buffer is empty. Waiting for signal from producer.");
-                        Monitor.Wait(Shared.LockObject); 
+                        //Monitor.Wait(Shared.LockObject); 
+                        Shared.ConsumerEvent.Reset(); // set the consumer event as "unsignaled"
                     }
                 }
+
+                Shared.ConsumerEvent.WaitOne();
 
                 Console.WriteLine("Consumer Started");
 
@@ -95,7 +109,8 @@ namespace Wait_and_Pulse
                     Console.WriteLine($"Consumer consumed: {val}");
 
                     //Signal the producer that there is a space in the buffer
-                    Monitor.Pulse(Shared.LockObject);
+                    // Monitor.Pulse(Shared.LockObject);
+                    Shared.ProducerEvent.Set();
                 }
             }
             
