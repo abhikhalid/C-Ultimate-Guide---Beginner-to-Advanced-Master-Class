@@ -3,20 +3,7 @@ using System;
 using System.IO;
 
 
-//but can we write like this? 
 
-/// no , because the top level statment must be present at the top of the file. (not after the namespaces or classes)
-/// /*
-//namespace namespace1
-//{
-//    class Sample
-//    {
-
-//    }
-//}
-
-//now my, second question is, can we write top-level statment in mutiple file of the same project? 
-// ans is no!!! because only one compilation unit can have top-level statements.
 
 Console.WriteLine("Hello, World!");
 
@@ -24,3 +11,15 @@ string name = "Khalid";
 Console.WriteLine($"Hello to {name}");
 Console.ReadKey();
 
+
+//next question, can we write like this? 
+// NO! The variables or local functions that are created inside of your top level statements are not accessible to other classes or other namespaces.
+// It is because this particular top level statement that you write here will be eventually converted as static void main by the compiler itself.
+
+//namespace namespace1
+//{
+//    class Sample
+//    {
+//        string str = name; 
+//    }
+//}
