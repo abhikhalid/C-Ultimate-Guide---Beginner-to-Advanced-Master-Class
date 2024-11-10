@@ -1,0 +1,15 @@
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section 30 - C Sharp 9 and 10 - New Features\Global Using\Global Using\bin\Debug\net6.0\Global Using.exe
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section 30 - C Sharp 9 and 10 - New Features\Global Using\Global Using\bin\Debug\net6.0\Global Using.deps.json
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section 30 - C Sharp 9 and 10 - New Features\Global Using\Global Using\bin\Debug\net6.0\Global Using.runtimeconfig.json
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section 30 - C Sharp 9 and 10 - New Features\Global Using\Global Using\bin\Debug\net6.0\Global Using.dll
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section 30 - C Sharp 9 and 10 - New Features\Global Using\Global Using\bin\Debug\net6.0\Global Using.pdb
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section 30 - C Sharp 9 and 10 - New Features\Global Using\Global Using\obj\Debug\net6.0\Global Using.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section 30 - C Sharp 9 and 10 - New Features\Global Using\Global Using\obj\Debug\net6.0\Global Using.AssemblyInfoInputs.cache
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section 30 - C Sharp 9 and 10 - New Features\Global Using\Global Using\obj\Debug\net6.0\Global Using.AssemblyInfo.cs
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section 30 - C Sharp 9 and 10 - New Features\Global Using\Global Using\obj\Debug\net6.0\Global Using.csproj.CoreCompileInputs.cache
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section 30 - C Sharp 9 and 10 - New Features\Global Using\Global Using\obj\Debug\net6.0\Global Using.sourcelink.json
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section 30 - C Sharp 9 and 10 - New Features\Global Using\Global Using\obj\Debug\net6.0\Global Using.dll
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section 30 - C Sharp 9 and 10 - New Features\Global Using\Global Using\obj\Debug\net6.0\refint\Global Using.dll
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section 30 - C Sharp 9 and 10 - New Features\Global Using\Global Using\obj\Debug\net6.0\Global Using.pdb
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section 30 - C Sharp 9 and 10 - New Features\Global Using\Global Using\obj\Debug\net6.0\Global Using.genruntimeconfig.cache
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section 30 - C Sharp 9 and 10 - New Features\Global Using\Global Using\obj\Debug\net6.0\ref\Global Using.dll
