@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{99435782-13FE-4970-9802-460B5D7D37F2}|Module Initializers.csproj|solutionrelative:finalinitialize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{99435782-13FE-4970-9802-460B5D7D37F2}|Module Initializers.csproj|d:\\coding\\development\\c#\\c_sharp-ultimate-guide-beginner-to-advanced-master-class\\section 30 - c sharp 9 and 10 - new features\\module initializers\\module initializers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99435782-13FE-4970-9802-460B5D7D37F2}|Module Initializers.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{99435782-13FE-4970-9802-460B5D7D37F2}|Module Initializers.csproj|d:\\coding\\development\\c#\\c_sharp-ultimate-guide-beginner-to-advanced-master-class\\section 30 - c sharp 9 and 10 - new features\\module initializers\\module initializers\\initializer1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99435782-13FE-4970-9802-460B5D7D37F2}|Module Initializers.csproj|solutionrelative:initializer1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{99435782-13FE-4970-9802-460B5D7D37F2}|Module Initializers.csproj|d:\\coding\\development\\c#\\c_sharp-ultimate-guide-beginner-to-advanced-master-class\\section 30 - c sharp 9 and 10 - new features\\module initializers\\module initializers\\initializer2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{99435782-13FE-4970-9802-460B5D7D37F2}|Module Initializers.csproj|solutionrelative:initializer2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{99435782-13FE-4970-9802-460B5D7D37F2}|Module Initializers.csproj|d:\\coding\\development\\c#\\c_sharp-ultimate-guide-beginner-to-advanced-master-class\\section 30 - c sharp 9 and 10 - new features\\module initializers\\module initializers\\initializer1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99435782-13FE-4970-9802-460B5D7D37F2}|Module Initializers.csproj|solutionrelative:initializer1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{99435782-13FE-4970-9802-460B5D7D37F2}|Module Initializers.csproj|d:\\coding\\development\\c#\\c_sharp-ultimate-guide-beginner-to-advanced-master-class\\section 30 - c sharp 9 and 10 - new features\\module initializers\\module initializers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99435782-13FE-4970-9802-460B5D7D37F2}|Module Initializers.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,17 +26,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Initializer1.cs",
               "DocumentMoniker": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section 30 - C Sharp 9 and 10 - New Features\\Module Initializers\\Module Initializers\\Initializer1.cs",
               "RelativeDocumentMoniker": "Initializer1.cs",
               "ToolTip": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section 30 - C Sharp 9 and 10 - New Features\\Module Initializers\\Module Initializers\\Initializer1.cs",
               "RelativeToolTip": "Initializer1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-10T07:02:41.487Z",
               "IsPinned": true,
@@ -44,7 +44,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section 30 - C Sharp 9 and 10 - New Features\\Module Initializers\\Module Initializers\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -53,21 +53,7 @@
               "ViewState": "AgIAAAEAAAAAAAAAAAAAAAQAAABoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-10T06:59:44.831Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FinalInitialize.cs",
-              "DocumentMoniker": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section 30 - C Sharp 9 and 10 - New Features\\Module Initializers\\Module Initializers\\FinalInitialize.cs",
-              "RelativeDocumentMoniker": "FinalInitialize.cs",
-              "ToolTip": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section 30 - C Sharp 9 and 10 - New Features\\Module Initializers\\Module Initializers\\FinalInitialize.cs",
-              "RelativeToolTip": "FinalInitialize.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T07:11:13.781Z",
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -87,13 +73,26 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FinalInitialize.cs",
+              "DocumentMoniker": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section 30 - C Sharp 9 and 10 - New Features\\Module Initializers\\Module Initializers\\FinalInitialize.cs",
+              "RelativeDocumentMoniker": "FinalInitialize.cs",
+              "ToolTip": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section 30 - C Sharp 9 and 10 - New Features\\Module Initializers\\Module Initializers\\FinalInitialize.cs",
+              "RelativeToolTip": "FinalInitialize.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T07:11:13.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Initializer2.cs",
               "DocumentMoniker": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section 30 - C Sharp 9 and 10 - New Features\\Module Initializers\\Module Initializers\\Initializer2.cs",
               "RelativeDocumentMoniker": "Initializer2.cs",
               "ToolTip": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section 30 - C Sharp 9 and 10 - New Features\\Module Initializers\\Module Initializers\\Initializer2.cs",
               "RelativeToolTip": "Initializer2.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-10T07:07:55.979Z",
               "EditorCaption": ""

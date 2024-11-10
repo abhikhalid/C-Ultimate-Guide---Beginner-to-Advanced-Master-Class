@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Module Initializers")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+30dee70cf509f57ced1f98b74a688a9832f63b14")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+39eb39eb10e7a1087b6b8d44d083ed553f2be0e2")]
 [assembly: System.Reflection.AssemblyProductAttribute("Module Initializers")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Module Initializers")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
