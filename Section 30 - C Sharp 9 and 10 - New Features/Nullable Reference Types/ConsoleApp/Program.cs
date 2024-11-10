@@ -7,11 +7,6 @@ class EmployeeBusinessLogic
 {
     public Employee? GetEmployee()
     {
-        //return new Employee()
-        //{
-        //    x = 10
-        //};
-
         return null;
     }
 }
@@ -23,9 +18,15 @@ class Program
         EmployeeBusinessLogic employeeBusinessLogic = new EmployeeBusinessLogic();
         Employee? employee = employeeBusinessLogic.GetEmployee();
 
-        if(employee != null)
+        bool isValid = employee == null;
+
+        if(isValid)
         {
-            Console.WriteLine(employee.x);
+            Console.WriteLine("The variable is null");
+        }
+        else
+        {
+            Console.WriteLine(employee!.x); //Null-Forgiving Operator
         }
 
         //Console.WriteLine(employee.x);
