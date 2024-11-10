@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{B3F9385E-3241-4C1D-A739-B638AA47E8AD}|TopLevelStatement\\TopLevelStatement.csproj|d:\\coding\\development\\c#\\c_sharp-ultimate-guide-beginner-to-advanced-master-class\\section 30 - c sharp 9 and 10 - new features\\toplevelstatement\\toplevelstatement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B3F9385E-3241-4C1D-A739-B638AA47E8AD}|TopLevelStatement\\TopLevelStatement.csproj|solutionrelative:toplevelstatement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3F9385E-3241-4C1D-A739-B638AA47E8AD}|TopLevelStatement\\TopLevelStatement.csproj|d:\\coding\\development\\c#\\c_sharp-ultimate-guide-beginner-to-advanced-master-class\\section 30 - c sharp 9 and 10 - new features\\toplevelstatement\\toplevelstatement\\another.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3F9385E-3241-4C1D-A739-B638AA47E8AD}|TopLevelStatement\\TopLevelStatement.csproj|solutionrelative:toplevelstatement\\another.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,13 +42,26 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Another.cs",
+              "DocumentMoniker": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section 30 - C Sharp 9 and 10 - New Features\\TopLevelStatement\\TopLevelStatement\\Another.cs",
+              "RelativeDocumentMoniker": "TopLevelStatement\\Another.cs",
+              "ToolTip": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section 30 - C Sharp 9 and 10 - New Features\\TopLevelStatement\\TopLevelStatement\\Another.cs",
+              "RelativeToolTip": "TopLevelStatement\\Another.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T05:32:41.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section 30 - C Sharp 9 and 10 - New Features\\TopLevelStatement\\TopLevelStatement\\Program.cs",
               "RelativeDocumentMoniker": "TopLevelStatement\\Program.cs",
               "ToolTip": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section 30 - C Sharp 9 and 10 - New Features\\TopLevelStatement\\TopLevelStatement\\Program.cs",
               "RelativeToolTip": "TopLevelStatement\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-10T05:19:28.135Z",
               "EditorCaption": ""
