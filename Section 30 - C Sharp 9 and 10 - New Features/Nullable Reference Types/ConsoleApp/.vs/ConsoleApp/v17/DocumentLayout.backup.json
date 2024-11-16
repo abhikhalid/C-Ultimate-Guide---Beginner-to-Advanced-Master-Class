@@ -13,7 +13,7 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
+          "DockedWidth": 263,
           "SelectedChildIndex": 4,
           "Children": [
             {
@@ -40,7 +40,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section 30 - C Sharp 9 and 10 - New Features\\Nullable Reference Types\\ConsoleApp\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAADkAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-10T09:13:42.244Z",
               "EditorCaption": ""
@@ -48,7 +48,7 @@
           ]
         },
         {
-          "DockedWidth": 212,
+          "DockedWidth": 149,
           "SelectedChildIndex": -1,
           "Children": [
             {

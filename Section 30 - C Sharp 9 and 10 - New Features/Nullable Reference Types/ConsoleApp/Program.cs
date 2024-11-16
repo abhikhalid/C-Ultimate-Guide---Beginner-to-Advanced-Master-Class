@@ -13,6 +13,12 @@
         FirstName = "default string";
         LastName = "default string";
     }
+
+    public Employee(string firstName, string lastName)
+    {
+        FirstName = firstName;
+        LastName = lastName;
+    }
 }
 
 class EmployeeBusinessLogic
@@ -20,7 +26,28 @@ class EmployeeBusinessLogic
     public Employee? GetEmployee()
     {
         //return null;
-        return new Employee();
+        //return new Employee();
+        //return new();
+        //return new("Khalid","Mahmud");
+        //Employee e = new Employee("Khalid","Mahmud");
+
+        // not possible
+        //var e = new("Khalid", "Mahmud");
+        //dynamic e = new("Khalid", "Mahmud");
+
+        Employee e = new Employee("Khalid", "Mahmud");
+        return e;
+    }
+}
+
+class DataPrinter
+{
+    public static void PrintEmployee(Employee e)
+    {
+        if (e != null)
+        {
+            Console.WriteLine($"{e.FirstName} {e.LastName}");
+        }
     }
 }
 
@@ -58,6 +85,7 @@ class Program
             Console.WriteLine(employee.PersonAddressDetails?.ZipCode);
         }
 
+        DataPrinter.PrintEmployee(new ("one","two"));
         //Console.WriteLine(employee.x);
         Console.ReadKey();
     }
