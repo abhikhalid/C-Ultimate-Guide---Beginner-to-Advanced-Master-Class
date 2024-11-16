@@ -121,16 +121,30 @@ class Descripter
         return result;
     }
 
+    //public static string GetDescription3(Person person)
+    //{
+    //    // Master, Mr, Miss, Ms, Mx
+    //    return person switch
+    //    {
+    //        Person { Gender: "Female", PersonMaritalStatus: MaritalStatus.Unmarried } => $"Miss.{person.Name}",
+    //        Person { Gender: "Female", PersonMaritalStatus: MaritalStatus.Married } => $"Mrs.{person.Name}",
+    //        Person { Gender: "Male", Age: < 18 } => $"Master.{person.Name}",
+    //        Person { Gender: "Male", Age: >= 18 } => $"Mr {person.Name}",
+    //        Person { Gender: not("Male" or "Female")} => $"Mx {person.Name}",
+    //        _=> $"{person.Name}"
+    //    };
+    //}
+    
     public static string GetDescription3(Person person)
     {
         // Master, Mr, Miss, Ms, Mx
-        return person switch
+        return (person, person.Gender, person.Age, person.PersonMaritalStatus) switch
         {
-            Person { Gender: "Female", PersonMaritalStatus: MaritalStatus.Unmarried } => $"Miss.{person.Name}",
-            Person { Gender: "Female", PersonMaritalStatus: MaritalStatus.Married } => $"Mrs.{person.Name}",
-            Person { Gender: "Male", Age: < 18 } => $"Master.{person.Name}",
-            Person { Gender: "Male", Age: >= 18 } => $"Mr {person.Name}",
-            Person { Gender: not("Male" or "Female")} => $"Mx {person.Name}",
+            (Person, "Female",_,MaritalStatus.Unmarried) => $"Miss.{person.Name}",
+            (Person, "Female",_,MaritalStatus.Married) => $"Mrs.{person.Name}",
+            (Person, "Male", <18, _) => $"Master.{person.Name}",
+            (Person, "Male", >=18, _) => $"Mr {person.Name}",
+            (Person, not ("Male" or "Female"), _, _) => $"Mx {person.Name}",
             _=> $"{person.Name}"
         };
     }
