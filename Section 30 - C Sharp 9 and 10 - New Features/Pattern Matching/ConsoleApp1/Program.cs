@@ -29,21 +29,23 @@ class Descripter
 {
     public static string GetDescription(Person person)
     {
-        if(person is Employee emp)
+        switch (person)
         {
-            return $"{person.Name},{person.Age},{person.Gender},{emp.Salary}";
-        }
-        else if (person is Customer cst)
-        {
-            return $"{person.Name},{person.Age},{person.Gender},{cst.CustomerBalance}";
-        }
-        else if(person is Supplier sup)
-        {   
-            return $"{person.Name},{person.Age},{person.Gender},{sup.SupplierBalance}";
-        }
-        else
-        {
-            return $"{person.Name},{person.Age},{person.Gender}";
+            case Employee emp:
+            
+                return $"{person.Name},{person.Age},{person.Gender},{emp.Salary}";
+                break; //break statement is optional here because we have already used return keyword.
+
+            case Customer cst:
+                return $"{person.Name}, {person.Age},{person.Gender},{cst.CustomerBalance}";
+                break ;
+
+            case Supplier sup:
+                return $"{person.Name},{person.Age},{person.Gender},{sup.SupplierBalance}";
+                break;
+            default:
+                return $"{person.Name},{person.Age},{person.Gender}";
+
         }
     }
 }
