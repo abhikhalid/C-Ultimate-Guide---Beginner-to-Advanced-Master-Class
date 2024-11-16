@@ -49,21 +49,35 @@ class Descripter
         }
     }
 
+    //public static string GetDescription2(Person person)
+    //{
+    //    switch (person)
+    //    {
+    //        case Person p when p.Age < 20 && p.Age >= 13:
+    //            return $"{p.Name} is a Teenager";
+    //        case Person p when p.Age < 13:
+    //            return $"{p.Name} is Child";
+    //        case Person p when p.Age >= 20 && p.Age < 60:
+    //            return $"{p.Name} is Adult";
+    //        case Person p when p.Age >= 60:
+    //            return $"{p.Name} is a senior citizen";
+    //        default:
+    //            return $"{person.Name} is a person";
+    //    }
+    //}
+    
     public static string GetDescription2(Person person)
     {
-        switch (person)
+        string result = person switch
         {
-            case Person p when p.Age < 20 && p.Age >= 13:
-                return $"{p.Name} is a Teenager";
-            case Person p when p.Age < 13:
-                return $"{p.Name} is Child";
-            case Person p when p.Age >= 20 && p.Age < 60:
-                return $"{p.Name} is Adult";
-            case Person p when p.Age >= 60:
-                return $"{p.Name} is a senior citizen";
-            default:
-                return $"{person.Name} is a person";
-        }
+            Person p when p.Age < 13 => $"{p.Name} is Child",
+            Person p when p.Age < 20 && p.Age >= 13 => $"{p.Name} is a Teenager",
+            Person p when p.Age >= 20 && p.Age < 60 => $"{p.Name} is Adult",
+            Person p when p.Age >= 60 => $"{p.Name} is a senior citizen",
+            _ => $"{person.Name} is a person"
+        };
+
+        return result;
     }
 }
 
