@@ -1,8 +1,15 @@
-﻿class Person
+﻿enum MaritalStatus
+{
+    Unmarried, Married
+}
+
+class Person
 {
     public string? Name { get; set; }
     public int? Age { get; set; }
     public string? Gender { get; set; }
+
+    public MaritalStatus PersonMaritalStatus { get; set; }
 }
 
 class Employee : Person
@@ -80,23 +87,54 @@ class Descripter
     //    return result;
     //}
 
+    //public static string GetDescription2(Person person)
+    //{
+    //    string result = person switch
+    //    {
+    //        //is => Relational Pattern
+    //        // and or => Logical Pattern
+    //        Person p when p.Age is < 13 => $"{p.Name} is Child",
+    //        Person p when p.Age is < 20 and  >= 13 => $"{p.Name} is a Teenager",
+    //        Person p when p.Age is >= 20 and < 60 => $"{p.Name} is Adult",
+    //        //Person p when p.Age >= 60 => $"{p.Name} is a senior citizen",
+    //        Person p when p.Age is >= 60 and not (100 or 200) => $"{p.Name} is a senior citizen",
+    //        Person p when p.Age is 100 or 200 => $"{p.Name} is Centenarian",
+    //        _ => $"{person.Name} is a person"
+    //    };
+
+    //    return result;
+    //}
+
     public static string GetDescription2(Person person)
     {
         string result = person switch
         {
-            //is => Relational Pattern
-            // and or => Logical Pattern
-            Person p when p.Age is < 13 => $"{p.Name} is Child",
-            Person p when p.Age is < 20 and  >= 13 => $"{p.Name} is a Teenager",
-            Person p when p.Age is >= 20 and < 60 => $"{p.Name} is Adult",
+            Person {Age: < 13 } p => $"{p.Name} is Child",
+            Person {Age: < 20 and >= 13 } p => $"{p.Name} is a Teenager",
+            Person {Age: >= 20 and < 60 } p  => $"{p.Name} is Adult",
             //Person p when p.Age >= 60 => $"{p.Name} is a senior citizen",
-            Person p when p.Age is >= 60 and not (100 or 200) => $"{p.Name} is a senior citizen",
-            Person p when p.Age is 100 or 200 => $"{p.Name} is Centenarian",
+            Person {Age: >= 60 and not (100 or 200) } p => $"{p.Name} is a senior citizen",
+            Person {Age: 100 or 200 } p => $"{p.Name} is Centenarian",
             _ => $"{person.Name} is a person"
         };
 
         return result;
     }
+
+    public static string GetDescription3(Person person)
+    {
+        // Master, Mr, Miss, Ms, Mx
+        return person switch
+        {
+            Person { Gender: "Female", PersonMaritalStatus: MaritalStatus.Unmarried } => $"Miss.{person.Name}",
+            Person { Gender: "Female", PersonMaritalStatus: MaritalStatus.Married } => $"Mrs.{person.Name}",
+            Person { Gender: "Male", Age: < 18 } => $"Master.{person.Name}",
+            Person { Gender: "Male", Age: >= 18 } => $"Mr {person.Name}",
+            Person { Gender: not("Male" or "Female")} => $"Mx {person.Name}",
+            _=> $"{person.Name}"
+        };
+    }
+
 }
 
 class Program
@@ -108,7 +146,8 @@ class Program
             Name = "John",
             Gender = "Male",
             Age = 10,
-            Salary = 3000
+            Salary = 3000,
+            PersonMaritalStatus = MaritalStatus.Married,
         };
 
         Customer customer = new Customer()
@@ -116,12 +155,15 @@ class Program
             Name = "Smith",
             Gender = "Male",
             Age = 30,
-            CustomerBalance = 1000
+            CustomerBalance = 1000,
+            PersonMaritalStatus = MaritalStatus.Unmarried,
+
         };
 
-        Console.WriteLine(Descripter.GetDescription(manager));
-        Console.WriteLine(Descripter.GetDescription(customer));
-        Console.WriteLine(Descripter.GetDescription2(manager));
+        //Console.WriteLine(Descripter.GetDescription(manager));
+        //Console.WriteLine(Descripter.GetDescription(customer));
+        //Console.WriteLine(Descripter.GetDescription2(manager));
+        Console.WriteLine(Descripter.GetDescription3(manager));
 
         Console.ReadKey();
     }
