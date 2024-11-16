@@ -65,15 +65,33 @@ class Descripter
     //            return $"{person.Name} is a person";
     //    }
     //}
-    
+
+    //public static string GetDescription2(Person person)
+    //{
+    //    string result = person switch
+    //    {
+    //        Person p when p.Age < 13 => $"{p.Name} is Child",
+    //        Person p when p.Age < 20 && p.Age >= 13 => $"{p.Name} is a Teenager",
+    //        Person p when p.Age >= 20 && p.Age < 60 => $"{p.Name} is Adult",
+    //        Person p when p.Age >= 60 => $"{p.Name} is a senior citizen",
+    //        _ => $"{person.Name} is a person"
+    //    };
+
+    //    return result;
+    //}
+
     public static string GetDescription2(Person person)
     {
         string result = person switch
         {
-            Person p when p.Age < 13 => $"{p.Name} is Child",
-            Person p when p.Age < 20 && p.Age >= 13 => $"{p.Name} is a Teenager",
-            Person p when p.Age >= 20 && p.Age < 60 => $"{p.Name} is Adult",
-            Person p when p.Age >= 60 => $"{p.Name} is a senior citizen",
+            //is => Relational Pattern
+            // and or => Logical Pattern
+            Person p when p.Age is < 13 => $"{p.Name} is Child",
+            Person p when p.Age is < 20 and  >= 13 => $"{p.Name} is a Teenager",
+            Person p when p.Age is >= 20 and < 60 => $"{p.Name} is Adult",
+            //Person p when p.Age >= 60 => $"{p.Name} is a senior citizen",
+            Person p when p.Age is >= 60 and not (100 or 200) => $"{p.Name} is a senior citizen",
+            Person p when p.Age is 100 or 200 => $"{p.Name} is Centenarian",
             _ => $"{person.Name} is a person"
         };
 
