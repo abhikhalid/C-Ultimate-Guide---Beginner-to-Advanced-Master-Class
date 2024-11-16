@@ -48,6 +48,23 @@ class Descripter
 
         }
     }
+
+    public static string GetDescription2(Person person)
+    {
+        switch (person)
+        {
+            case Person p when p.Age < 20 && p.Age >= 13:
+                return $"{p.Name} is a Teenager";
+            case Person p when p.Age < 13:
+                return $"{p.Name} is Child";
+            case Person p when p.Age >= 20 && p.Age < 60:
+                return $"{p.Name} is Adult";
+            case Person p when p.Age >= 60:
+                return $"{p.Name} is a senior citizen";
+            default:
+                return $"{person.Name} is a person";
+        }
+    }
 }
 
 class Program
@@ -72,6 +89,7 @@ class Program
 
         Console.WriteLine(Descripter.GetDescription(manager));
         Console.WriteLine(Descripter.GetDescription(customer));
+        Console.WriteLine(Descripter.GetDescription2(manager));
 
         Console.ReadKey();
     }
