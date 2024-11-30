@@ -10,6 +10,19 @@ class Person
     public string? Gender { get; set; }
 
     public MaritalStatus PersonMaritalStatus { get; set; }
+
+    // I would like to allow this class to be desconstructed.
+    // this method will be automatically called by switch expression.
+    public void Deconstruct(out Person person, out string? gender, out int? age, out MaritalStatus maritalStatus)
+    {
+        //person = this;
+        //gender = this.Gender;
+        //age = this.Age;
+        //maritalStatus = this.PersonMaritalStatus;
+
+        //or
+        (person,gender,age,maritalStatus) = (this, this.Gender, this.Age, this.PersonMaritalStatus);
+    }
 }
 
 class Employee : Person
@@ -138,7 +151,8 @@ class Descripter
     public static string GetDescription3(Person person)
     {
         // Master, Mr, Miss, Ms, Mx
-        return (person, person.Gender, person.Age, person.PersonMaritalStatus) switch
+        //return (person, person.Gender, person.Age, person.PersonMaritalStatus) switch
+        return person switch
         {
             (Person, "Female",_,MaritalStatus.Unmarried) => $"Miss.{person.Name}",
             (Person, "Female",_,MaritalStatus.Married) => $"Mrs.{person.Name}",
