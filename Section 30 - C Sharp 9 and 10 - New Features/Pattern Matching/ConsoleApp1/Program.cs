@@ -11,18 +11,12 @@ class Person
 
     public MaritalStatus PersonMaritalStatus { get; set; }
 
-    // I would like to allow this class to be desconstructed.
-    // this method will be automatically called by switch expression.
-    public void Deconstruct(out Person person, out string? gender, out int? age, out MaritalStatus maritalStatus)
-    {
-        //person = this;
-        //gender = this.Gender;
-        //age = this.Age;
-        //maritalStatus = this.PersonMaritalStatus;
+    public BirthDateInfo? BirthDete { get; set; }
+}
 
-        //or
-        (person,gender,age,maritalStatus) = (this, this.Gender, this.Age, this.PersonMaritalStatus);
-    }
+class BirthDateInfo
+{
+    public DateTime DateOfBirth { get; set; }
 }
 
 class Employee : Person
@@ -151,18 +145,20 @@ class Descripter
     public static string GetDescription3(Person person)
     {
         // Master, Mr, Miss, Ms, Mx
-        //return (person, person.Gender, person.Age, person.PersonMaritalStatus) switch
         return person switch
         {
-            (Person, "Female",_,MaritalStatus.Unmarried) => $"Miss.{person.Name}",
-            (Person, "Female",_,MaritalStatus.Married) => $"Mrs.{person.Name}",
-            (Person, "Male", <18, _) => $"Master.{person.Name}",
-            (Person, "Male", >=18, _) => $"Mr {person.Name}",
-            (Person, not ("Male" or "Female"), _, _) => $"Mx {person.Name}",
-            _=> $"{person.Name}"
+            //Property Pattern
+            //Person { Gender: "Female", PersonMaritalStatus: MaritalStatus.Unmarried, BirthDete: { DateOfBirth: { Year: >2000} }} p => $"Miss.{p.Name}",
+            
+            //better syntax
+            Person { Gender: "Female", PersonMaritalStatus: MaritalStatus.Unmarried, BirthDete.DateOfBirth.Year: >2000} p => $"Miss.{p.Name}",
+            Person { Gender: "Female", PersonMaritalStatus: MaritalStatus.Married} p => $"Mrs.{person.Name}",
+            Person { Gender: "Male", Age:<18}p => $"Master.{person.Name}",
+            Person { Gender: "Male", Age:>=18}p => $"Mr.{person.Name}",
+            Person { Gender: not("Male" or "Female")} p => $"Mx.{person.Name}",
+            _ => $"{person.Name}"
         };
     }
-
 }
 
 class Program
@@ -176,6 +172,7 @@ class Program
             Age = 10,
             Salary = 3000,
             PersonMaritalStatus = MaritalStatus.Married,
+            BirthDete = new BirthDateInfo() { DateOfBirth = DateTime.Parse("2002-01-01") }
         };
 
         Customer customer = new Customer()
