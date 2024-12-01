@@ -12,8 +12,22 @@
     //public properties
     //public int AccountNumber { get { return _accountNumber; } }
     //or
-    public int AccountNumber { get =>  _accountNumber; }
-    public double CurrentBalance { get => _currentBalance; }
+    public int AccountNumber { get =>  _accountNumber; init => _accountNumber = value;}
+    public double CurrentBalance
+    {
+        get => _currentBalance; init
+        {
+            if (value >= 0)
+            {
+                _currentBalance = value;
+            }
+        }
+    }
+
+    public BankAccount()
+    {
+
+    }
 }
 
 class DataStorage
@@ -23,7 +37,7 @@ class DataStorage
     {
         return new List<BankAccount>()
         {
-            new BankAccount(1,1000),
+            new BankAccount(){AccountNumber = 1},
             new BankAccount(2,2000)
         };
     }
@@ -31,6 +45,7 @@ class DataStorage
     //Deverloper 2
     public static double GetCurrentBalance(BankAccount bankAccount)
     {
+        //still, you will get errror 
         //bankAccount.AccountNumber = 100; // you can not set any value as it is the read only property.
         return bankAccount.CurrentBalance;
     }
