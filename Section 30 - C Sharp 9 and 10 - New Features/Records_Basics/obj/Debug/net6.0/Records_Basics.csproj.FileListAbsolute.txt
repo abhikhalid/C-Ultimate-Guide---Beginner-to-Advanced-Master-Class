@@ -1,0 +1,15 @@
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section 30 - C Sharp 9 and 10 - New Features\Records_Basics\bin\Debug\net6.0\Records_Basics.exe
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section 30 - C Sharp 9 and 10 - New Features\Records_Basics\bin\Debug\net6.0\Records_Basics.deps.json
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section 30 - C Sharp 9 and 10 - New Features\Records_Basics\bin\Debug\net6.0\Records_Basics.runtimeconfig.json
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section 30 - C Sharp 9 and 10 - New Features\Records_Basics\bin\Debug\net6.0\Records_Basics.dll
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section 30 - C Sharp 9 and 10 - New Features\Records_Basics\bin\Debug\net6.0\Records_Basics.pdb
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section 30 - C Sharp 9 and 10 - New Features\Records_Basics\obj\Debug\net6.0\Records_Basics.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section 30 - C Sharp 9 and 10 - New Features\Records_Basics\obj\Debug\net6.0\Records_Basics.AssemblyInfoInputs.cache
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section 30 - C Sharp 9 and 10 - New Features\Records_Basics\obj\Debug\net6.0\Records_Basics.AssemblyInfo.cs
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section 30 - C Sharp 9 and 10 - New Features\Records_Basics\obj\Debug\net6.0\Records_Basics.csproj.CoreCompileInputs.cache
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section 30 - C Sharp 9 and 10 - New Features\Records_Basics\obj\Debug\net6.0\Records_Basics.sourcelink.json
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section 30 - C Sharp 9 and 10 - New Features\Records_Basics\obj\Debug\net6.0\Records_Basics.dll
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section 30 - C Sharp 9 and 10 - New Features\Records_Basics\obj\Debug\net6.0\refint\Records_Basics.dll
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section 30 - C Sharp 9 and 10 - New Features\Records_Basics\obj\Debug\net6.0\Records_Basics.pdb
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section 30 - C Sharp 9 and 10 - New Features\Records_Basics\obj\Debug\net6.0\Records_Basics.genruntimeconfig.cache
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section 30 - C Sharp 9 and 10 - New Features\Records_Basics\obj\Debug\net6.0\ref\Records_Basics.dll
