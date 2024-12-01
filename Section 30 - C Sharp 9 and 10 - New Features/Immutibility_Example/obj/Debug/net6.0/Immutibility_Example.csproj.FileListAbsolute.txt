@@ -1,0 +1,15 @@
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section 30 - C Sharp 9 and 10 - New Features\Immutibility_Example\bin\Debug\net6.0\Immutibility_Example.exe
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section 30 - C Sharp 9 and 10 - New Features\Immutibility_Example\bin\Debug\net6.0\Immutibility_Example.deps.json
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section 30 - C Sharp 9 and 10 - New Features\Immutibility_Example\bin\Debug\net6.0\Immutibility_Example.runtimeconfig.json
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section 30 - C Sharp 9 and 10 - New Features\Immutibility_Example\bin\Debug\net6.0\Immutibility_Example.dll
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section 30 - C Sharp 9 and 10 - New Features\Immutibility_Example\bin\Debug\net6.0\Immutibility_Example.pdb
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section 30 - C Sharp 9 and 10 - New Features\Immutibility_Example\obj\Debug\net6.0\Immutibility_Example.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section 30 - C Sharp 9 and 10 - New Features\Immutibility_Example\obj\Debug\net6.0\Immutibility_Example.AssemblyInfoInputs.cache
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section 30 - C Sharp 9 and 10 - New Features\Immutibility_Example\obj\Debug\net6.0\Immutibility_Example.AssemblyInfo.cs
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section 30 - C Sharp 9 and 10 - New Features\Immutibility_Example\obj\Debug\net6.0\Immutibility_Example.csproj.CoreCompileInputs.cache
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section 30 - C Sharp 9 and 10 - New Features\Immutibility_Example\obj\Debug\net6.0\Immutibility_Example.sourcelink.json
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section 30 - C Sharp 9 and 10 - New Features\Immutibility_Example\obj\Debug\net6.0\Immutibility_Example.dll
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section 30 - C Sharp 9 and 10 - New Features\Immutibility_Example\obj\Debug\net6.0\refint\Immutibility_Example.dll
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section 30 - C Sharp 9 and 10 - New Features\Immutibility_Example\obj\Debug\net6.0\Immutibility_Example.pdb
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section 30 - C Sharp 9 and 10 - New Features\Immutibility_Example\obj\Debug\net6.0\Immutibility_Example.genruntimeconfig.cache
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section 30 - C Sharp 9 and 10 - New Features\Immutibility_Example\obj\Debug\net6.0\ref\Immutibility_Example.dll
