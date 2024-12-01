@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Immutibility_Example")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fab547315fda68e8d702bb031e4a6c1c2542cbf8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a99fff248b32322698d8a69e2b6740ab8d3e7e92")]
 [assembly: System.Reflection.AssemblyProductAttribute("Immutibility_Example")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Immutibility_Example")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
