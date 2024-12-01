@@ -1,5 +1,8 @@
-﻿class BankAccount
+﻿readonly struct BankAccount
 {
+    //not allowed as it's read only structure
+    //private  int _accountNumber;
+
     private readonly int _accountNumber;
     private readonly double _currentBalance;
 
@@ -24,10 +27,11 @@
         }
     }
 
-    public BankAccount()
-    {
+    //Structure doesn't support parameter-less constructor by-default
+    //public BankAccount()
+    //{
 
-    }
+    //}
 }
 
 class DataStorage
