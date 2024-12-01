@@ -1,8 +1,5 @@
 ﻿readonly struct BankAccount
 {
-    //not allowed as it's read only structure
-    //private  int _accountNumber;
-
     private readonly int _accountNumber;
     private readonly double _currentBalance;
 
@@ -12,10 +9,18 @@
         _currentBalance = currentBalance;
     }
 
+    //you must initialize all the fields
+    public BankAccount()
+    {
+        _accountNumber = 0;
+        _currentBalance = 0;
+    }
+
     //public properties
     //public int AccountNumber { get { return _accountNumber; } }
     //or
     public int AccountNumber { get =>  _accountNumber; init => _accountNumber = value;}
+   
     public double CurrentBalance
     {
         get => _currentBalance; init
@@ -26,12 +31,6 @@
             }
         }
     }
-
-    //Structure doesn't support parameter-less constructor by-default
-    //public BankAccount()
-    //{
-
-    //}
 }
 
 class DataStorage
