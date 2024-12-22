@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Constant_Interpolated_Strings")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+118724d48768008a151a301a96cebf0c56127876")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+125f6cf1c76364916db2fd3aedc72093c4c913bc")]
 [assembly: System.Reflection.AssemblyProductAttribute("Constant_Interpolated_Strings")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Constant_Interpolated_Strings")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

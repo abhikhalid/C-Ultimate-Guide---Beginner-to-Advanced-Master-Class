@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Index_Form_End_Operator/1.0.0": {
+        "runtime": {
+          "Index_Form_End_Operator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Index_Form_End_Operator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
