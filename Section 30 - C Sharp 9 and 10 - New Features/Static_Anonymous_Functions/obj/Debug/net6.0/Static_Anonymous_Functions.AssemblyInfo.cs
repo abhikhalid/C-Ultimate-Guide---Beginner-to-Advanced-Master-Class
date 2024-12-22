@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Static_Anonymous_Functions")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dc872af6d8cc9c795bc820413cee77ca8bf7e768")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ac2b5bed6f4dc3ccf0dcf6a16e80a0b7d08f0d8b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Static_Anonymous_Functions")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Static_Anonymous_Functions")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
