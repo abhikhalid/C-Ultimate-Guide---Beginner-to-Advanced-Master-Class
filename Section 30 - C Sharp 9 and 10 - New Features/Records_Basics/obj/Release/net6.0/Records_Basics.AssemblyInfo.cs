@@ -12,7 +12,7 @@ using System;
 using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("Records_Basics")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1635d75d07864658ba9d11304f92a3d903b45685")]
 [assembly: System.Reflection.AssemblyProductAttribute("Records_Basics")]
