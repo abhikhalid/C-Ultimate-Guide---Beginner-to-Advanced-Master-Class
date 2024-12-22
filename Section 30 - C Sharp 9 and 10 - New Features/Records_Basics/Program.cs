@@ -2,7 +2,13 @@
 {
     public record Person(string Name, int Age, Address PersonAddress);
     
-    public record Address(string city, string Country);
+    public record Address(string City, string Country)
+    {
+        public override string ToString()
+        {
+            return $"City is {City} in {Country}";
+        }
+    }
 
     class Program
     {
@@ -12,10 +18,8 @@
 
             //var (name, _, (city,Country)) = person1;
             var (name, age, (city,Country)) = person1;
+            Console.WriteLine(person1.ToString());
             
-
-            Console.WriteLine($"{name},{age},{city},{Country}");
-
             Console.ReadKey();
         }
     }
