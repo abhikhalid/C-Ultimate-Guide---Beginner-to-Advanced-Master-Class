@@ -5,10 +5,14 @@
         public string Name { get; set; }
 
         //default interface methods or virtual extension method
-        public string GetNameInUpperCase()
+        internal string GetNameInUpperCase()
         {
             return Name.ToUpper();
         }
+
+        internal string GetNameInLowerCase();
+
+        internal int GetNameLength();
     }
 
     public class Manager: IEmployee
@@ -16,16 +20,21 @@
         private string _name;
 
         public string Name { get; set; }
+
+        //Option1: You can explicitly implement non-public abstract interface methods.
+        string IEmployee.GetNameInLowerCase()
+        {
+            return Name.ToLower();
+        }
+        
+        //Option 2: You can convert the non-public abstract interface methods as 'public'
+        public int GetNameLength()
+        {
+            return Name.Length;
+        }
     }
 
-    public class Clert: IEmployee
-    {
-        private string _name;
-
-        public string Name { get; set; }
-    }
-
-
+  
     class Program
     {
         static void Main()
@@ -36,6 +45,8 @@
             IEmployee iemp = (IEmployee)manager;
 
             Console.WriteLine(iemp.GetNameInUpperCase());
+            Console.WriteLine(iemp.GetNameInLowerCase()); //can not call this method with manager obj. because the method is not public
+            Console.WriteLine(manager.GetNameLength());
             Console.ReadKey();
         }
     }
