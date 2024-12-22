@@ -1,6 +1,11 @@
 ﻿namespace records_example
 {
-    public record Person(string? Name, DateTime? DateOfBirth, int? Age)
+    public interface IPerson
+    {
+        string Name { get; init; }
+    }
+
+    public abstract record Person(string? Name, DateTime? DateOfBirth, int? Age) : IPerson
     {
         //user-defined constructor
         public Person(string name, DateTime? dateOfBirth) : this(name, dateOfBirth, null)
@@ -24,25 +29,20 @@
         }
     }
 
-        public record Address(string City, string Country)
+
+    public sealed record Employee(string? Name, DateTime? DateOfBirth, double? Salary) : Person(Name,DateOfBirth);
+
+
+    class Program
+    {
+        static void Main()
         {
-            public override string ToString()
-            {
-                return $"City is {City} in {Country}";
-            }
+            Employee emp = new Employee("Khalid",DateTime.Parse("1996-07-14"),100000);
+            Console.WriteLine(emp);
+
+            Console.ReadKey();
         }
+    }
 
-        class Program
-        {
-            static void Main()
-            {
-                Person person1 = new Person("John", DateTime.Parse("1996-07-14"));
 
-                Console.WriteLine(person1.ToString());
-
-                Console.WriteLine(person1.GetName());
-
-                Console.ReadKey();
-            }
-        }
- }
+}
