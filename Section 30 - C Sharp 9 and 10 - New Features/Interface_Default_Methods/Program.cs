@@ -4,10 +4,16 @@
     {
         public string Name { get; set; }
 
+        //private default interface methods. (Private abstract method is not allowed)
+        private string GetNameTitile()
+        {
+            return "Mr./Ms.";
+        }
+
         //default interface methods or virtual extension method
         internal string GetNameInUpperCase()
         {
-            return Name.ToUpper();
+            return GetNameTitile() + " " + Name.ToUpper();
         }
 
         internal string GetNameInLowerCase();
