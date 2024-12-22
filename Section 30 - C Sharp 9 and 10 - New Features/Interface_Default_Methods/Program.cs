@@ -4,8 +4,11 @@
     {
         public string Name { get; set; }
 
-        //private default interface methods. (Private abstract method is not allowed)
-        private string GetNameTitile()
+        //static method
+        //this method can be called with or without child classes.
+
+        //static interface method. 
+        internal static string GetNameTitile()
         {
             return "Mr./Ms.";
         }
@@ -53,6 +56,8 @@
             Console.WriteLine(iemp.GetNameInUpperCase());
             Console.WriteLine(iemp.GetNameInLowerCase()); //can not call this method with manager obj. because the method is not public
             Console.WriteLine(manager.GetNameLength());
+
+            Console.WriteLine(IEmployee.GetNameTitile()); 
             Console.ReadKey();
         }
     }
