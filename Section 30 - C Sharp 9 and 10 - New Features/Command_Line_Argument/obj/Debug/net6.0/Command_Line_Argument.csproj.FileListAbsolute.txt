@@ -1,0 +1,15 @@
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section 30 - C Sharp 9 and 10 - New Features\Command_Line_Argument\bin\Debug\net6.0\Command_Line_Argument.exe
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section 30 - C Sharp 9 and 10 - New Features\Command_Line_Argument\bin\Debug\net6.0\Command_Line_Argument.deps.json
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section 30 - C Sharp 9 and 10 - New Features\Command_Line_Argument\bin\Debug\net6.0\Command_Line_Argument.runtimeconfig.json
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section 30 - C Sharp 9 and 10 - New Features\Command_Line_Argument\bin\Debug\net6.0\Command_Line_Argument.dll
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section 30 - C Sharp 9 and 10 - New Features\Command_Line_Argument\bin\Debug\net6.0\Command_Line_Argument.pdb
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section 30 - C Sharp 9 and 10 - New Features\Command_Line_Argument\obj\Debug\net6.0\Command_Line_Argument.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section 30 - C Sharp 9 and 10 - New Features\Command_Line_Argument\obj\Debug\net6.0\Command_Line_Argument.AssemblyInfoInputs.cache
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section 30 - C Sharp 9 and 10 - New Features\Command_Line_Argument\obj\Debug\net6.0\Command_Line_Argument.AssemblyInfo.cs
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section 30 - C Sharp 9 and 10 - New Features\Command_Line_Argument\obj\Debug\net6.0\Command_Line_Argument.csproj.CoreCompileInputs.cache
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section 30 - C Sharp 9 and 10 - New Features\Command_Line_Argument\obj\Debug\net6.0\Command_Line_Argument.sourcelink.json
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section 30 - C Sharp 9 and 10 - New Features\Command_Line_Argument\obj\Debug\net6.0\Command_Line_Argument.dll
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section 30 - C Sharp 9 and 10 - New Features\Command_Line_Argument\obj\Debug\net6.0\refint\Command_Line_Argument.dll
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section 30 - C Sharp 9 and 10 - New Features\Command_Line_Argument\obj\Debug\net6.0\Command_Line_Argument.pdb
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section 30 - C Sharp 9 and 10 - New Features\Command_Line_Argument\obj\Debug\net6.0\Command_Line_Argument.genruntimeconfig.cache
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section 30 - C Sharp 9 and 10 - New Features\Command_Line_Argument\obj\Debug\net6.0\ref\Command_Line_Argument.dll
