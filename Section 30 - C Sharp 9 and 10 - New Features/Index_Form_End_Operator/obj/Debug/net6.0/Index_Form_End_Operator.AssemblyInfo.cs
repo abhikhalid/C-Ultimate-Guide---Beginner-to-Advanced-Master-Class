@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Index_Form_End_Operator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+125f6cf1c76364916db2fd3aedc72093c4c913bc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0e88c9972be85a2909d6e1c60ac0ec969b643e3a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Index_Form_End_Operator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Index_Form_End_Operator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
