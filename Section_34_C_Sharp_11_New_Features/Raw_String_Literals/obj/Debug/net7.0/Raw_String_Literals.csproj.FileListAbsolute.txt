@@ -1,0 +1,15 @@
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_34_C_Sharp_11_New_Features\Raw_String_Literals\bin\Debug\net7.0\Raw_String_Literals.exe
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_34_C_Sharp_11_New_Features\Raw_String_Literals\bin\Debug\net7.0\Raw_String_Literals.deps.json
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_34_C_Sharp_11_New_Features\Raw_String_Literals\bin\Debug\net7.0\Raw_String_Literals.runtimeconfig.json
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_34_C_Sharp_11_New_Features\Raw_String_Literals\bin\Debug\net7.0\Raw_String_Literals.dll
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_34_C_Sharp_11_New_Features\Raw_String_Literals\bin\Debug\net7.0\Raw_String_Literals.pdb
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_34_C_Sharp_11_New_Features\Raw_String_Literals\obj\Debug\net7.0\Raw_String_Literals.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_34_C_Sharp_11_New_Features\Raw_String_Literals\obj\Debug\net7.0\Raw_String_Literals.AssemblyInfoInputs.cache
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_34_C_Sharp_11_New_Features\Raw_String_Literals\obj\Debug\net7.0\Raw_String_Literals.AssemblyInfo.cs
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_34_C_Sharp_11_New_Features\Raw_String_Literals\obj\Debug\net7.0\Raw_String_Literals.csproj.CoreCompileInputs.cache
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_34_C_Sharp_11_New_Features\Raw_String_Literals\obj\Debug\net7.0\Raw_String_Literals.sourcelink.json
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_34_C_Sharp_11_New_Features\Raw_String_Literals\obj\Debug\net7.0\Raw_String_Literals.dll
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_34_C_Sharp_11_New_Features\Raw_String_Literals\obj\Debug\net7.0\refint\Raw_String_Literals.dll
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_34_C_Sharp_11_New_Features\Raw_String_Literals\obj\Debug\net7.0\Raw_String_Literals.pdb
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_34_C_Sharp_11_New_Features\Raw_String_Literals\obj\Debug\net7.0\Raw_String_Literals.genruntimeconfig.cache
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_34_C_Sharp_11_New_Features\Raw_String_Literals\obj\Debug\net7.0\ref\Raw_String_Literals.dll
