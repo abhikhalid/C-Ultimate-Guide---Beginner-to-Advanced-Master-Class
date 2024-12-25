@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_34_C_Sharp_11_New_Features\\List_Pattern\\",
+  "WorkspaceRootPath": "D:\\Coding\\Development\\C#\\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\\Section_34_C_Sharp_11_New_Features\\",
   "Documents": [],
   "DocumentGroupContainers": [
     {
@@ -8,7 +8,7 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 290,
+          "DockedWidth": 263,
           "SelectedChildIndex": -1,
           "Children": [
             {
@@ -34,7 +34,7 @@
           ]
         },
         {
-          "DockedWidth": 122,
+          "DockedWidth": 149,
           "SelectedChildIndex": -1,
           "Children": [
             {
