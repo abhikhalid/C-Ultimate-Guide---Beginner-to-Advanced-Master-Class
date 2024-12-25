@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Auto_Default_Structs/1.0.0": {
+        "runtime": {
+          "Auto_Default_Structs.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Auto_Default_Structs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
