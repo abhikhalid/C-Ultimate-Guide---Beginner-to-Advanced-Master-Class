@@ -1,0 +1,15 @@
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_34_C_Sharp_11_New_Features\List_Pattern\bin\Debug\net7.0\List_Pattern.exe
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_34_C_Sharp_11_New_Features\List_Pattern\bin\Debug\net7.0\List_Pattern.deps.json
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_34_C_Sharp_11_New_Features\List_Pattern\bin\Debug\net7.0\List_Pattern.runtimeconfig.json
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_34_C_Sharp_11_New_Features\List_Pattern\bin\Debug\net7.0\List_Pattern.dll
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_34_C_Sharp_11_New_Features\List_Pattern\bin\Debug\net7.0\List_Pattern.pdb
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_34_C_Sharp_11_New_Features\List_Pattern\obj\Debug\net7.0\List_Pattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_34_C_Sharp_11_New_Features\List_Pattern\obj\Debug\net7.0\List_Pattern.AssemblyInfoInputs.cache
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_34_C_Sharp_11_New_Features\List_Pattern\obj\Debug\net7.0\List_Pattern.AssemblyInfo.cs
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_34_C_Sharp_11_New_Features\List_Pattern\obj\Debug\net7.0\List_Pattern.csproj.CoreCompileInputs.cache
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_34_C_Sharp_11_New_Features\List_Pattern\obj\Debug\net7.0\List_Pattern.sourcelink.json
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_34_C_Sharp_11_New_Features\List_Pattern\obj\Debug\net7.0\List_Pattern.dll
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_34_C_Sharp_11_New_Features\List_Pattern\obj\Debug\net7.0\refint\List_Pattern.dll
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_34_C_Sharp_11_New_Features\List_Pattern\obj\Debug\net7.0\List_Pattern.pdb
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_34_C_Sharp_11_New_Features\List_Pattern\obj\Debug\net7.0\List_Pattern.genruntimeconfig.cache
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_34_C_Sharp_11_New_Features\List_Pattern\obj\Debug\net7.0\ref\List_Pattern.dll
