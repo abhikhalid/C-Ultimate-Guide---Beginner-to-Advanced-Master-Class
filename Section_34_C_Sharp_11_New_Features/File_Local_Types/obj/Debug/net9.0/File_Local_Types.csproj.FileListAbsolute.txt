@@ -1,0 +1,15 @@
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_34_C_Sharp_11_New_Features\File_Local_Types\bin\Debug\net9.0\File_Local_Types.exe
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_34_C_Sharp_11_New_Features\File_Local_Types\bin\Debug\net9.0\File_Local_Types.deps.json
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_34_C_Sharp_11_New_Features\File_Local_Types\bin\Debug\net9.0\File_Local_Types.runtimeconfig.json
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_34_C_Sharp_11_New_Features\File_Local_Types\bin\Debug\net9.0\File_Local_Types.dll
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_34_C_Sharp_11_New_Features\File_Local_Types\bin\Debug\net9.0\File_Local_Types.pdb
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_34_C_Sharp_11_New_Features\File_Local_Types\obj\Debug\net9.0\File_Local_Types.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_34_C_Sharp_11_New_Features\File_Local_Types\obj\Debug\net9.0\File_Local_Types.AssemblyInfoInputs.cache
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_34_C_Sharp_11_New_Features\File_Local_Types\obj\Debug\net9.0\File_Local_Types.AssemblyInfo.cs
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_34_C_Sharp_11_New_Features\File_Local_Types\obj\Debug\net9.0\File_Local_Types.csproj.CoreCompileInputs.cache
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_34_C_Sharp_11_New_Features\File_Local_Types\obj\Debug\net9.0\File_Local_Types.sourcelink.json
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_34_C_Sharp_11_New_Features\File_Local_Types\obj\Debug\net9.0\File_Local_Types.dll
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_34_C_Sharp_11_New_Features\File_Local_Types\obj\Debug\net9.0\refint\File_Local_Types.dll
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_34_C_Sharp_11_New_Features\File_Local_Types\obj\Debug\net9.0\File_Local_Types.pdb
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_34_C_Sharp_11_New_Features\File_Local_Types\obj\Debug\net9.0\File_Local_Types.genruntimeconfig.cache
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_34_C_Sharp_11_New_Features\File_Local_Types\obj\Debug\net9.0\ref\File_Local_Types.dll
