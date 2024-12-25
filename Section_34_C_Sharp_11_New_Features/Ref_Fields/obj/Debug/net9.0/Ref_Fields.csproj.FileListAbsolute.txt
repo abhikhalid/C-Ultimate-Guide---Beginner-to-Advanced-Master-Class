@@ -1,0 +1,15 @@
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_34_C_Sharp_11_New_Features\Ref_Fields\bin\Debug\net9.0\Ref_Fields.exe
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_34_C_Sharp_11_New_Features\Ref_Fields\bin\Debug\net9.0\Ref_Fields.deps.json
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_34_C_Sharp_11_New_Features\Ref_Fields\bin\Debug\net9.0\Ref_Fields.runtimeconfig.json
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_34_C_Sharp_11_New_Features\Ref_Fields\bin\Debug\net9.0\Ref_Fields.dll
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_34_C_Sharp_11_New_Features\Ref_Fields\bin\Debug\net9.0\Ref_Fields.pdb
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_34_C_Sharp_11_New_Features\Ref_Fields\obj\Debug\net9.0\Ref_Fields.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_34_C_Sharp_11_New_Features\Ref_Fields\obj\Debug\net9.0\Ref_Fields.AssemblyInfoInputs.cache
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_34_C_Sharp_11_New_Features\Ref_Fields\obj\Debug\net9.0\Ref_Fields.AssemblyInfo.cs
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_34_C_Sharp_11_New_Features\Ref_Fields\obj\Debug\net9.0\Ref_Fields.csproj.CoreCompileInputs.cache
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_34_C_Sharp_11_New_Features\Ref_Fields\obj\Debug\net9.0\Ref_Fields.sourcelink.json
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_34_C_Sharp_11_New_Features\Ref_Fields\obj\Debug\net9.0\Ref_Fields.dll
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_34_C_Sharp_11_New_Features\Ref_Fields\obj\Debug\net9.0\refint\Ref_Fields.dll
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_34_C_Sharp_11_New_Features\Ref_Fields\obj\Debug\net9.0\Ref_Fields.pdb
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_34_C_Sharp_11_New_Features\Ref_Fields\obj\Debug\net9.0\Ref_Fields.genruntimeconfig.cache
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_34_C_Sharp_11_New_Features\Ref_Fields\obj\Debug\net9.0\ref\Ref_Fields.dll
