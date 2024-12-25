@@ -1,0 +1,15 @@
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_34_C_Sharp_11_New_Features\Required_Members\bin\Debug\net9.0\Required_Members.exe
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_34_C_Sharp_11_New_Features\Required_Members\bin\Debug\net9.0\Required_Members.deps.json
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_34_C_Sharp_11_New_Features\Required_Members\bin\Debug\net9.0\Required_Members.runtimeconfig.json
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_34_C_Sharp_11_New_Features\Required_Members\bin\Debug\net9.0\Required_Members.dll
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_34_C_Sharp_11_New_Features\Required_Members\bin\Debug\net9.0\Required_Members.pdb
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_34_C_Sharp_11_New_Features\Required_Members\obj\Debug\net9.0\Required_Members.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_34_C_Sharp_11_New_Features\Required_Members\obj\Debug\net9.0\Required_Members.AssemblyInfoInputs.cache
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_34_C_Sharp_11_New_Features\Required_Members\obj\Debug\net9.0\Required_Members.AssemblyInfo.cs
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_34_C_Sharp_11_New_Features\Required_Members\obj\Debug\net9.0\Required_Members.csproj.CoreCompileInputs.cache
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_34_C_Sharp_11_New_Features\Required_Members\obj\Debug\net9.0\Required_Members.sourcelink.json
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_34_C_Sharp_11_New_Features\Required_Members\obj\Debug\net9.0\Required_Members.dll
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_34_C_Sharp_11_New_Features\Required_Members\obj\Debug\net9.0\refint\Required_Members.dll
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_34_C_Sharp_11_New_Features\Required_Members\obj\Debug\net9.0\Required_Members.pdb
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_34_C_Sharp_11_New_Features\Required_Members\obj\Debug\net9.0\Required_Members.genruntimeconfig.cache
+D:\Coding\Development\C#\C_Sharp-Ultimate-Guide-Beginner-to-Advanced-Master-Class\Section_34_C_Sharp_11_New_Features\Required_Members\obj\Debug\net9.0\ref\Required_Members.dll
